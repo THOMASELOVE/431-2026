@@ -1,0 +1,275 @@
+[
+  {
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "Software for 431",
+    "section": "",
+    "text": "The course makes heavy use of the R statistical programming language, and several related tools, most especially the RStudio development environment. Every bit of this software is free to use, and open-source.\nYou will need access to a computer to do your work for this class, not just an iPad or other tablet, but an actual computer. You do not need a state of the art machine, nor should you need any special hardware to run things for this course."
+  },
+  {
+    "objectID": "software.html#installing-r-and-r-studio",
+    "href": "software.html#installing-r-and-r-studio",
+    "title": "Software for 431",
+    "section": "Installing R and R Studio",
+    "text": "Installing R and R Studio\nThe steps you need to complete are:\n\nDownload and install the latest version of R (version 4.5.1 or later) from https://cran.case.edu/ or, if you prefer, from https://cloud.r-project.org/ which automatically chooses a fast, nearby mirror for you.\n\nIf you have a pre-existing installation of R and/or RStudio, we highly recommend that you re-install both to get current.\n\nDownload and install RStudio Desktop (Open Source Edition - the free version 2025.05.1+513 or later) by visiting https://posit.co/download/rstudio-desktop/."
+  },
+  {
+    "objectID": "software.html#installing-r-packages-and-datacode-for-431",
+    "href": "software.html#installing-r-packages-and-datacode-for-431",
+    "title": "Software for 431",
+    "section": "Installing R Packages and Data/Code for 431",
+    "text": "Installing R Packages and Data/Code for 431\nAfter you’ve completed steps 1 and 2 above, move on to these tasks:\n\nInstall some R packages - an R “package” is a collection of functions, data, and documentation that extends the capabilities of R, and is the critical way to get R doing interesting work.\n\nVisit https://github.com/THOMASELOVE/431-packages for details and the list of packages we’ll be using in 431.\n\nDownload data and code (functions) we’ve developed specifically for 431 at https://github.com/THOMASELOVE/431-data. Follow the instructions you’ll find there."
+  },
+  {
+    "objectID": "software.html#need-installation-help",
+    "href": "software.html#need-installation-help",
+    "title": "Software for 431",
+    "section": "Need Installation Help?",
+    "text": "Need Installation Help?\nIf you need more help, you might look at this terrific resource for Installing R and RStudio from Jenny Bryan and the STAT 545 project. These are the people responsible for the great Happy Git with R project, which will also be worth your time when we are using Git and GitHub.\n\nIf you’re having trouble with installation before our first class, don’t worry too much. The TAs and Professor Love will be available to help once the class gets going.\nOnce the class starts, if you’re having installation problems or problems getting started in R, please consider visiting TA office hours or perhaps asking a question on Campuswire. We want to hear from you!"
+  },
+  {
+    "objectID": "software.html#updating-your-r-packages",
+    "href": "software.html#updating-your-r-packages",
+    "title": "Software for 431",
+    "section": "Updating Your R Packages",
+    "text": "Updating Your R Packages\nEvery once in a while, it’s a good idea to update your R packages. To do so,\n\nGo to the Packages tab on the right side of your RStudio screen, and click on Update.\nThis will bring up a dialog box. I usually click Select All, then click Install Updates.\n\nA popup box may appear, asking “Do you want to install from sources the packages which need compilation?” to which I usually answer No. A Yes response leads to a slower installation, but can solve problems if you still have them after updating.\nThis may take a few minutes. As long as you’re seeing activity in the Console window, things are progressing.\nEventually, you’ll get a message that “The downloaded source packages are in …” with a directory name. That’s the sign that the updating is done.\nUpdating packages is something you’ll do occasionally throughout the semester, mostly when a problem happens.\n\nFinally, choose File … Quit Session from the top menu, and accept or deny (I usually deny) RStudio’s request to save your workspace. Then close RStudio, and re-open it if you want to do some work."
+  },
+  {
+    "objectID": "software.html#getting-better-at-r-rstudio-and-quarto",
+    "href": "software.html#getting-better-at-r-rstudio-and-quarto",
+    "title": "Software for 431",
+    "section": "Getting Better at R, RStudio and Quarto",
+    "text": "Getting Better at R, RStudio and Quarto\nThese resources are found on our Resources page"
+  },
+  {
+    "objectID": "ph.html",
+    "href": "ph.html",
+    "title": "This page is under construction.",
+    "section": "",
+    "text": "This page is under construction.\nWe will post almost all class materials for 431 before the class begins on 2025-09-02. Missing things and dead links should be resolved by that date. If you have questions, contact Dr. Love at Thomas dot Love at case dot edu.\nThe first class session begins on Tuesday 2025-09-02 at 1 PM."
+  },
+  {
+    "objectID": "google.html",
+    "href": "google.html",
+    "title": "Shared Google Drive for Dr. Love and Students in 431",
+    "section": "",
+    "text": "Shared Google Drive for Dr. Love and Students in 431\nThe Shared Google Drive for this class will appear to you on 2025-09-01.\n\nEveryone taking the class will (eventually) need to access this drive and some of the materials stored on it.\n\nTo reach the shared Google Drive once September 1 has arrived…\n\nLog into CWRU in the usual way, as you would to view your email.\nClick on the grid of nine dots (3x3) at the top right of your screen (near your CWRU name) to look at the available tools you have.\nClick on Drive.\nClick on Shared drives on the left side of the screen below the My Drive folder.\nSelect the drive called 431 Fall 2025 Materials for Students and Dr Love, if you see it.\n\nContact Dr. Love at Thomas dot Love at case dot edu if you have any questions."
+  },
+  {
+    "objectID": "calendar.html",
+    "href": "calendar.html",
+    "title": "Course Calendar",
+    "section": "",
+    "text": "All class sessions will be held from 1:00 to 2:15 PM in Room E321-323 on the third floor of the Robbins building at CWRU’s School of Medicine.\nReadings come from:"
+  },
+  {
+    "objectID": "calendar.html#august",
+    "href": "calendar.html#august",
+    "title": "Course Calendar",
+    "section": "August",
+    "text": "August\n\n\n\nClass\nDay\nDate\nDetails\n\n\n\n\n[Class 01]\nTU\n2026-08-25\n\n\n\ndeadline\nW\n2026-08-26\nWelcome to 431 Survey due at noon\n\n\n[Class 02]\nTH\n2026-08-27"
+  },
+  {
+    "objectID": "calendar.html#september",
+    "href": "calendar.html#september",
+    "title": "Course Calendar",
+    "section": "September",
+    "text": "September\n\n\n\n\n\n\n\n\n\nClass\nDay\nDate\nDetails\n\n\n\n\n[Class 03]\nTU\n2026-09-01\n\n\n\ndeadline\nW\n2026-09-02\n[Minute Paper] after Class 03 due at noon\n\n\n[Class 04]\nTH\n2026-09-03\n\n\n\n[Class 05]\nTU\n2026-09-08\n\n\n\ndeadline\nW\n2026-09-09\n[Minute Paper] after Class 05 due at noon\n\n\n[Class 06]\nTH\n2026-09-10\n\n\n\n[Class 07]\nTU\n2026-09-15\n\n\n\ndeadline\nW\n2026-09-16\n[Minute Paper] after Class 07 due at noon\n\n\n[Class 08]\nTH\n2026-09-17\n\n\n\n[Class 09]\nTU\n2026-09-22\n\n\n\ndeadline\nW\n2026-09-23\n[Minute Paper] after Class 09 due at noon\n\n\n[Class 10]\nTH\n2026-09-24\n\n\n\n[Class 11]\nTU\n2026-09-29\n\n\n\ndeadline\nW\n2026-09-30\n[Minute Paper] after Class 11 due at noon"
+  },
+  {
+    "objectID": "calendar.html#october",
+    "href": "calendar.html#october",
+    "title": "Course Calendar",
+    "section": "October",
+    "text": "October\n\n\n\n\n\n\n\n\n\nClass\nDay\nDate\nDetails\n\n\n\n\n[Class 12]\nTH\n2026-10-01\n\n\n\n[Class 13]\nTU\n2026-10-06\n\n\n\ndeadline\nW\n2026-10-07\n[Minute Paper] after Class 13 due at noon\n\n\n[Class 14]\nTH\n2026-10-08\n\n\n\n[Class 15]\nTU\n2026-10-13\n\n\n\ndeadline\nW\n2026-10-14\n[Minute Paper] after Class 15 due at noon\n\n\n[Class 16]\nTH\n2026-10-15\n\n\n\n–\nTU\n2026-10-20\nCWRU Fall Break (no 431 today)\n\n\n[Class 17]\nTH\n2026-10-22\n\n\n\n[Class 18]\nTU\n2026-10-27\n\n\n\ndeadline\nW\n2026-10-28\n[Minute Paper] after Class 18 due at noon\n\n\n[Class 19]\nTH\n2026-10-29"
+  },
+  {
+    "objectID": "calendar.html#november",
+    "href": "calendar.html#november",
+    "title": "Course Calendar",
+    "section": "November",
+    "text": "November\n\n\n\n\n\n\n\n\n\nClass\nDay\nDate\nDetails\n\n\n\n\n–\nTU\n2026-11-03\nElection Day (no 431 today, though CWRU is in session)\n\n\n[Class 20]\nTH\n2026-11-05\n\n\n\n[Class 21]\nTU\n2026-11-10\n\n\n\ndeadline\nW\n2026-11-11\n[Minute Paper] after Class 21 due at noon\n\n\n[Class 22]\nTH\n2026-11-12\n\n\n\n[Class 23]\nTU\n2026-11-17\n\n\n\ndeadline\nW\n2026-11-18\n[Minute Paper] after Class 23 due at noon\n\n\n[Class 24]\nTH\n2026-11-19\n\n\n\n–\nTU\n2026-11-24\nThanksgiving week (no 431 today, though CWRU is in session)\n\n\n–\nTH\n2026-11-26\nCWRU Thanksgiving Break (no 431 today)"
+  },
+  {
+    "objectID": "calendar.html#december",
+    "href": "calendar.html#december",
+    "title": "Course Calendar",
+    "section": "December",
+    "text": "December\n\n\n\n\n\n\n\n\n\nClass\nDay\nDate\nDetails\n\n\n\n\n[Class 25]\nTU\n2026-12-01\n\n\n\ndeadline\nW\n2026-12-02\n[Minute Paper] after Class 25 due at noon\n\n\n[Class 26]\nTH\n2026-12-03"
+  },
+  {
+    "objectID": "calendar.html#end-of-semester-presentations",
+    "href": "calendar.html#end-of-semester-presentations",
+    "title": "Course Calendar",
+    "section": "End of Semester Presentations",
+    "text": "End of Semester Presentations\n\n\n\nDay\nDate\nTimes\nDetails\n\n\n\n\nFR\n2026-12-03\nTBD\nto come.\n\n\nMO\n2026-12-07\nTBD\nto come.\n\n\nTU\n2026-12-08\nTBD\nto come.\n\n\nTH\n2026-12-10\nTBD\nto come."
+  },
+  {
+    "objectID": "calendar.html#old-stuff-follows",
+    "href": "calendar.html#old-stuff-follows",
+    "title": "Course Calendar",
+    "section": "OLD STUFF FOLLOWS",
+    "text": "OLD STUFF FOLLOWS\n\n\n\nClass\nDay\nDate\nAdditional Information\n\n\n\n\nClass 01\nTU\n2025-09-02\nGetting Started (TEL 1-2)\n\n\ndeadline\nW\n2025-09-03\nWelcome to 431 Survey due at noon\n\n\nClass 02\nTH\n2025-09-04\nData Visualization and Summary (TEL 2-3)\n\n\nreading\n–\nby Class 03\nSpiegelhalter: Introduction and Chapter 1  R4DS: Introduction and as much of “Whole game” as possible  skim through the Project A instructions  read the Lab 1 instructions\n\n\nClass 03\nTU\n2025-09-09\nData Wrangling (TEL 4)\n\n\ndeadline\nW\n2025-09-10\nMinute Paper after 09-09 due at noon\n\n\nClass 04\nTH\n2025-09-11\nSome Exploratory Questions\n\n\nreading\n–\nby Class 5\nSpiegelhalter: Chapters 2 and 3  R4DS: remainder of “Whole game” (Sections 1-8)  get going on Project A Data work\n\n\nClass 05\nTU\n2025-09-16\nComparing Means (TEL 5-6)\n\n\ndeadline\nW\n2025-09-17\nLab 1 due at noon  Minute Paper after 09-16 due at noon\n\n\nClass 06\nTH\n2025-09-18\nTransformation (TEL 7)\n\n\nreading\n–\nby Class 7\nSpiegelhalter: Chapter 5  R4DS: “Visualize” sections, especially sections 10 and 11  Finish the Project A Data work and start the Plan.  Review the Lab X instructions and perhaps get started.\n\n\nClass 07\nTU\n2025-09-23\nComparing Multiple Groups (TEL 8)\n\n\ndeadline\nW\n2025-09-24\nLab 2 due at noon  Minute Paper after 09-23 due at noon\n\n\nClass 08\nTH\n2025-09-25\nOne-Factor Analysis of Variance (TEL 9)\n\n\nreading\n–\nby Class 09\nSpiegelhalter: Chapter 7  R4DS: Sections 16 (Factors) and 28 (Quarto)  Complete the Project A Plan: due Wednesday!\n\n\nClass 09\nTU\n2025-09-30\nTransformations in ANOVA (TEL 8-9)"
+  },
+  {
+    "objectID": "calendar.html#october-1",
+    "href": "calendar.html#october-1",
+    "title": "Course Calendar",
+    "section": "October",
+    "text": "October\n\n\n\nClass\nDay\nDate\nAdditional Information\n\n\n\n\ndeadline\nW\n2025-10-01\nProject A Plan due at noon\n\n\nClass 10\nTH\n2025-10-02\nSimple Linear Regression and Correlation (TEL 10-11)\n\n\nreading\n–\nby Class 11\nSpiegelhalter: Chapter 8\n\n\nClass 11\nTU\n2025-10-07\nCIs for Proportions, Two-by-Two Tables (TEL 13)\n\n\ndeadline\nW\n2025-10-08\nLab 3 due at noon  Minute Paper after 10-07 due at noon\n\n\nClass 12\nTH\n2025-10-09\nLarger Two-Way Cross-Classifications (TEL 14)\n\n\ndeadline\nF\n2025-10-10\nRevisions for Project A Plan (for 12 groups)  due to Canvas at 10 AM (Note special time)\n\n\nreading\n–\nby Class 13\nSpiegelhalter: Chapter 9  get started on Project A Analyses\n\n\nClass 13\nTU\n2025-10-14\nWhat’s wrong with Statistical Significance?\n\n\ndeadline\nW\n2025-10-15\nLab 4 due at noon  Minute Paper after 10-14 due at noon\n\n\nClass 14\nTH\n2025-10-16\nLinear Regression Analyses  Quiz 1 made available by 3 PM\n\n\nreading\n–\nby Class 15\nSpiegelhalter: Chapter 10  If you haven’t already done Lab X now might be a good time.\n\n\n–\nM\n2025-10-20\nCWRU Fall Break - TA office hours canceled.\n\n\n–\nTU\n2025-10-21\nCWRU Fall Break - no 431 class, and TA office hours canceled.\n\n\ndeadline\nW\n2025-10-22\nQuiz 1 due at noon\n\n\nClass 15\nTH\n2025-10-23\nCatch Up and Ask Me Anything / Project A Help Session over Zoom\n\n\ndeadline\nF\n2025-10-24\nFavorite Movies Survey due at 10 AM.\n\n\nreading\n–\nby Class 16\nSpiegelhalter: Chapter 11  complete the Project A Portfolio report\n\n\nClass 16\nTU\n2025-10-28\nMaking Adjustments (TEL 15)\n\n\ndeadline\nW\n2025-10-29\nProject A Portfolio due at noon  Minute Paper after 10-28 due at noon\n\n\nClass 17\nTH\n2025-10-30\nDealing with Missing Data (TEL 16)"
+  },
+  {
+    "objectID": "calendar.html#november-1",
+    "href": "calendar.html#november-1",
+    "title": "Course Calendar",
+    "section": "November",
+    "text": "November\n\n\n\nClass\nDay\nDate\nAdditional Information\n\n\n\n\nClass 18\nTU\n2025-11-04\nTwo-Factor Analysis of Variance (TEL 18)\n\n\ndeadline\nW\n2025-11-05\nLab 5 due at noon  Minute Paper after 11-04 due at noon\n\n\nClass 19\nTH\n2025-11-06\nMultiple Linear Regression, 1 (TEL 17)\n\n\nreading\n–\nby Class 20\nSpiegelhalter: Chapter 13\n\n\nClass 20\nTU\n2025-11-11\nMultiple Linear Regression, 2 (TEL 19)\n\n\ndeadline\nW\n2025-11-12\nProject B Registration Form due at noon  Minute Paper after 11-11 due at noon\n\n\nClass 21\nTH\n2025-11-13\nMultiple Linear Regression, 3 (TEL 19-20)\n\n\n–\nF\n2025-11-14\nSchedule for Project B Presentations announced\n\n\nreading\n–\nby Class 22\nSpiegelhalter: Chapter 4  Remember that Lab X is due in early December.\n\n\nClass 22\nTU\n2025-11-18\nMultiple Linear Regression, 4 (TEL 19-21)\n\n\ndeadline\nW\n2025-11-19\nLab 6 due at noon  Minute Paper after 11-18 due at noon\n\n\nClass 23\nTH\n2025-11-20\nMultiple Linear Regression, 5 (TEL 19-21)  Quiz 2 made available by 3 PM\n\n\n–\nFR\n2025-11-21\nLast Day for TA office hours until 2025-11-29\n\n\n–\nTU\n2025-11-25\nNo 431 Class\n\n\n–\nTH\n2025-11-27\nNo 431 Class. Thanksgiving Break at CWRU\n\n\n–\nSA\n2025-11-29\nTA office hours resume\n\n\nreading\n–\nby Class 24\nSpiegelhalter: rest of book (chapters 6 and 14)"
+  },
+  {
+    "objectID": "calendar.html#december-1",
+    "href": "calendar.html#december-1",
+    "title": "Course Calendar",
+    "section": "December",
+    "text": "December\n\n\n\nClass\nDay\nDate\nAdditional Information\n\n\n\n\nClass 24\nTU\n2025-12-02\nRobust Linear Models\n\n\ndeadline\nW\n2025-12-03\nQuiz 2 due at noon\n\n\n–\nW\n2025-12-03\nProject B Presentation Schedule  3 Zoom presentations, at 9 AM, 10:30 AM, 2:30 PM\n\n\nClass 25\nTH\n2025-12-04\nQuiz 2 Review and Final Class  Project B Presentation Schedule  5 in-person presentations from 9:50 AM to 12:15 PM  and 3 more via Zoom from 3:55 PM to 5:15 PM\n\n\n–\nF\n2025-12-05\nProject B Presentation Schedule  9 Zoom talks: 11:25 AM to 12:45 PM and 1:55 PM to 4:45 PM\n\n\n–\nM\n2025-12-08\nProject B Presentation Schedule  14 Zoom talks: 8:50 AM to 12:45 PM and 2:40 PM to 5:15 PM\n\n\n–\nTU\n2025-12-09\nLast Day for TA office hours  Project B Presentation Schedule  7 in-person presentations:  11:20 AM to 12:15 PM and 12:50 PM to 3:15 PM\n\n\ndeadline\nW\n2025-12-10\nAll Project B Materials due at noon.  Lab X due at noon.  Lab Regrade Request Form (optional) also due at noon."
+  },
+  {
+    "objectID": "calendar.html#getting-help",
+    "href": "calendar.html#getting-help",
+    "title": "Course Calendar",
+    "section": "Getting Help",
+    "text": "Getting Help\nVisit the Contact Us page for ways to get help in this class."
+  },
+  {
+    "objectID": "calendar.html#ta-office-hours",
+    "href": "calendar.html#ta-office-hours",
+    "title": "Course Calendar",
+    "section": "TA Office Hours",
+    "text": "TA Office Hours\nTA office hours are held via Zoom, and will begin on Wednesday 2025-09-03 and will continue through Tuesday 2025-12-09.\nOur Shared Google Drive (431 Fall 2025 Dr Love and Students) will display Zoom links for all TA office hours in a document called TA office hours schedule and Zoom links. No appointment is necessary. Please just drop in.\n\n\n\n\n\n\n\nDATE\nTIME(S) (All times Eastern)\n\n\n\n\nMONDAYS\n11:45 AM to 12:45 PM, 3:00 PM to 4:30 PM, 6:00 PM to 10:30 PM\n\n\nTUESDAYS\n11:45 AM to 12:45 PM, 7:00 PM to 10:00 PM\n\n\nWEDNESDAYS\n11:30 AM to 1:00 PM\n\n\nTHURSDAYS\n11:45 AM to 12:45 PM, 7:00 PM to 10:00 PM\n\n\nFRIDAYS\n11:45 AM to 12:45 PM, 3:30 PM to 5:00 PM, 9:00 PM to 10:30 PM\n\n\nSATURDAYS\n10:30 AM to Noon, 7:30 PM to 9:00 PM\n\n\nSUNDAYS\n7:00 PM to 10:00 PM\n\n\n\n\nIf you have a question you want to pose via email about the course (especially outside of TA office hour times), you can send it to 431-help at case dot edu. Dr. Love and the TAs will see this email, and should usually respond fairly quickly.\nIn addition, Professor Love will also hold “drop-in hours” for 10 minutes before and for 30 minutes after each class on Tuesdays and Thursdays.\nTA Office hours are canceled on 2025-10-20 and 2025-10-21 (Fall Break) and from 2025-11-22 through 2025-11-28 (Thanksgiving)\nMore information on each of this semester’s TAs is found in our Syllabus."
+  },
+  {
+    "objectID": "assignments.html",
+    "href": "assignments.html",
+    "title": "Assignments for 431 in Fall 2025",
+    "section": "",
+    "text": "This page links to all instructions and other information about course assignments. All deadlines are found on the Course Calendar."
+  },
+  {
+    "objectID": "assignments.html#labs",
+    "href": "assignments.html#labs",
+    "title": "Assignments for 431 in Fall 2025",
+    "section": "Labs",
+    "text": "Labs\nThe general page for all 431 Labs is here.\nTwo special assignments are:\n\nWelcome to 431 Survey\n\nNote: You must log into Google via CWRU in order to access the Survey.\nThis assignment is due on the day after our first class, but do it now.\n\nLab X (Developing a Personal Website) on Github (you can start and even complete this now, but it isn’t due until late in the semester)\n\nThe six main labs are found at:\n\nLab 1 page on Github\nLab 2 page on Github\nLab 3 page on Github\nLab 4 page on Github\nLab 5 page on Github\nLab 6 page on Github"
+  },
+  {
+    "objectID": "assignments.html#minute-papers",
+    "href": "assignments.html#minute-papers",
+    "title": "Assignments for 431 in Fall 2025",
+    "section": "Minute Papers",
+    "text": "Minute Papers\n\nMinute Papers page on Github"
+  },
+  {
+    "objectID": "assignments.html#quizzes",
+    "href": "assignments.html#quizzes",
+    "title": "Assignments for 431 in Fall 2025",
+    "section": "Quizzes",
+    "text": "Quizzes\nThe general page for both 431 Quizzes is here. We’ll post links to each specific quiz page below as they become available.\n\nQuiz 1 page on Github\nQuiz 2 page on Github"
+  },
+  {
+    "objectID": "assignments.html#projects",
+    "href": "assignments.html#projects",
+    "title": "Assignments for 431 in Fall 2025",
+    "section": "Projects",
+    "text": "Projects\n\nThe Project A page provides instructions and materials related to Project A.\nThe Project B page provides instructions and materials related to Project B."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact Us",
+    "section": "",
+    "text": "If you have any questions before class begins, email Professor Love at thomas dot love at case dot edu."
+  },
+  {
+    "objectID": "contact.html#before-the-class-begins-on-2025-09-02",
+    "href": "contact.html#before-the-class-begins-on-2025-09-02",
+    "title": "Contact Us",
+    "section": "",
+    "text": "If you have any questions before class begins, email Professor Love at thomas dot love at case dot edu."
+  },
+  {
+    "objectID": "contact.html#once-the-class-begins",
+    "href": "contact.html#once-the-class-begins",
+    "title": "Contact Us",
+    "section": "Once the Class Begins",
+    "text": "Once the Class Begins\nIf you’ve spent 15 minutes working on something and are stuck, don’t keep working on it. ASK FOR HELP. To get help in this course, you have three main options\n\nAsk a TA for help during their office hours,\nsend an email to 431-help at case dot edu, or\nask Dr. Love for help before or after class."
+  },
+  {
+    "objectID": "contact.html#ta-office-hours",
+    "href": "contact.html#ta-office-hours",
+    "title": "Contact Us",
+    "section": "TA Office Hours",
+    "text": "TA Office Hours\nTA office hours are held via Zoom, and will begin on Wednesday 2025-09-03 and will continue through Tuesday 2025-12-09.\nOur Shared Google Drive (431 Fall 2025 Dr Love and Students) will display Zoom links for all TA office hours in a document called TA office hours schedule and Zoom links. No appointment is necessary. Please just drop in.\n\n\n\n\n\n\n\nDATE\nTIME(S) (All times Eastern)\n\n\n\n\nMONDAYS\n11:45 AM to 12:45 PM, 3:00 PM to 4:30 PM, 6:00 PM to 10:30 PM\n\n\nTUESDAYS\n11:45 AM to 12:45 PM, 7:00 PM to 10:00 PM\n\n\nWEDNESDAYS\n11:30 AM to 1:00 PM\n\n\nTHURSDAYS\n11:45 AM to 12:45 PM, 7:00 PM to 10:00 PM\n\n\nFRIDAYS\n11:45 AM to 12:45 PM, 3:30 PM to 5:00 PM, 9:00 PM to 10:30 PM\n\n\nSATURDAYS\n10:30 AM to Noon, 7:30 PM to 9:00 PM\n\n\nSUNDAYS\n7:00 PM to 10:00 PM\n\n\n\n\nTA Office hours are canceled on 2025-10-20 and 2025-10-21 (Fall Break) and from 2025-11-22 through 2025-11-28 (Thanksgiving)\nMore information on each of this semester’s TAs is found in our Syllabus."
+  },
+  {
+    "objectID": "contact.html#does-dr.-love-hold-office-hours",
+    "href": "contact.html#does-dr.-love-hold-office-hours",
+    "title": "Contact Us",
+    "section": "Does Dr. Love hold Office Hours?",
+    "text": "Does Dr. Love hold Office Hours?\nProfessor Love holds “drop-in hours” for 10 minutes before and for 30 minutes after each class on Tuesdays and Thursdays."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "431 Course Main Page: Fall 2026",
+    "section": "",
+    "text": "431 is the first part of a two-semester sequence (with 432) in applied statistics and data science taught by Professor Thomas Love in the Department of Population and Quantitative Health Sciences at Case Western Reserve University.\n\n\nYour first few steps in this course are to:\n\nRegister and enroll via the CWRU Student Information System (SIS).\n\nBe sure to register for PQHS 431 (Section 100) unless you are part of the Clinical Research Scholars Program (in which case, register for CRSP 431) or you are part of the MPH program (in which case, register for MPHP 431.)\n\nTake a look at this website. Of particular importance is the Getting Started section you’re reading now, and the Course Calendar, but a lot of other material is available now, and more will appear as we approach the first day of this class, which will be on Tuesday August 25.\nObtain a copy of David Spiegelhalter’s The Art of Statistics: How to Learn from Data, originally published in 2020 and available at all major book retailers for less than $20.\nVisit https://bit.ly/431-2026-welcome to complete the Welcome to 431 Survey, which is your first assignment.\n\nNote: You must log into Google via CWRU in order to access the Survey.\nThe survey is technically due at noon on Wednesday 2026-08-26, but should be completed as soon as you can\n\nBefore our first class, I also suggest you get started reading the first few sections (particularly the Introduction and Sections 1-2) of the online book R for Data Science, 2nd Edition.\nBefore our third class, on September 1, you’ll need to get R and RStudio on a computer you can control (including installing regular updates to the software) for the semester.\n\nPlease start this process now - installation details are found on our 431 Software page.\n\nPlease visit this link for information on how to record a pronunciation of your full name in the Student Information System so that all of your instructors (and fellow students) will be able to hear it.\nAfter our first class (August 25), you will need to log into Google Drive via your CWRU account and ensure that you have access to a Shared Drive called 431 Fall 2026 Students and Dr. Love.\n\n\n\n\nMaterials you will find include:\n\nthe course syllabus,\nthe course calendar, which is the final word on all deadlines, and also links to all materials used in each class session,\nDr. Love’s 431 book entitled “Applied Statistics and R Foundations for 431”, which is a major source of course examples,\ndetailed information on all course assignments, with all deadlines found in the calendar,\ninformation on software, including installation instructions for R, RStudio, and the key R packages and data sets we’ll use,\nsuggested R/RStudio/Quarto learning resources,\nand information on how to contact us.\n\n\n\n\nClass will be held on Tuesdays and Thursdays from 1:00 - 2:15 PM in Room E321-E323 at CWRU’s School of Medicine, starting on 2026-08-25.\n\n\n\nIf you have any questions, contact Professor Love at thomas dot love at case dot edu.\nThank you."
+  },
+  {
+    "objectID": "index.html#getting-started",
+    "href": "index.html#getting-started",
+    "title": "431 Course Main Page: Fall 2026",
+    "section": "",
+    "text": "Your first few steps in this course are to:\n\nRegister and enroll via the CWRU Student Information System (SIS).\n\nBe sure to register for PQHS 431 (Section 100) unless you are part of the Clinical Research Scholars Program (in which case, register for CRSP 431) or you are part of the MPH program (in which case, register for MPHP 431.)\n\nTake a look at this website. Of particular importance is the Getting Started section you’re reading now, and the Course Calendar, but a lot of other material is available now, and more will appear as we approach the first day of this class, which will be on Tuesday August 25.\nObtain a copy of David Spiegelhalter’s The Art of Statistics: How to Learn from Data, originally published in 2020 and available at all major book retailers for less than $20.\nVisit https://bit.ly/431-2026-welcome to complete the Welcome to 431 Survey, which is your first assignment.\n\nNote: You must log into Google via CWRU in order to access the Survey.\nThe survey is technically due at noon on Wednesday 2026-08-26, but should be completed as soon as you can\n\nBefore our first class, I also suggest you get started reading the first few sections (particularly the Introduction and Sections 1-2) of the online book R for Data Science, 2nd Edition.\nBefore our third class, on September 1, you’ll need to get R and RStudio on a computer you can control (including installing regular updates to the software) for the semester.\n\nPlease start this process now - installation details are found on our 431 Software page.\n\nPlease visit this link for information on how to record a pronunciation of your full name in the Student Information System so that all of your instructors (and fellow students) will be able to hear it.\nAfter our first class (August 25), you will need to log into Google Drive via your CWRU account and ensure that you have access to a Shared Drive called 431 Fall 2026 Students and Dr. Love."
+  },
+  {
+    "objectID": "index.html#everything-will-appear-on-this-website",
+    "href": "index.html#everything-will-appear-on-this-website",
+    "title": "431 Course Main Page: Fall 2026",
+    "section": "",
+    "text": "Materials you will find include:\n\nthe course syllabus,\nthe course calendar, which is the final word on all deadlines, and also links to all materials used in each class session,\nDr. Love’s 431 book entitled “Applied Statistics and R Foundations for 431”, which is a major source of course examples,\ndetailed information on all course assignments, with all deadlines found in the calendar,\ninformation on software, including installation instructions for R, RStudio, and the key R packages and data sets we’ll use,\nsuggested R/RStudio/Quarto learning resources,\nand information on how to contact us."
+  },
+  {
+    "objectID": "index.html#class-starts-tuesday-2026-08-25-at-1-pm",
+    "href": "index.html#class-starts-tuesday-2026-08-25-at-1-pm",
+    "title": "431 Course Main Page: Fall 2026",
+    "section": "",
+    "text": "Class will be held on Tuesdays and Thursdays from 1:00 - 2:15 PM in Room E321-E323 at CWRU’s School of Medicine, starting on 2026-08-25."
+  },
+  {
+    "objectID": "index.html#questions",
+    "href": "index.html#questions",
+    "title": "431 Course Main Page: Fall 2026",
+    "section": "",
+    "text": "If you have any questions, contact Professor Love at thomas dot love at case dot edu.\nThank you."
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Supplemental Resources for 431",
+    "section": "",
+    "text": "While I will recommend dozens, perhaps hundreds of articles, blog posts and the like to you over the course of the year, these are especially important in 431.\n\nSeveral of the guides prepared by Jeff Leek and his group, including:\n\nFinally, a Formula for Decoding Health News, from fivethirtyeight.com\nReading academic (scientific) papers,\nWriting your first academic paper\nWrite papers like a modern scientist\nHow to Share Data for Collaboration by Shannon E. Ellis and Jeffrey T. Leek in The American Statistician, 2018 Special Issue on Data Science, or you can read the PeerJ preprint version here.\n\nData Organization in Spreadsheets by Karl W. Broman and Kara H. Woo in The American Statistician, 2018 Special Issue on Data Science, or you can read the PeerJ preprint version.\n\nThe Ellis/Leek and Broman/Woo papers are part of the Practical Data Science for Stats collection, which may be of interest.\n\nProject-oriented workflow at tidyverse.org from Jenny Bryan.\nFrom the Ten Simple Rules series at PLOS Computational Biology:\n\nTen Simple Rules for Effective Statistical Practice by Kass RE et al. 2016\nTen Simple Rules for Graduate Students by Gu J Bourne PE 2007\nTen Simple Rules for Better Figures by Rougier NP Droettboom M Bourne PE 2014\nTen Simple Rules for Creating a Good Data Management Plan by Michener WK 2015\n\nStatistical Inference in the 21st Century: A World Beyond p &lt; 0.05 from 2019 in The American Statistician\nThe American Statistical Association’s 2016 Statement on p-Values: Context, Process and Purpose.\n\nProfessor Love’s class-specific READMEs will provide links to these articles and other recommended readings as the semester goes on."
+  },
+  {
+    "objectID": "resources.html#key-articles-and-posts",
+    "href": "resources.html#key-articles-and-posts",
+    "title": "Supplemental Resources for 431",
+    "section": "",
+    "text": "While I will recommend dozens, perhaps hundreds of articles, blog posts and the like to you over the course of the year, these are especially important in 431.\n\nSeveral of the guides prepared by Jeff Leek and his group, including:\n\nFinally, a Formula for Decoding Health News, from fivethirtyeight.com\nReading academic (scientific) papers,\nWriting your first academic paper\nWrite papers like a modern scientist\nHow to Share Data for Collaboration by Shannon E. Ellis and Jeffrey T. Leek in The American Statistician, 2018 Special Issue on Data Science, or you can read the PeerJ preprint version here.\n\nData Organization in Spreadsheets by Karl W. Broman and Kara H. Woo in The American Statistician, 2018 Special Issue on Data Science, or you can read the PeerJ preprint version.\n\nThe Ellis/Leek and Broman/Woo papers are part of the Practical Data Science for Stats collection, which may be of interest.\n\nProject-oriented workflow at tidyverse.org from Jenny Bryan.\nFrom the Ten Simple Rules series at PLOS Computational Biology:\n\nTen Simple Rules for Effective Statistical Practice by Kass RE et al. 2016\nTen Simple Rules for Graduate Students by Gu J Bourne PE 2007\nTen Simple Rules for Better Figures by Rougier NP Droettboom M Bourne PE 2014\nTen Simple Rules for Creating a Good Data Management Plan by Michener WK 2015\n\nStatistical Inference in the 21st Century: A World Beyond p &lt; 0.05 from 2019 in The American Statistician\nThe American Statistical Association’s 2016 Statement on p-Values: Context, Process and Purpose.\n\nProfessor Love’s class-specific READMEs will provide links to these articles and other recommended readings as the semester goes on."
+  },
+  {
+    "objectID": "resources.html#getting-better-at-r-rstudio-and-quarto",
+    "href": "resources.html#getting-better-at-r-rstudio-and-quarto",
+    "title": "Supplemental Resources for 431",
+    "section": "Getting Better at R, RStudio and Quarto",
+    "text": "Getting Better at R, RStudio and Quarto\n\nR Studio Educational Resources at https://education.rstudio.com/learn/\nLearn the tidyverse at https://www.tidyverse.org/learn/\n\nThe tidyverse style guide including styler\n\neasystats packages: https://easystats.github.io/easystats/index.html and then select the easystats package you’re interested in from the top right and select Articles or Reference.\njanitor: https://sfirke.github.io/janitor/index.html\npatchwork: https://patchwork.data-imaginist.com/\nrstanarm: https://mc-stan.org/rstanarm/\nMKinfer vignettes: https://cran.r-project.org/web/packages/MKinfer/vignettes/MKinfer.html\n\nAlso, see Appendix A of Dr. Love’s textbook.\n\nOther R and Quarto references I recommend\n\nR Graphics Cookbook, 2nd Edition\nR for Data Science, 2nd Edition\n\nSections on Workflow: scripts and projects and getting help\n\nPosit’s Cheat Sheets\nQuarto main page, especially Get Started for R Studio and Guide\n\nAlso worth looking at R for Data Science’s chapters on Quarto and on Quarto formatting.\n\nR Colors (pdf)\nIntroduction to Regression Methods for Public Health Using R by Ramzi W. Nahhas\nRebecca Barter’s An introduction to Python for R Users has been helpful to some people making that transition, or the opposite one. The RStudio IDE is a free and open-source IDE for Python, as well as R. You can write scripts, import modules, and interactively use Python within the RStudio IDE.\n\n\n\nLearning More about Statistical Significance (and related issues)\n\nRonald L. Wasserstein, Allen L. Schirm & Nicole A. Lazar (2019) Moving to a World Beyond “p &lt; 0.05”, The American Statistician, 73:sup1, 1-19, DOI: 10.1080/00031305.2019.1583913.\n\nRon gave a one-hour talk you can watch here on “Helping to move to a world beyond p &lt; 0.05” which I cannot recommend enough.\n\nRonald L. Wasserstein & Nicole A. Lazar (2016) The ASA’s Statement on p-Values: Context, Process, and Purpose, The American Statistician, 70:2, 129-133, DOI: 10.1080/00031305.2016.1154108.\nThe Growing Importance of Reproducibility and Responsible Workflow in the Data Science and Statistics Curriculum by Nicholas J. Horton, Rohan Alexander, Micaela Parker, Aneta Piekut & Colin Rundel (2022) Journal of Statistics and Data Science Education, 30:3, 207-208, DOI: 10.1080/26939169.2022.2141001\nFrank E. Harrell’s A Litany of Problems with p-values blog post originally written in 2017, with more recent updates.\nJeffrey Leek and Roger Peng P-values are just the tip of the iceberg\nJeffrey D Blume, Lucy D’Agostino McGowan, William D. Dupont, Robert A Greevy Second-generation p values: Improved rigor, reproducibility and transparency in statistical analyses\nAndrew Gelman and John Carlin Beyond Power Calculations: Assessing Type S (Sign) and Type M (Magnitude) Errors\nScientists rise up against statistical significance in Nature 2019-03-20\nIt’s time to talk about ditching statistical significance also in Nature 2019-03-19.\nBriggs, William M., 2019. Everything Wrong with P-Values Under One Roof. In Beyond Traditional Probabilistic Methods in Economics, V Kreinovich, NN Thach, ND Trung, DV Thanh (eds.), pp 22–44. DOI 978-3-030-04200-4_2\nthe “PROBABLE CAUSE” graphic reprinted in this Nature piece by Regina Nuzzo, originally from T. Sellke et al. in The American Statistician, 2001.\nand several great pieces by Christie Aschwanden archived from the late, lamented 538 website:\n\n“Not Even Scientists Can Easily Explain P-Values”, and\n“Statisticians Found One Thing They Can Agree On: It’s Time To Stop Misusing P-values”, and\n“Science Isn’t Broken” with graphics by Ritchie King.\n\nYou may also be interested in this piece at pbs.org about a NOVA program entitled “Rethinking Science’s Magic Number”.\nHere is a nice Editorial by Jeff Witmer (from Oberlin College) at the Journal of Statistics Education which is a position paper on the use of p-values, statistical inference, terminology, and related ideas. I got a lot out of it, and there’s a lot here related to our discussion.\nEJ Daza, Ditch “Statistical Significance” — But Keep Statistical Evidence. How? A statistician shares a writing sample, 2021.\nI have given several talks on “Rethinking Statistical Significance” in recent years. The Github repository (90 minutes at MetroHealth Medical Center and the Center for Health Care Research and Policy, with an audio recording) is at https://github.com/THOMASELOVE/rethink, if you’re a glutton for punishment.\nWhy p values are like puppies is a 3:29 YouTube Video by Cassie Kozyrkov, MS, Chief Decision Scientist, Google Inc. It explains how to understand and interpret p values in an intuitive way using an example based on puppies."
+  }
+]

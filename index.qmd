@@ -1,0 +1,50 @@
+---
+title: "431 Course Main Page: Fall 2026"
+author: "Thomas E. Love"
+date: last-modified
+---
+
+# Welcome! 
+
+431 is the first part of a two-semester sequence (with 432) in applied statistics and data science taught by Professor Thomas Love in the [Department of Population and Quantitative Health Sciences](https://case.edu/medicine/pqhs/) at [Case Western Reserve University](https://case.edu/).
+
+## Getting Started
+
+Your first few steps in this course are to:
+
+1. Register and enroll via the [CWRU Student Information System (SIS)](https://sis.case.edu/). 
+    - Be sure to register for PQHS 431 (Section 100) unless you are part of the Clinical Research Scholars Program (in which case, register for CRSP 431) or you are part of the MPH program (in which case, register for MPHP 431.)
+2. Take a look at this website. Of particular importance is the Getting Started section you're reading now, and the [Course Calendar](calendar.qmd), but a lot of other material is available now, and more will appear as we approach the first day of this class, which will be on Tuesday August 25.
+3. Obtain a copy of David Spiegelhalter's [The Art of Statistics: How to Learn from Data](https://www.amazon.com/Art-Statistics-How-Learn-Data/dp/1541675703), originally published in 2020 and available at all major book retailers for less than \$20.
+4. Visit <https://bit.ly/431-2026-welcome> to complete the Welcome to 431 Survey, which is your first assignment. 
+    - Note: You must log into Google **via CWRU** in order to access the Survey.
+    - The survey is technically due at noon on Wednesday 2026-08-26, but should be completed as soon as you can
+5. Before our first class, I also suggest you get started reading the first few sections (particularly the Introduction and Sections 1-2) of the online book [R for Data Science, 2nd Edition](https://r4ds.hadley.nz/).
+6. Before our third class, on September 1, you'll need to get R and RStudio on a computer you can control (including installing regular updates to the software) for the semester. 
+    - Please start this process now - installation details are found on our 431 [Software page](software.qmd). 
+7. Please visit [this link](https://case.edu/registrar/general/sis-resources/record-your-name-pronunciation) for information on how to record a pronunciation of your full name in the Student Information System so that all of your instructors (and fellow students) will be able to hear it.
+8. After our first class (August 25), you will need to log into [Google Drive](google.qmd) via your CWRU account and ensure that you have access to a Shared Drive called **431 Fall 2026 Students and Dr. Love**.
+
+## Everything will appear on this website
+
+Materials you will find include:
+
+-   the course [syllabus](https://thomaselove.github.io/431-syllabus-2026/),
+-   the course [calendar](calendar.qmd), which is the final word on all deadlines, and also links to all materials used in each class session,
+-   Dr. Love's [431 book](https://thomaselove.github.io/431-book/) entitled "Applied Statistics and R Foundations for 431", which is a major source of course examples,
+-   detailed information on all course [assignments](assignments.qmd), with all deadlines found in the [calendar](calendar.qmd),
+-   information on [software](software.qmd), including installation instructions for R, RStudio, and the key R packages and data sets we'll use,
+-   suggested R/RStudio/Quarto learning [resources](resources.qmd),
+-   and information on how to [contact us](contact.qmd).
+
+## Class Starts Tuesday 2026-08-25 at 1 PM
+
+Class will be held on Tuesdays and Thursdays from 1:00 - 2:15 PM in Room E321-E323 at CWRU's School of Medicine, starting on 2026-08-25.
+
+## Questions?
+
+If you have any questions, contact Professor Love at `thomas dot love at case dot edu`.
+
+Thank you.
+
+

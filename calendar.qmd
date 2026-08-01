@@ -1,0 +1,199 @@
+---
+title: "Course Calendar"
+date: last-modified
+---
+
+All class sessions will be held from 1:00 to 2:15 PM in Room E321-323 on the third floor of the Robbins building at CWRU's School of Medicine.
+
+Readings come from:
+
+- **Spiegelhalter**: David Spiegelhalter's [The Art of Statistics: How to Learn from Data](https://www.amazon.com/Art-Statistics-How-Learn-Data/dp/1541675703) originally published in 2020 and available at all major book retailers.
+- **R4DS**: R for Data Science (2nd edition), found at <https://r4ds.hadley.nz/>.
+- **TEL**: Dr. Love's course book, entitled [Applied Statistics and R Foundations for 431](https://thomaselove.github.io/431-book/)
+
+## August
+
+Class | Day | Date | Details
+:-----: | ---: | ---------- | ----------------------------
+[Class 01] | TU | 2026-08-25 | 
+**deadline** | **W** | 2026-08-26 | [Welcome to 431 Survey](https://bit.ly/431-2026-welcome) due at noon
+[Class 02] | TH | 2026-08-27 |
+
+## September
+
+Class | Day | Date | Details
+:-----: | ---: | ---------- | ----------------------------
+[Class 03] | TU | 2026-09-01 | 
+**deadline** | **W** | 2026-09-02 | [Minute Paper] after Class 03 due at noon
+[Class 04] | TH | 2026-09-03 |
+[Class 05] | TU | 2026-09-08 | 
+**deadline** | **W** | 2026-09-09 | [Minute Paper] after Class 05 due at noon
+[Class 06] | TH | 2026-09-10 |
+[Class 07] | TU | 2026-09-15 | 
+**deadline** | **W** | 2026-09-16 | [Minute Paper] after Class 07 due at noon
+[Class 08] | TH | 2026-09-17 |
+[Class 09] | TU | 2026-09-22 | 
+**deadline** | **W** | 2026-09-23 | [Minute Paper] after Class 09 due at noon
+[Class 10] | TH | 2026-09-24 |
+[Class 11] | TU | 2026-09-29 | 
+**deadline** | **W** | 2026-09-30 | [Minute Paper] after Class 11 due at noon
+
+## October
+
+Class | Day | Date | Details
+:-----: | ---: | ---------- | ----------------------------
+[Class 12] | TH | 2026-10-01 |
+[Class 13] | TU | 2026-10-06 | 
+**deadline** | **W** | 2026-10-07 | [Minute Paper] after Class 13 due at noon
+[Class 14] | TH | 2026-10-08 |
+[Class 15] | TU | 2026-10-13 | 
+**deadline** | **W** | 2026-10-14 | [Minute Paper] after Class 15 due at noon
+[Class 16] | TH | 2026-10-15 |
+-- | TU | 2026-10-20 | CWRU Fall Break (no 431 today)
+[Class 17] | TH | 2026-10-22 | 
+[Class 18] | TU | 2026-10-27 |
+**deadline** | **W** | 2026-10-28 | [Minute Paper] after Class 18 due at noon
+[Class 19] | TH | 2026-10-29 |
+
+## November
+
+Class | Day | Date | Details
+:-----: | ---: | ---------- | ----------------------------
+-- | TU | 2026-11-03 | Election Day (no 431 today, though CWRU is in session)
+[Class 20] | TH | 2026-11-05 | 
+[Class 21] | TU | 2026-11-10 |
+**deadline** | **W** | 2026-11-11 | [Minute Paper] after Class 21 due at noon
+[Class 22] | TH | 2026-11-12 | 
+[Class 23] | TU | 2026-11-17 |
+**deadline** | **W** | 2026-11-18 | [Minute Paper] after Class 23 due at noon
+[Class 24] | TH | 2026-11-19 | 
+-- | TU | 2026-11-24 | Thanksgiving week (no 431 today, though CWRU is in session)
+-- | TH | 2026-11-26 | CWRU Thanksgiving Break (no 431 today)
+
+## December
+
+Class | Day | Date | Details
+:-----: | ---: | ---------- | ----------------------------
+[Class 25] | TU | 2026-12-01 |
+**deadline** | **W** | 2026-12-02 | [Minute Paper] after Class 25 due at noon
+[Class 26] | TH | 2026-12-03 | 
+
+## End of Semester Presentations
+
+Day | Date | Times | Details
+:-----: | ---: | ---------- | ----------------------------
+FR | 2026-12-03 | TBD | to come.
+MO | 2026-12-07 | TBD | to come.
+TU | 2026-12-08 | TBD | to come.
+TH | 2026-12-10 | TBD | to come.
+
+## OLD STUFF FOLLOWS
+
+Class | Day | Date | Additional Information
+:-----: | ---: | ---------- | ----------------------------
+[Class 01](https://github.com/THOMASELOVE/431-classes-2025/tree/main/class01) | TU | 2025-09-02 | Getting Started ([TEL](https://thomaselove.github.io/431-book/) 1-2)
+**deadline** | **W** | 2025-09-03 | [Welcome to 431 Survey](https://bit.ly/431-2025-welcome) due at noon
+[Class 02](https://github.com/THOMASELOVE/431-classes-2025/tree/main/class02) | TH | 2025-09-04 | Data Visualization and Summary ([TEL](https://thomaselove.github.io/431-book/) 2-3)
+*reading* | -- | by Class 03 | Spiegelhalter: Introduction and Chapter 1 <br /> [R4DS](https://r4ds.hadley.nz/): Introduction and as much of "Whole game" as possible <br /> skim through the [Project A](https://thomaselove.github.io/431-projectA-2025/) instructions <br /> read the [Lab 1](https://github.com/THOMASELOVE/431-labs-2025) instructions
+[Class 03](https://github.com/THOMASELOVE/431-classes-2025/tree/main/class03) | TU | 2025-09-09 | Data Wrangling ([TEL](https://thomaselove.github.io/431-book/) 4)
+**deadline** | **W** | 2025-09-10 | [Minute Paper](https://github.com/THOMASELOVE/431-minute-2025/blob/main/README.md) after 09-09 due at noon
+[Class 04](https://github.com/THOMASELOVE/431-classes-2025/tree/main/class04) | TH | 2025-09-11 | Some Exploratory Questions
+*reading* | -- | by Class 5 | Spiegelhalter: Chapters 2 and 3 <br /> [R4DS](https://r4ds.hadley.nz/):  remainder of "Whole game" (Sections 1-8) <br /> get going on [Project A](https://thomaselove.github.io/431-projectA-2025/) Data work
+[Class 05](https://github.com/THOMASELOVE/431-classes-2025/tree/main/class05) | TU | 2025-09-16 | Comparing Means ([TEL](https://thomaselove.github.io/431-book/) 5-6)
+**deadline** | **W** | 2025-09-17 | [Lab 1](https://github.com/THOMASELOVE/431-labs-2025) due at noon <br> [Minute Paper](https://github.com/THOMASELOVE/431-minute-2025/blob/main/README.md) after 09-16 due at noon
+[Class 06](https://github.com/THOMASELOVE/431-classes-2025/tree/main/class06) | TH | 2025-09-18 | Transformation ([TEL](https://thomaselove.github.io/431-book/) 7)
+*reading* | -- | by Class 7 | Spiegelhalter: Chapter 5 <br /> [R4DS](https://r4ds.hadley.nz/):  "Visualize" sections, especially sections 10 and 11 <br /> Finish the [Project A](https://thomaselove.github.io/431-projectA-2025/) Data work and start the Plan. <br /> Review the [Lab X instructions](https://github.com/THOMASELOVE/431-labs-2025/tree/main/labX) and perhaps get started.
+[Class 07](https://github.com/THOMASELOVE/431-classes-2025/tree/main/class07) | TU | 2025-09-23 | Comparing Multiple Groups ([TEL](https://thomaselove.github.io/431-book/) 8)
+**deadline** | **W** | 2025-09-24 | [Lab 2](https://github.com/THOMASELOVE/431-labs-2025/tree/main/lab2) due at noon <br> [Minute Paper](https://github.com/THOMASELOVE/431-minute-2025/blob/main/README.md) after 09-23 due at noon
+[Class 08](https://github.com/THOMASELOVE/431-classes-2025/tree/main/class08) | TH | 2025-09-25 | One-Factor Analysis of Variance ([TEL](https://thomaselove.github.io/431-book/) 9)
+*reading* | -- | by Class 09 | Spiegelhalter: Chapter 7 <br /> [R4DS](https://r4ds.hadley.nz/): Sections 16 (Factors) and 28 (Quarto) <br /> Complete the [Project A Plan](https://thomaselove.github.io/431-projectA-2025/): due Wednesday!
+[Class 09](https://github.com/THOMASELOVE/431-classes-2025/tree/main/class09) | TU | 2025-09-30 | Transformations in ANOVA ([TEL](https://thomaselove.github.io/431-book/) 8-9)
+
+## October
+
+Class | Day | Date | Additional Information
+:-----: | ---: | ---------- | ----------------------------
+**deadline** | **W** | 2025-10-01 | [Project A Plan](https://thomaselove.github.io/431-projectA-2025/) due at noon 
+[Class 10](https://github.com/THOMASELOVE/431-classes-2025/tree/main/class10) | TH | 2025-10-02 | Simple Linear Regression and Correlation ([TEL](https://thomaselove.github.io/431-book/) 10-11)
+*reading* | -- | by Class 11 | Spiegelhalter: Chapter 8  
+[Class 11](https://github.com/THOMASELOVE/431-classes-2025/tree/main/class11) | TU | 2025-10-07 | CIs for Proportions, Two-by-Two Tables ([TEL](https://thomaselove.github.io/431-book/) 13)
+**deadline** | **W** | 2025-10-08 | [Lab 3](https://github.com/THOMASELOVE/431-labs-2025/tree/main/lab3) due at noon <br> [Minute Paper](https://github.com/THOMASELOVE/431-minute-2025/blob/main/README.md) after 10-07 due at noon
+[Class 12](https://github.com/THOMASELOVE/431-classes-2025/tree/main/class12) | TH | 2025-10-09 | Larger Two-Way Cross-Classifications ([TEL](https://thomaselove.github.io/431-book/) 14)
+**deadline** | **F** | 2025-10-10 | Revisions for Project A Plan (for **12 groups**) <br> due to [Canvas](https://canvas.case.edu/) at **10 AM** (Note special time)
+*reading* | -- | by Class 13 | Spiegelhalter: Chapter 9 <br /> get started on [Project A](https://thomaselove.github.io/431-projectA-2025/) Analyses
+[Class 13](https://github.com/THOMASELOVE/431-classes-2025/tree/main/class13) | TU | 2025-10-14 | What's wrong with Statistical Significance?
+**deadline** | **W** | 2025-10-15 | [Lab 4](https://github.com/THOMASELOVE/431-labs-2025/tree/main/lab4) due at noon <br> [Minute Paper](https://github.com/THOMASELOVE/431-minute-2025/blob/main/README.md) after 10-14 due at noon
+[Class 14](https://github.com/THOMASELOVE/431-classes-2025/tree/main/class14) | TH | 2025-10-16 | Linear Regression Analyses <br> [Quiz 1](https://github.com/THOMASELOVE/431-quizzes-2025/blob/main/README.md) made available by 3 PM
+*reading* | -- | by Class 15 | Spiegelhalter: Chapter 10 <br /> If you haven't already done [Lab X](https://github.com/THOMASELOVE/431-labs-2025/tree/main/labX) now might be  a good time.
+-- | M | 2025-10-20 | CWRU Fall Break - TA office hours canceled.
+-- | TU | 2025-10-21 | CWRU Fall Break - no 431 class, and TA office hours canceled.
+**deadline** | W | 2025-10-22 | [Quiz 1](https://github.com/THOMASELOVE/431-quizzes-2025/blob/main/README.md) due at noon
+[Class 15](https://github.com/THOMASELOVE/431-classes-2025/tree/main/class15) | TH | 2025-10-23 | Catch Up and Ask Me Anything / [Project A](https://thomaselove.github.io/431-projectA-2025/) Help Session over **Zoom**
+**deadline** | F | 2025-10-24 | [Favorite Movies Survey](https://bit.ly/431-2025-movies-survey) due at 10 AM.
+*reading* | -- | by Class 16 | Spiegelhalter: Chapter 11 <br /> complete the [Project A](https://thomaselove.github.io/431-projectA-2025/) Portfolio report
+[Class 16](https://github.com/THOMASELOVE/431-classes-2025/tree/main/class16) | TU | 2025-10-28 | Making Adjustments ([TEL](https://thomaselove.github.io/431-book/) 15)
+**deadline** | **W** | 2025-10-29 | [Project A](https://thomaselove.github.io/431-projectA-2025/) Portfolio due at noon <br> [Minute Paper](https://github.com/THOMASELOVE/431-minute-2025/blob/main/README.md) after 10-28 due at noon
+[Class 17](https://github.com/THOMASELOVE/431-classes-2025/tree/main/class17) | TH | 2025-10-30 | Dealing with Missing Data ([TEL](https://thomaselove.github.io/431-book/) 16)
+
+## November
+
+Class | Day | Date | Additional Information
+:-----: | ---: | ---------- | ----------------------------
+[Class 18](https://github.com/THOMASELOVE/431-classes-2025/tree/main/class18) | TU | 2025-11-04 | Two-Factor Analysis of Variance ([TEL](https://thomaselove.github.io/431-book/) 18)
+**deadline** | **W** | 2025-11-05 | [Lab 5](https://github.com/THOMASELOVE/431-labs-2025/tree/main/lab5) due at noon <br> [Minute Paper](https://github.com/THOMASELOVE/431-minute-2025/blob/main/README.md) after 11-04 due at noon
+[Class 19](https://github.com/THOMASELOVE/431-classes-2025/tree/main/class19) | TH | 2025-11-06 | Multiple Linear Regression, 1 ([TEL](https://thomaselove.github.io/431-book/) 17)
+*reading* | -- | by Class 20 | Spiegelhalter: Chapter 13
+[Class 20](https://github.com/THOMASELOVE/431-classes-2025/tree/main/class20) | TU | 2025-11-11 | Multiple Linear Regression, 2 ([TEL](https://thomaselove.github.io/431-book/) 19)
+**deadline** | **W** | 2025-11-12 | Project B [Registration Form](https://bit.ly/431-projB-registration-2025) due at noon <br> [Minute Paper](https://github.com/THOMASELOVE/431-minute-2025/blob/main/README.md) after 11-11 due at noon
+[Class 21](https://github.com/THOMASELOVE/431-classes-2025/tree/main/class21) | TH | 2025-11-13 | Multiple Linear Regression, 3 ([TEL](https://thomaselove.github.io/431-book/) 19-20)
+-- | F | 2025-11-14 | Schedule for [Project B](https://thomaselove.github.io/431-projectB-2025/) Presentations announced
+*reading* | -- | by Class 22 | Spiegelhalter: Chapter 4 <br /> Remember that [Lab X](https://github.com/THOMASELOVE/431-labs-2025/tree/main/labX) is due in early December.
+[Class 22](https://github.com/THOMASELOVE/431-classes-2025/tree/main/class22) | TU | 2025-11-18 | Multiple Linear Regression, 4 ([TEL](https://thomaselove.github.io/431-book/) 19-21)
+**deadline** | **W** | 2025-11-19 | [Lab 6](https://github.com/THOMASELOVE/431-labs-2025/tree/main/lab6) due at noon <br> [Minute Paper](https://github.com/THOMASELOVE/431-minute-2025/blob/main/README.md) after 11-18 due at noon
+[Class 23](https://github.com/THOMASELOVE/431-classes-2025/tree/main/class23) | TH | 2025-11-20 | Multiple Linear Regression, 5 ([TEL](https://thomaselove.github.io/431-book/) 19-21) <br> [Quiz 2](https://github.com/THOMASELOVE/431-quizzes-2025/blob/main/README.md) made available by 3 PM
+-- | FR | 2025-11-21 | Last Day for TA office hours until 2025-11-29
+-- | TU | 2025-11-25 | No 431 Class
+-- | TH | 2025-11-27 | No 431 Class. Thanksgiving Break at CWRU
+-- | SA | 2025-11-29 | TA office hours resume
+*reading* | -- | by Class 24 | Spiegelhalter: rest of book (chapters 6 and 14)
+
+
+
+## December
+
+Class | Day | Date | Additional Information
+:-----: | ---: | ---------- | ----------------------------
+[Class 24](https://github.com/THOMASELOVE/431-classes-2025/tree/main/class24) | TU | 2025-12-02 | Robust Linear Models
+**deadline** | **W** | 2025-12-03 | [Quiz 2](https://github.com/THOMASELOVE/431-quizzes-2025/blob/main/README.md) due at noon
+-- | W | 2025-12-03 | [Project B Presentation Schedule](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectB/schedule.md) <br> 3 [Zoom](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectB/schedule.md#zoom-presentations) presentations, at 9 AM, 10:30 AM, 2:30 PM
+[Class 25](https://github.com/THOMASELOVE/431-classes-2025/tree/main/class25) | TH | 2025-12-04 | Quiz 2 Review and Final Class <br> [Project B Presentation Schedule](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectB/schedule.md) <br> 5 [in-person presentations](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectB/schedule.md#in-person-presentations) from 9:50 AM to 12:15 PM <br> and 3 more via [Zoom](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectB/schedule.md#zoom-presentations) from 3:55 PM to 5:15 PM
+-- | F | 2025-12-05 | [Project B Presentation Schedule](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectB/schedule.md) <br> 9 [Zoom](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectB/schedule.md#zoom-presentations) talks: 11:25 AM to 12:45 PM and 1:55 PM to 4:45 PM
+-- | M | 2025-12-08 | [Project B Presentation Schedule](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectB/schedule.md) <br> 14 [Zoom](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectB/schedule.md#zoom-presentations) talks: 8:50 AM to 12:45 PM and 2:40 PM to 5:15 PM
+-- | TU | 2025-12-09 | Last Day for TA office hours <br> [Project B Presentation Schedule](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectB/schedule.md) <br> 7 [in-person presentations](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectB/schedule.md#in-person-presentations): <br> 11:20 AM to 12:15 PM and 12:50 PM to 3:15 PM
+**deadline** | **W** | 2025-12-10 | All [Project B](https://thomaselove.github.io/431-projectB-2025/) Materials due at noon. <br> [Lab X](https://github.com/THOMASELOVE/431-labs-2025/tree/main/labX) due at noon. <br> [Lab Regrade Request Form](https://bit.ly/431-2025-lab-regrade-request) (optional) also due at noon.
+
+## Getting Help
+
+Visit the [Contact Us page](contact.qmd) for ways to get help in this class.
+
+## TA Office Hours
+
+TA office hours are held via Zoom, and will begin on **Wednesday 2025-09-03** and will continue through **Tuesday 2025-12-09**. 
+
+Our [Shared Google Drive (431 Fall 2025 Dr Love and Students)](google.qmd) will display Zoom links for all TA office hours in a document called **TA office hours schedule and Zoom links**. No appointment is necessary. Please just drop in.
+
+DATE | TIME(S) (All times Eastern)
+:--------: | :----------------------------------
+MONDAYS | 11:45 AM to 12:45 PM, 3:00 PM to 4:30 PM, 6:00 PM to 10:30 PM
+TUESDAYS | 11:45 AM to 12:45 PM, 7:00 PM to 10:00 PM
+WEDNESDAYS | 11:30 AM to 1:00 PM
+THURSDAYS | 11:45 AM to 12:45 PM, 7:00 PM to 10:00 PM
+FRIDAYS | 11:45 AM to 12:45 PM, 3:30 PM to 5:00 PM, 9:00 PM to 10:30 PM
+SATURDAYS | 10:30 AM to Noon, 7:30 PM to 9:00 PM
+SUNDAYS | 7:00 PM to 10:00 PM
+
+- If you have a question you want to pose via email about the course (especially outside of TA office hour times), you can send it to **431-help** at **case** dot **edu**. Dr. Love and the TAs will see this email, and should usually respond fairly quickly.
+- In addition, Professor Love will also hold “drop-in hours” for 10 minutes before and for 30 minutes after each class on Tuesdays and Thursdays.
+- TA Office hours are canceled on 2025-10-20 and 2025-10-21 (Fall Break) and from 2025-11-22 through 2025-11-28 (Thanksgiving)
+- More information on each of this semester's TAs is [found in our Syllabus](https://thomaselove.github.io/431-syllabus-2025/08_teachingassistants.html).
+

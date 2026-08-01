@@ -1,0 +1,43 @@
+---
+title: "Assignments for 431 in Fall 2025"
+date: last-modified
+---
+
+
+This page links to all instructions and other information about course assignments. All deadlines are found on the [Course Calendar](calendar.qmd).
+
+## Labs
+
+The general page for all [431 Labs is here](https://github.com/THOMASELOVE/431-labs-2025/blob/main/README.md). 
+
+Two special assignments are:
+
+- [Welcome to 431 Survey](https://bit.ly/431-2025-welcome)
+    - Note: You must log into Google via CWRU in order to access the Survey.
+    - This assignment is due on the day after our first class, but do it now.
+- [Lab X](https://github.com/THOMASELOVE/431-labs-2025/tree/main/labX) (Developing a Personal Website) on Github (you can start and even complete this now, but it isn't due until late in the semester)
+
+The six main labs are found at:
+
+- [Lab 1 page](https://github.com/THOMASELOVE/431-labs-2025/tree/main/lab1) on Github
+- [Lab 2 page](https://github.com/THOMASELOVE/431-labs-2025/tree/main/lab2) on Github
+- [Lab 3 page](https://github.com/THOMASELOVE/431-labs-2025/tree/main/lab3) on Github
+- [Lab 4 page](https://github.com/THOMASELOVE/431-labs-2025/tree/main/lab4) on Github
+- [Lab 5 page](https://github.com/THOMASELOVE/431-labs-2025/tree/main/lab5) on Github
+- [Lab 6 page](https://github.com/THOMASELOVE/431-labs-2025/tree/main/lab6) on Github
+
+## Minute Papers
+
+- [Minute Papers page](https://github.com/THOMASELOVE/431-minute-2025/blob/main/README.md) on Github
+
+## Quizzes
+
+The general page for both [431 Quizzes is here](https://github.com/THOMASELOVE/431-quizzes-2025/blob/main/README.md). We'll post links to each specific quiz page below as they become available.
+
+- [Quiz 1 page on Github](https://github.com/THOMASELOVE/431-quizzes-2025/tree/main/quiz1)
+- [Quiz 2 page on Github](https://github.com/THOMASELOVE/431-quizzes-2025/tree/main/quiz2)
+
+## Projects
+
+- The [Project A page](https://thomaselove.github.io/431-projectA-2025/) provides instructions and materials related to Project A.
+- The [Project B page](https://thomaselove.github.io/431-projectB-2025/) provides instructions and materials related to Project B.
