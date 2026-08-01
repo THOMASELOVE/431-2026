@@ -15,7 +15,7 @@ Your first few steps in this course are to:
 1. Register and enroll via the [CWRU Student Information System (SIS)](https://sis.case.edu/).
     - Most students^[MPH students should register for MPHP 431, while CRSP and CTS students should register for CRSP 431.] should register for PQHS 431. Dr. Love teaches Section 100.
 2. Visit [this link](https://case.edu/registrar/general/sis-resources/record-your-name-pronunciation) to record a pronunciation of your full name in the Student Information System so all of your instructors (and fellow students) can hear it.
-3. Complete the [Welcome to 431 survey form](https://bit.ly/431-2026-welcome), which is your first assignment^[The survey is due at noon on Wednesday 2026-08-26, but please complete it as soon as you can.].
+3. Complete the [Welcome to 431 survey form](https://tinyurl.com/431-2026-welcome), which is your first assignment^[The survey is due at noon on Wednesday 2026-08-26, but please complete it as soon as you can.].
     - Note: You must log into Google **via CWRU** in order to access the Survey.
 4. Obtain David Spiegelhalter's book [The Art of Statistics: How to Learn from Data](https://www.amazon.com/Art-Statistics-How-Learn-Data/dp/1541675703), originally published in 2020 and available at all major retailers for less than \$20.
 5. Visit our [Software page](software.qmd) to start the process of installing all necessary software. 

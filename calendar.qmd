@@ -16,7 +16,7 @@ Readings come from:
 Class | Day | Date | Details
 :-----: | :---: | ---------- | ----------------------------
 [Class 01] | TU | 2026-08-25 | Introduction, Getting Started, Age Guessing
-**deadline** | **W** | 2026-08-26 | **Noon**: [Welcome to 431 Survey](https://bit.ly/431-2026-welcome) due
+**deadline** | **W** | 2026-08-26 | **Noon**: [Welcome to 431 Survey](https://tinyurl.com/431-2026-welcome) due
 [Class 02] | TH | 2026-08-27 | Some Initial Explorations, Data Collection
 *reading* | -- | by Class 03 | Spiegelhalter, Introduction and Chapter 1 <br> [R4DS](https://r4ds.hadley.nz/): Introduction, skim Sections 1-8 (Whole game)
 
@@ -99,7 +99,7 @@ We will schedule these presentations together in early November.
 Class | Day | Date | Additional Information
 :-----: | ---: | ---------- | ----------------------------
 [Class 01](https://github.com/THOMASELOVE/431-classes-2025/tree/main/class01) | TU | 2025-09-02 | Getting Started ([TEL](https://thomaselove.github.io/431-book/) 1-2)
-**deadline** | **W** | 2025-09-03 | [Welcome to 431 Survey](https://bit.ly/431-2025-welcome) due at noon
+**deadline** | **W** | 2025-09-03 | [Welcome to 431 Survey](https://tinyurl.com/431-2026-welcome) due at noon
 [Class 02](https://github.com/THOMASELOVE/431-classes-2025/tree/main/class02) | TH | 2025-09-04 | Data Visualization and Summary ([TEL](https://thomaselove.github.io/431-book/) 2-3)
 *reading* | -- | by Class 03 | Spiegelhalter: Introduction and Chapter 1 <br /> [R4DS](https://r4ds.hadley.nz/): Introduction and as much of "Whole game" as possible <br /> skim through the [Project A](https://thomaselove.github.io/431-projectA-2025/) instructions <br /> read the [Lab 1](https://github.com/THOMASELOVE/431-labs-2025) instructions
 [Class 03](https://github.com/THOMASELOVE/431-classes-2025/tree/main/class03) | TU | 2025-09-09 | Data Wrangling ([TEL](https://thomaselove.github.io/431-book/) 4)
