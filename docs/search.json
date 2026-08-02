@@ -67,84 +67,42 @@
     "href": "calendar.html#august",
     "title": "Course Calendar",
     "section": "August",
-    "text": "August\n\n\n\nClass\nDay\nDate\nDetails\n\n\n\n\n[Class 01]\nTU\n2026-08-25\nIntroduction, Getting Started, Age Guessing\n\n\ndeadline\nW\n2026-08-26\nNoon: Welcome to 431 Survey due\n\n\n[Class 02]\nTH\n2026-08-27\nSome Initial Explorations, Data Collection\n\n\nreading\n–\nby Class 03\nSpiegelhalter, Introduction and Chapter 1  R4DS: Introduction, skim Sections 1-8 (Whole game)"
+    "text": "August\n\n\n\nClass\nDay\nDate\nDetails\n\n\n\n\nClass 01\nTU\n2026-08-25\nIntroduction, Getting Started, Age Guessing\n\n\ndeadline\nW\n2026-08-26\nNoon: Welcome to 431 Survey due\n\n\nClass 02\nTH\n2026-08-27\nSome Initial Explorations, Data Collection (TEL 1-3)\n\n\nreading\n–\nby Class 03\nSpiegelhalter, Introduction and Chapter 1  R4DS: Introduction, start Sections 1-8 (“Whole game”)"
   },
   {
     "objectID": "calendar.html#september",
     "href": "calendar.html#september",
     "title": "Course Calendar",
     "section": "September",
-    "text": "September\n\n\n\nClass\nDay\nDate\nDetails\n\n\n\n\n[Class 03]\nTU\n2026-09-01\nUsing R, Data Visualization and Summary (TEL 1-3)\n\n\ndeadline\nW\n2026-09-02\nNoon: [Minute Paper] after Class 03 due\n\n\n[Class 04]\nTH\n2026-09-03\nData Wrangling, Preparing for Lab 1 (TEL 4)\n\n\n[Class 05]\nTU\n2026-09-08\nComparing Means, Study Designs (TEL 5-6)\n\n\ndeadline\nW\n2026-09-09\nNoon: [Minute Paper] after Class 05 due  Noon: [Lab 1] due to Canvas\n\n\n[Class 06]\nTH\n2026-09-10\nUncertainty Intervals, Transformation (TEL 7)\n\n\n[Class 07]\nTU\n2026-09-15\nComparing Multiple Groups, 1 (TEL 8-9)\n\n\ndeadline\nW\n2026-09-16\nNoon: [Minute Paper] after Class 07 due\n\n\n[Class 08]\nTH\n2026-09-17\nComparing Multiple Groups, 2 (TEL 8-9)\n\n\n[Class 09]\nTU\n2026-09-22\nAssociation and Correlation (TEL 10)\n\n\ndeadline\nW\n2026-09-23\nNoon: [Minute Paper] after Class 09 due\n\n\n[Class 10]\nTH\n2026-09-24\nSimple Linear Regression (TEL 10-11)\n\n\n[Class 11]\nTU\n2026-09-29\nWhy Statistical Significance is useless\n\n\ndeadline\nW\n2026-09-30\nNoon: [Minute Paper] after Class 11 due"
+    "text": "September\n\n\n\nClass\nDay\nDate\nDetails\n\n\n\n\nClass 03\nTU\n2026-09-01\nUsing R, Data Visualization and Summary (TEL 1-3)\n\n\ndeadline\nW\n2026-09-02\nNoon: Minute Paper after Class 03 due\n\n\nClass 04\nTH\n2026-09-03\nData Wrangling, Preparing for Lab 1 (TEL 1-4)\n\n\nreading\n–\nby Class 05\nSpiegelhalter, Chapters 2-3  R4DS: complete Sections 1-8 (“Whole game”)\n\n\nClass 05\nTU\n2026-09-08\nComparing Means, Study Designs (TEL 5-6)\n\n\ndeadline\nW\n2026-09-09\nNoon: Minute Paper after Class 05 due  Noon: [Lab 1] due to Canvas\n\n\nClass 06\nTH\n2026-09-10\nUncertainty Intervals, Transformation (TEL 7)\n\n\nreading\n–\nby Class 07\nSpiegelhalter, Chapter 5  R4DS: “Visualize”: sections 9-11\n\n\nClass 07\nTU\n2026-09-15\nComparing Multiple Groups, 1 (TEL 8-9)\n\n\ndeadline\nW\n2026-09-16\nNoon: Minute Paper after Class 07 due  Noon: [Lab 2] due to Canvas\n\n\nClass 08\nTH\n2026-09-17\nComparing Multiple Groups, 2 (TEL 8-9)\n\n\nreading\n–\nby Class 09\nSpiegelhalter, Chapter 7  R4DS: sections 16 and 28\n\n\nClass 09\nTU\n2026-09-22\nAssociation and Correlation (TEL 10)\n\n\ndeadline\nW\n2026-09-23\nNoon: Minute Paper after Class 09 due  Noon: [Lab 3] due to Canvas\n\n\nClass 10\nTH\n2026-09-24\nSimple Linear Regression (TEL 10-11)\n\n\nreading\n–\nby Class 11\nSpiegelhalter, Chapter 8  ASA 2016 Statement on p-values Excerpts\n\n\nClass 11\nTU\n2026-09-29\nWhy Statistical Significance is useless (TEL 12)\n\n\ndeadline\nW\n2026-09-30\nNoon: Minute Paper after Class 11 due"
   },
   {
     "objectID": "calendar.html#october",
     "href": "calendar.html#october",
     "title": "Course Calendar",
     "section": "October",
-    "text": "October\n\n\n\n\n\n\n\n\n\nClass\nDay\nDate\nDetails\n\n\n\n\n[Class 12]\nTH\n2026-10-01\nComparing Proportions, Two-by-Two Tables\n\n\n[Class 13]\nTU\n2026-10-06\nLarger Cross-Tabulations\n\n\ndeadline\nW\n2026-10-07\nNoon: [Minute Paper] after Class 13 due\n\n\n[Class 14]\nTH\n2026-10-08\nPower and Sample Size Considerations\n\n\n[Class 15]\nTU\n2026-10-13\nTo Be Announced\n\n\ndeadline\nW\n2026-10-14\nNoon: [Minute Paper] after Class 15 due\n\n\n[Class 16]\nTH\n2026-10-15\nMaking Adjusted Comparisons\n\n\n–\nTU\n2026-10-20\nCWRU Fall Break (no 431 today)\n\n\n[Class 17]\nTH\n2026-10-22\nDealing with Missing Data\n\n\n[Class 18]\nTU\n2026-10-27\nTwo-Factor Analysis of Variance\n\n\ndeadline\nW\n2026-10-28\nNoon: [Minute Paper] after Class 18 due\n\n\n[Class 19]\nTH\n2026-10-29\nMultiple Linear Regression, 1"
+    "text": "October\n\n\n\nClass\nDay\nDate\nDetails\n\n\n\n\nClass 12\nTH\n2026-10-01\nComparing Proportions, Two-by-Two Tables (TEL 13)\n\n\nreading\n–\nby Class 13\nSpiegelhalter, Chapter 9  ASA 2019: Statistical Inference in the 21st Century Excerpts\n\n\nClass 13\nTU\n2026-10-06\nLarger Cross-Tabulations (TEL 14)\n\n\ndeadline\nW\n2026-10-07\nNoon: [Project A] due to Canvas\n\n\nClass 14\nTH\n2026-10-08\nPower and Sample Size Considerations (TEL 15)\n\n\nreading\n–\nby Class 15\nSpiegelhalter, Chapter 10\n\n\nClass 15\nTU\n2026-10-13\nTo Be Announced\n\n\ndeadline\nW\n2026-10-14\nNoon: Minute Paper after Class 15 due  Noon: [Lab 4] due to Canvas\n\n\nClass 16\nTH\n2026-10-15\nMaking Adjusted Comparisons (TEL 16)\n\n\n–\nTU\n2026-10-20\nCWRU Fall Break (no 431 today)\n\n\nClass 17\nTH\n2026-10-22\nDealing with Missing Data (TEL 17)\n\n\nreading\n–\nby Class 18\nSpiegelhalter, Chapter 11\n\n\nClass 18\nTU\n2026-10-27\nTwo-Factor Analysis of Variance (TEL 18)\n\n\ndeadline\nW\n2026-10-28\nNoon: [Project B] due to Canvas\n\n\nClass 19\nTH\n2026-10-29\nMultiple Linear Regression, 1 (TEL 19)"
   },
   {
     "objectID": "calendar.html#november",
     "href": "calendar.html#november",
     "title": "Course Calendar",
     "section": "November",
-    "text": "November\n\n\n\n\n\n\n\n\n\nClass\nDay\nDate\nDetails\n\n\n\n\n–\nTU\n2026-11-03\nElection Day (no 431 today; CWRU is in session)\n\n\n[Class 20]\nTH\n2026-11-05\nMultiple Linear Regression, 2\n\n\n[Class 21]\nTU\n2026-11-10\nMultiple Linear Regression, 3\n\n\ndeadline\nW\n2026-11-11\nNoon: [Minute Paper] after Class 21 due\n\n\n[Class 22]\nTH\n2026-11-12\nMultiple Linear Regression, 4\n\n\n[Class 23]\nTU\n2026-11-17\nMultiple Linear Regression, 5\n\n\ndeadline\nW\n2026-11-18\nNoon: [Minute Paper] after Class 23 due\n\n\n[Class 24]\nTH\n2026-11-19\nMultiple Linear Regression, 6\n\n\n–\nTU\n2026-11-24\nThanksgiving (no 431 today; CWRU is in session)\n\n\n–\nTH\n2026-11-26\nCWRU Thanksgiving Break (no 431 today)"
+    "text": "November\n\n\n\nClass\nDay\nDate\nDetails\n\n\n\n\n–\nTU\n2026-11-03\nElection Day (no 431 today; CWRU is in session)\n\n\ndeadline\nW\n2026-11-04\nNoon: [Lab 5] due\n\n\nClass 20\nTH\n2026-11-05\nMultiple Linear Regression, 2 (TEL 19-20)\n\n\nreading\n–\nby Class 21\nSpiegelhalter, Chapter 13\n\n\nClass 21\nTU\n2026-11-10\nMultiple Linear Regression, 3 (TEL 19-21)\n\n\ndeadline\nW\n2026-11-11\nNoon: Minute Paper after Class 21 due  Noon: [Lab 6] due to Canvas\n\n\nClass 22\nTH\n2026-11-12\nMultiple Linear Regression, 4 (TEL 19-22)\n\n\nClass 23\nTU\n2026-11-17\nMultiple Linear Regression, 5 (TEL 20-22)\n\n\ndeadline\nW\n2026-11-18\nNoon: Minute Paper after Class 23 due  Noon: [Lab 7] due to Canvas\n\n\nClass 24\nTH\n2026-11-19\nMultiple Linear Regression, 6 (TEL 20-22)\n\n\n–\nTU\n2026-11-24\nThanksgiving (no 431 today; CWRU is in session)\n\n\n–\nTH\n2026-11-26\nCWRU Thanksgiving Break (no 431 today)"
   },
   {
     "objectID": "calendar.html#december",
     "href": "calendar.html#december",
     "title": "Course Calendar",
     "section": "December",
-    "text": "December\n\n\n\n\n\n\n\n\n\nClass\nDay\nDate\nDetails\n\n\n\n\n[Class 25]\nTU\n2026-12-01\nTo Be Announced\n\n\ndeadline\nW\n2026-12-02\nNoon: [Minute Paper] after Class 25 due\n\n\n[Class 26]\nTH\n2026-12-03\nFinal Class\n\n\ndeadline\nF\n2026-12-11\nNOON: Final Deadline for all materials."
+    "text": "December\n\n\n\nClass\nDay\nDate\nDetails\n\n\n\n\nreading\n–\nby Class 25\nSpiegelhalter, rest of book (Chapters 4, 6, 14)\n\n\nClass 25\nTU\n2026-12-01\nTo Be Announced\n\n\ndeadline\nW\n2026-12-02\nNoon: Minute Paper after Class 25 due  Noon: [Lab 7] due to Canvas\n\n\nClass 26\nTH\n2026-12-03\nFinal Class\n\n\ndeadline\nF\n2026-12-11\nNoon: [Project C] due to Canvas  Noon: (optional) 431 Regrade Request Form due"
   },
   {
     "objectID": "calendar.html#end-of-semester-presentations",
     "href": "calendar.html#end-of-semester-presentations",
     "title": "Course Calendar",
     "section": "End of Semester Presentations",
-    "text": "End of Semester Presentations\nYou will give a closing presentation to Dr. Love (via Zoom or in person) on one of the following dates:\n\nFriday 2026-12-03\nMonday 2026-12-07\nTuesday 2026-12-08\nWednesday 2026-12-09\n\nWe will schedule these presentations together in early November."
-  },
-  {
-    "objectID": "calendar.html#old-stuff-follows",
-    "href": "calendar.html#old-stuff-follows",
-    "title": "Course Calendar",
-    "section": "OLD STUFF FOLLOWS",
-    "text": "OLD STUFF FOLLOWS\n\n\n\nClass\nDay\nDate\nAdditional Information\n\n\n\n\nClass 01\nTU\n2025-09-02\nGetting Started (TEL 1-2)\n\n\ndeadline\nW\n2025-09-03\nWelcome to 431 Survey due at noon\n\n\nClass 02\nTH\n2025-09-04\nData Visualization and Summary (TEL 2-3)\n\n\nreading\n–\nby Class 03\nSpiegelhalter: Introduction and Chapter 1  R4DS: Introduction and as much of “Whole game” as possible  skim through the Project A instructions  read the Lab 1 instructions\n\n\nClass 03\nTU\n2025-09-09\nData Wrangling (TEL 4)\n\n\ndeadline\nW\n2025-09-10\nMinute Paper after 09-09 due at noon\n\n\nClass 04\nTH\n2025-09-11\nSome Exploratory Questions\n\n\nreading\n–\nby Class 5\nSpiegelhalter: Chapters 2 and 3  R4DS: remainder of “Whole game” (Sections 1-8)  get going on Project A Data work\n\n\nClass 05\nTU\n2025-09-16\nComparing Means (TEL 5-6)\n\n\ndeadline\nW\n2025-09-17\nLab 1 due at noon  Minute Paper after 09-16 due at noon\n\n\nClass 06\nTH\n2025-09-18\nTransformation (TEL 7)\n\n\nreading\n–\nby Class 7\nSpiegelhalter: Chapter 5  R4DS: “Visualize” sections, especially sections 10 and 11  Finish the Project A Data work and start the Plan.  Review the Lab X instructions and perhaps get started.\n\n\nClass 07\nTU\n2025-09-23\nComparing Multiple Groups (TEL 8)\n\n\ndeadline\nW\n2025-09-24\nLab 2 due at noon  Minute Paper after 09-23 due at noon\n\n\nClass 08\nTH\n2025-09-25\nOne-Factor Analysis of Variance (TEL 9)\n\n\nreading\n–\nby Class 09\nSpiegelhalter: Chapter 7  R4DS: Sections 16 (Factors) and 28 (Quarto)  Complete the Project A Plan: due Wednesday!\n\n\nClass 09\nTU\n2025-09-30\nTransformations in ANOVA (TEL 8-9)"
-  },
-  {
-    "objectID": "calendar.html#october-1",
-    "href": "calendar.html#october-1",
-    "title": "Course Calendar",
-    "section": "October",
-    "text": "October\n\n\n\nClass\nDay\nDate\nAdditional Information\n\n\n\n\ndeadline\nW\n2025-10-01\nProject A Plan due at noon\n\n\nClass 10\nTH\n2025-10-02\nSimple Linear Regression and Correlation (TEL 10-11)\n\n\nreading\n–\nby Class 11\nSpiegelhalter: Chapter 8\n\n\nClass 11\nTU\n2025-10-07\nCIs for Proportions, Two-by-Two Tables (TEL 13)\n\n\ndeadline\nW\n2025-10-08\nLab 3 due at noon  Minute Paper after 10-07 due at noon\n\n\nClass 12\nTH\n2025-10-09\nLarger Two-Way Cross-Classifications (TEL 14)\n\n\ndeadline\nF\n2025-10-10\nRevisions for Project A Plan (for 12 groups)  due to Canvas at 10 AM (Note special time)\n\n\nreading\n–\nby Class 13\nSpiegelhalter: Chapter 9  get started on Project A Analyses\n\n\nClass 13\nTU\n2025-10-14\nWhat’s wrong with Statistical Significance?\n\n\ndeadline\nW\n2025-10-15\nLab 4 due at noon  Minute Paper after 10-14 due at noon\n\n\nClass 14\nTH\n2025-10-16\nLinear Regression Analyses  Quiz 1 made available by 3 PM\n\n\nreading\n–\nby Class 15\nSpiegelhalter: Chapter 10  If you haven’t already done Lab X now might be a good time.\n\n\n–\nM\n2025-10-20\nCWRU Fall Break - TA office hours canceled.\n\n\n–\nTU\n2025-10-21\nCWRU Fall Break - no 431 class, and TA office hours canceled.\n\n\ndeadline\nW\n2025-10-22\nQuiz 1 due at noon\n\n\nClass 15\nTH\n2025-10-23\nCatch Up and Ask Me Anything / Project A Help Session over Zoom\n\n\ndeadline\nF\n2025-10-24\nFavorite Movies Survey due at 10 AM.\n\n\nreading\n–\nby Class 16\nSpiegelhalter: Chapter 11  complete the Project A Portfolio report\n\n\nClass 16\nTU\n2025-10-28\nMaking Adjustments (TEL 15)\n\n\ndeadline\nW\n2025-10-29\nProject A Portfolio due at noon  Minute Paper after 10-28 due at noon\n\n\nClass 17\nTH\n2025-10-30\nDealing with Missing Data (TEL 16)"
-  },
-  {
-    "objectID": "calendar.html#november-1",
-    "href": "calendar.html#november-1",
-    "title": "Course Calendar",
-    "section": "November",
-    "text": "November\n\n\n\nClass\nDay\nDate\nAdditional Information\n\n\n\n\nClass 18\nTU\n2025-11-04\nTwo-Factor Analysis of Variance (TEL 18)\n\n\ndeadline\nW\n2025-11-05\nLab 5 due at noon  Minute Paper after 11-04 due at noon\n\n\nClass 19\nTH\n2025-11-06\nMultiple Linear Regression, 1 (TEL 17)\n\n\nreading\n–\nby Class 20\nSpiegelhalter: Chapter 13\n\n\nClass 20\nTU\n2025-11-11\nMultiple Linear Regression, 2 (TEL 19)\n\n\ndeadline\nW\n2025-11-12\nProject B Registration Form due at noon  Minute Paper after 11-11 due at noon\n\n\nClass 21\nTH\n2025-11-13\nMultiple Linear Regression, 3 (TEL 19-20)\n\n\n–\nF\n2025-11-14\nSchedule for Project B Presentations announced\n\n\nreading\n–\nby Class 22\nSpiegelhalter: Chapter 4  Remember that Lab X is due in early December.\n\n\nClass 22\nTU\n2025-11-18\nMultiple Linear Regression, 4 (TEL 19-21)\n\n\ndeadline\nW\n2025-11-19\nLab 6 due at noon  Minute Paper after 11-18 due at noon\n\n\nClass 23\nTH\n2025-11-20\nMultiple Linear Regression, 5 (TEL 19-21)  Quiz 2 made available by 3 PM\n\n\n–\nFR\n2025-11-21\nLast Day for TA office hours until 2025-11-29\n\n\n–\nTU\n2025-11-25\nNo 431 Class\n\n\n–\nTH\n2025-11-27\nNo 431 Class. Thanksgiving Break at CWRU\n\n\n–\nSA\n2025-11-29\nTA office hours resume\n\n\nreading\n–\nby Class 24\nSpiegelhalter: rest of book (chapters 6 and 14)"
-  },
-  {
-    "objectID": "calendar.html#december-1",
-    "href": "calendar.html#december-1",
-    "title": "Course Calendar",
-    "section": "December",
-    "text": "December\n\n\n\nClass\nDay\nDate\nAdditional Information\n\n\n\n\nClass 24\nTU\n2025-12-02\nRobust Linear Models\n\n\ndeadline\nW\n2025-12-03\nQuiz 2 due at noon\n\n\n–\nW\n2025-12-03\nProject B Presentation Schedule  3 Zoom presentations, at 9 AM, 10:30 AM, 2:30 PM\n\n\nClass 25\nTH\n2025-12-04\nQuiz 2 Review and Final Class  Project B Presentation Schedule  5 in-person presentations from 9:50 AM to 12:15 PM  and 3 more via Zoom from 3:55 PM to 5:15 PM\n\n\n–\nF\n2025-12-05\nProject B Presentation Schedule  9 Zoom talks: 11:25 AM to 12:45 PM and 1:55 PM to 4:45 PM\n\n\n–\nM\n2025-12-08\nProject B Presentation Schedule  14 Zoom talks: 8:50 AM to 12:45 PM and 2:40 PM to 5:15 PM\n\n\n–\nTU\n2025-12-09\nLast Day for TA office hours  Project B Presentation Schedule  7 in-person presentations:  11:20 AM to 12:15 PM and 12:50 PM to 3:15 PM\n\n\ndeadline\nW\n2025-12-10\nAll Project B Materials due at noon.  Lab X due at noon.  Lab Regrade Request Form (optional) also due at noon."
-  },
-  {
-    "objectID": "calendar.html#getting-help",
-    "href": "calendar.html#getting-help",
-    "title": "Course Calendar",
-    "section": "Getting Help",
-    "text": "Getting Help\nVisit the Contact Us page for ways to get help in this class."
-  },
-  {
-    "objectID": "calendar.html#ta-office-hours",
-    "href": "calendar.html#ta-office-hours",
-    "title": "Course Calendar",
-    "section": "TA Office Hours",
-    "text": "TA Office Hours\nTA office hours are held via Zoom, and will begin on Wednesday 2025-09-03 and will continue through Tuesday 2025-12-09.\nOur Shared Google Drive (431 Fall 2025 Dr Love and Students) will display Zoom links for all TA office hours in a document called TA office hours schedule and Zoom links. No appointment is necessary. Please just drop in.\n\n\n\n\n\n\n\nDATE\nTIME(S) (All times Eastern)\n\n\n\n\nMONDAYS\n11:45 AM to 12:45 PM, 3:00 PM to 4:30 PM, 6:00 PM to 10:30 PM\n\n\nTUESDAYS\n11:45 AM to 12:45 PM, 7:00 PM to 10:00 PM\n\n\nWEDNESDAYS\n11:30 AM to 1:00 PM\n\n\nTHURSDAYS\n11:45 AM to 12:45 PM, 7:00 PM to 10:00 PM\n\n\nFRIDAYS\n11:45 AM to 12:45 PM, 3:30 PM to 5:00 PM, 9:00 PM to 10:30 PM\n\n\nSATURDAYS\n10:30 AM to Noon, 7:30 PM to 9:00 PM\n\n\nSUNDAYS\n7:00 PM to 10:00 PM\n\n\n\n\nIf you have a question you want to pose via email about the course (especially outside of TA office hour times), you can send it to 431-help at case dot edu. Dr. Love and the TAs will see this email, and should usually respond fairly quickly.\nIn addition, Professor Love will also hold “drop-in hours” for 10 minutes before and for 30 minutes after each class on Tuesdays and Thursdays.\nTA Office hours are canceled on 2025-10-20 and 2025-10-21 (Fall Break) and from 2025-11-22 through 2025-11-28 (Thanksgiving)\nMore information on each of this semester’s TAs is found in our Syllabus."
+    "text": "End of Semester Presentations\nYou will give a closing Project C presentation to Dr. Love (via Zoom or in person) on one of the following dates:\n\nFriday 2026-12-03\nMonday 2026-12-07\nTuesday 2026-12-08\nWednesday 2026-12-09\n\nWe will schedule these presentations together in early November."
   },
   {
     "objectID": "assignments.html",
