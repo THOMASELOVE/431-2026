@@ -11,7 +11,7 @@
     "href": "software.html#installing-r-and-r-studio",
     "title": "Software for 431",
     "section": "Installing R and R Studio",
-    "text": "Installing R and R Studio\nThe steps you need to complete are:\n\nDownload and install the latest version of R (version 4.5.1 or later) from https://cran.case.edu/ or, if you prefer, from https://cloud.r-project.org/ which automatically chooses a fast, nearby mirror for you.\n\nIf you have a pre-existing installation of R and/or RStudio, we highly recommend that you re-install both to get current.\n\nDownload and install RStudio Desktop (Open Source Edition - the free version 2025.05.1+513 or later) by visiting https://posit.co/download/rstudio-desktop/."
+    "text": "Installing R and R Studio\nThe steps you need to complete are:\n\nDownload and install the latest version of R (version 4.6.1 or later) from https://cran.case.edu/ or, if you prefer, from https://cloud.r-project.org/ which automatically chooses a fast, nearby mirror for you.\n\nIf you have a pre-existing installation of R and/or RStudio, we highly recommend that you re-install both to get current.\n\nDownload and install RStudio Desktop (Open Source Edition - the free version 2026.07.1-147 or later) by visiting https://docs.posit.co/ide/user/#rstudio-ide-oss-downloads."
   },
   {
     "objectID": "software.html#installing-r-packages-and-datacode-for-431",
