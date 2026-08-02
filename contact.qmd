@@ -3,37 +3,8 @@ title: "Contact Us"
 date: last-modified
 ---
 
-## Before the class begins on 2025-09-02
+## Before the class begins on 2026-08-25
 
 If you have any questions before class begins, email Professor Love at `thomas dot love at case dot edu`.
 
-## Once the Class Begins
 
-If you’ve spent 15 minutes working on something and are stuck, don’t keep working on it. ASK FOR HELP. To get help in this course, you have three main options 
-
-1. Ask a TA for help during their office hours, 
-2. send an email to **431-help** at **case** dot **edu**, or
-3. ask Dr. Love for help before or after class.
-
-## TA Office Hours
-
-TA office hours are held via Zoom, and will begin on **Wednesday 2025-09-03** and will continue through **Tuesday 2025-12-09**. 
-
-Our [Shared Google Drive (431 Fall 2025 Dr Love and Students)](google.qmd) will display Zoom links for all TA office hours in a document called **TA office hours schedule and Zoom links**. No appointment is necessary. Please just drop in.
-
-DATE | TIME(S) (All times Eastern)
-:--------: | :----------------------------------
-MONDAYS | 11:45 AM to 12:45 PM, 3:00 PM to 4:30 PM, 6:00 PM to 10:30 PM
-TUESDAYS | 11:45 AM to 12:45 PM, 7:00 PM to 10:00 PM
-WEDNESDAYS | 11:30 AM to 1:00 PM
-THURSDAYS | 11:45 AM to 12:45 PM, 7:00 PM to 10:00 PM
-FRIDAYS | 11:45 AM to 12:45 PM, 3:30 PM to 5:00 PM, 9:00 PM to 10:30 PM
-SATURDAYS | 10:30 AM to Noon, 7:30 PM to 9:00 PM
-SUNDAYS | 7:00 PM to 10:00 PM
-
-- TA Office hours are canceled on 2025-10-20 and 2025-10-21 (Fall Break) and from 2025-11-22 through 2025-11-28 (Thanksgiving)
-- More information on each of this semester's TAs is [found in our Syllabus](https://thomaselove.github.io/431-syllabus-2025/08_teachingassistants.html).
-
-## Does Dr. Love hold Office Hours?
-
-Professor Love holds “drop-in hours” for 10 minutes before and for 30 minutes after each class on Tuesdays and Thursdays.
