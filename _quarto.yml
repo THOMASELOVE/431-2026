@@ -23,7 +23,7 @@ website:
       - text: "Calendar"
         href: calendar.qmd
       - text: "Syllabus"
-        href: https://thomaselove.github.io/431-syllabus-2025/
+        href: https://thomaselove.github.io/431-syllabus-2026/
       - text: "Course Book"
         href: https://thomaselove.github.io/431-book/
       - text: "Assignments"
@@ -40,15 +40,15 @@ website:
         - text: "431 R packages"
           href: https://github.com/THOMASELOVE/431-packages
         - text: "Minute Papers (Github)"
-          href: https://github.com/THOMASELOVE/431-minute-2025
+          href: https://github.com/THOMASELOVE/431-minute-2026
         - text: "Labs (Github)"
-          href: https://github.com/THOMASELOVE/431-labs-2025
+          href: https://github.com/THOMASELOVE/431-labs-2026
         - text: "Quizzes (Github)"
-          href: https://github.com/THOMASELOVE/431-quizzes-2025
+          href: https://github.com/THOMASELOVE/431-quizzes-2026
         - text: "Project A (Github)"
-          href: https://thomaselove.github.io/431-projectA-2025
+          href: https://thomaselove.github.io/431-projectA-2026
         - text: "Project B (Github)"
-          href: https://thomaselove.github.io/431-projectB-2025/
+          href: https://thomaselove.github.io/431-projectB-2026
         - text: "Canvas"
           href: https://canvas.case.edu
         - text: "Shared Google Drive"
