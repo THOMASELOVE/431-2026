@@ -186,7 +186,7 @@
     "href": "contact.html#once-the-class-begins",
     "title": "Contact Us",
     "section": "Once the class begins",
-    "text": "Once the class begins\nIf you’ve spent 15 minutes working on something and are stuck, don’t keep working on it. ASK FOR HELP. To get help in this course, you have three main options…\n\nAsk a Teaching Assistant (TA) for help during their office hours,\nsend an email to 431-help at case dot edu, or\nask Dr. Love for help before or after class.\n\n\nIf you have a question you want to pose via email about the course (especially outside of TA office hour times), you can send it to 431-help at case dot edu. Dr. Love and the TAs will see this email, and should usually respond fairly quickly.\nIn addition, Professor Love is usually available in our classroom 10 minutes before and for some time after each class on Tuesdays and Thursdays. Should you want to make an appointment with him for a longer or more personal conversation, just email him at Thomas dot Love at case dot edu.\nThis section of our Syllabus provides additional information on getting help, including descriptions of how we use Canvas and Google Drive."
+    "text": "Once the class begins\nIf you’ve spent 15 minutes working on something and are stuck, don’t keep working on it. ASK FOR HELP. To get help in this course, you have three main options…\n\nAsk a Teaching Assistant (TA) for help during their office hours, or\nsend an email to 431-help@case.edu and we’ll respond quickly, or\nask Professor Love for help before or after class.\n\n\nProfessor Love is usually available in our classroom 10 minutes before and for some time after each class on Tuesdays and Thursdays. Should you want to make an appointment with him for a longer or more personal conversation, just email him at Thomas dot Love at case dot edu.\nThis section of our Syllabus provides additional information on getting help, including descriptions of how we use Canvas and Google Drive."
   },
   {
     "objectID": "contact.html#ta-office-hours",
@@ -250,6 +250,13 @@
     "title": "Resources for 431",
     "section": "",
     "text": "While I will recommend dozens of articles, blog posts and the like to you over the course of the year, these are especially important in 431.\n\nSeveral of the guides prepared by Jeff Leek and his group, including:\n\nReading academic (scientific) papers,\nWriting your first academic paper\nWrite papers like a modern scientist\nHow to Share Data for Collaboration by Shannon E. Ellis and Jeffrey T. Leek in The American Statistician, 2018 Special Issue on Data Science, or you can read the PeerJ preprint version here.\n\nData Organization in Spreadsheets by Karl W. Broman and Kara H. Woo in The American Statistician, 2018 Special Issue on Data Science, or you can read the PeerJ preprint version.\n\nThe Ellis/Leek and Broman/Woo papers are part of the Practical Data Science for Stats collection, which may be of interest.\n\nProject-oriented workflow at tidyverse.org from Jenny Bryan.\nFrom the Ten Simple Rules series at PLOS Computational Biology:\n\nTen Simple Rules for Effective Statistical Practice by Kass RE et al. 2016\nTen Simple Rules for Graduate Students by Gu J Bourne PE 2007\nTen Simple Rules for Better Figures by Rougier NP Droettboom M Bourne PE 2014\nTen Simple Rules for Creating a Good Data Management Plan by Michener WK 2015\n\nStatistical Inference in the 21st Century: A World Beyond p &lt; 0.05 from 2019 in The American Statistician\nThe American Statistical Association’s 2016 Statement on p-Values: Context, Process and Purpose.\n\nProfessor Love’s class-specific READMEs will provide links to these articles and other recommended readings as the semester goes on."
+  },
+  {
+    "objectID": "resources.html#a-few-books",
+    "href": "resources.html#a-few-books",
+    "title": "Resources for 431",
+    "section": "A Few Books",
+    "text": "A Few Books\nThere are many free R books available online. Here are a few that some students in past versions of this course have liked.\n\nIntroduction to Modern Statistics, 2nd edition by Mine Çetinkaya-Rundel and Johanna Hardin.\nIntroduction to Data Science: Data Analysis and Prediction Algorithms with R by Rafael A. Irizarry\nFundamentals of Data Visualization by Claus O. Wilke\nData Visualization: A practical introduction by Kieran Healy"
   },
   {
     "objectID": "resources.html#getting-better-at-r-rstudio-and-quarto",

@@ -11,12 +11,11 @@ If you have any questions before class begins, email Professor Love at `thomas d
 
 If you’ve spent 15 minutes working on something and are stuck, don’t keep working on it. ASK FOR HELP. To get help in this course, you have three main options...
 
-1. Ask a Teaching Assistant (TA) for help during their office hours, 
-2. send an email to **431-help** at **case** dot **edu**, or
-3. ask Dr. Love for help before or after class.
+1. Ask a Teaching Assistant (TA) for help during their office hours, or 
+2. send an email to `431-help@case.edu` and we'll respond quickly, or
+3. ask Professor Love for help before or after class.
 
-- If you have a question you want to pose via email about the course (especially outside of TA office hour times), you can send it to **431-help** at **case** dot **edu**. Dr. Love and the TAs will see this email, and should usually respond fairly quickly.
-- In addition, Professor Love is usually available in our classroom 10 minutes before and for some time after each class on Tuesdays and Thursdays. Should you want to make an appointment with him for a longer or more personal conversation, just email him at **Thomas** dot **Love** at **case** dot **edu**.
+- Professor Love is usually available in our classroom 10 minutes before and for some time after each class on Tuesdays and Thursdays. Should you want to make an appointment with him for a longer or more personal conversation, just email him at **Thomas** dot **Love** at **case** dot **edu**.
 - [This section](https://thomaselove.github.io/431-syllabus-2026/09_gettinghelp.html) of our Syllabus provides additional information on getting help, including descriptions of how we use [Canvas](https://canvas.case.edu/) and [Google Drive](google.qmd).
 
 ## TA Office Hours
