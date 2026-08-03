@@ -5,38 +5,42 @@ date: last-modified
 
 The course makes heavy use of the R statistical programming language, and several related tools, most especially the RStudio development environment. Every bit of this software is free to use, and open-source.
 
-You will need access to a computer to do your work for this class, not just an iPad or other tablet, but an actual computer. You do not need a state of the art machine, nor should you need any special hardware to run things for this course.
+- You will need access to a computer to do your work for this class, not just an iPad or other tablet, but an actual computer. 
+- It will likely be easier for you to have a laptop in class that you can use freely, but all necessary computer work in 431 can be done outside of the classroom. 
+- You do not need a state of the art machine, nor should you need any special hardware.
 
 ## Installing R and R Studio
 
-The steps you need to complete are:
+The installation steps you need to complete are:
 
 1. Download and install the latest version of R (version **4.6.1** or later) from <https://cran.case.edu/> or, if you prefer, from <https://cloud.r-project.org/> which automatically chooses a fast, nearby mirror for you.
 
-    - If you have a pre-existing installation of R and/or RStudio, we highly recommend that you re-install both to get current.
+    - If you have a pre-existing installation of R and/or RStudio, you will have an easier time this semester if you re-install both to get current.
 
-2. Download and install RStudio Desktop (Open Source Edition - the free version **2026.07.1-147** or later) by visiting <https://docs.posit.co/ide/user/#rstudio-ide-oss-downloads>.
+2. Download and install RStudio Desktop (Open Source Edition - **2026.07.1-147** or later) by visiting [this link](https://docs.posit.co/ide/user/#rstudio-ide-oss-downloads).
 
+    - If you are familiar with the [Positron](https://positron.posit.co/) development environment and prefer to use it, that **might** be OK, but the 431 staff will exclusively use and support RStudio.
+    
 ## Installing R Packages and Data/Code for 431
 
 After you’ve completed steps 1 and 2 above, move on to these tasks:
 
 3. Install some R packages - an R “package” is a collection of functions, data, and documentation that extends the capabilities of R, and is the critical way to get R doing interesting work.
 
-    - Visit <https://github.com/THOMASELOVE/431-packages> for details and the list of packages we’ll be using in 431.
+    - Visit <https://github.com/THOMASELOVE/431-packages> for details and the list of packages we want you to install for 431.
 
-4. Download data and code (functions) we’ve developed specifically for 431 at <https://github.com/THOMASELOVE/431-data>. Follow the instructions you’ll find there.
+4. Download 431-specific data and code (functions) at <https://github.com/THOMASELOVE/431-data>, following the instructions there.
 
 ## Need Installation Help?
 
-If you need more help, you might look at [this terrific resource](https://stat545.com/install.html) for Installing R and RStudio from Jenny Bryan and the STAT 545 project. These are the people responsible for the great [Happy Git with R](https://happygitwithr.com/) project, which will also be worth your time when we are using Git and GitHub.
+If you need more help, you might look at [this terrific resource](https://stat545.com/install.html) for Installing R and RStudio from Jenny Bryan and the STAT 545 project. 
 
 - If you’re having trouble with installation before our first class, don’t worry too much. The TAs and Professor Love will be available to help once the class gets going.
-- Once the class starts, if you’re having installation problems or problems getting started in R, please consider visiting TA office hours or perhaps asking a question on Campuswire. We want to hear from you!
+- Once the class starts, if you’re having installation problems or problems getting started in R, please consider visiting TA office hours or [contacting us](contact.qmd) in another way.
 
 ## Updating Your R Packages
 
-Every once in a while, it’s a good idea to update your R packages. To do so,
+Every few times you open RStudio, it’s a good idea to update your R packages. To do so,
 
 1. Go to the Packages tab on the right side of your RStudio screen, and click on Update.
 
@@ -49,6 +53,7 @@ Every once in a while, it’s a good idea to update your R packages. To do so,
 
 3. Finally, choose File ... Quit Session from the top menu, and accept or deny (I usually deny) RStudio’s request to save your workspace. Then close RStudio, and re-open it if you want to do some work.
 
-## Getting Better at R, RStudio and Quarto
+## For More Information
 
-These resources are found on our [Resources page](resources.qmd)
+We'll provide a lot of information in class on the use of this software. Visit our [Resources page](resources.qmd) for additional suggestions.
+

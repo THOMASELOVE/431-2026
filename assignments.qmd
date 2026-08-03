@@ -3,6 +3,35 @@ title: "Assignments for 431 in Fall 2026"
 date: last-modified
 ---
 
-This page links to all instructions and other information about course assignments. All deadlines are found on the [Course Calendar](calendar.qmd).
+## Projects
 
-Details to come.
+The most important assignments this semester are the three projects. 
+
+- The [Project A page](https://thomaselove.github.io/431-projectA-2026/) provides instructions and materials related to Project A.
+- The [Project B page](https://thomaselove.github.io/431-projectB-2026/) provides Project B instructions and materials.
+- The [Project C page](https://thomaselove.github.io/431-projectC-2026/) provides Project C instructions and materials.
+
+- Project deadlines are specified on the [Course Calendar](calendar.qmd). 
+
+## Labs
+
+The [Lab page](https://github.com/THOMASELOVE/431-labs-2026) links to instructions and materials for each of the seven lab assignments. 
+
+- Lab deadlines are specified on the [Course Calendar](calendar.qmd). 
+
+## Minute Papers
+
+The [Minute Papers page](https://github.com/THOMASELOVE/431-minute-2026) provides links to all Minute Paper assignments and feedback documents.
+
+- Minute Paper deadlines are also specified on the [Course Calendar](calendar.qmd). 
+
+## Quizzes
+
+Professor Love will set several "Quizzes" these semester. 
+
+- These "Quizzes" might better be described as "check ins": brief opportunities for you to demonstrate your understanding and how well you're keeping up with the course. 
+- Quiz details will be provided as they appear during the semester, **rather** than in advance, so you **won't** find them on the Course Calendar.
+
+## For More Information
+
+Our [Syllabus](https://thomaselove.github.io/431-syllabus-2026/) provides additional information on [assignments](https://thomaselove.github.io/431-syllabus-2026/10_assignments.html) and on how the course is [graded](https://thomaselove.github.io/431-syllabus-2026/11_grading.html).

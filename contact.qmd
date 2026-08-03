@@ -7,4 +7,28 @@ date: last-modified
 
 If you have any questions before class begins, email Professor Love at `thomas dot love at case dot edu`.
 
+## Once the class begins
+
+If you’ve spent 15 minutes working on something and are stuck, don’t keep working on it. ASK FOR HELP. To get help in this course, you have three main options...
+
+1. Ask a TA for help during their office hours, 
+2. send an email to **431-help** at **case** dot **edu**, or
+3. ask Dr. Love for help before or after class.
+
+- If you have a question you want to pose via email about the course (especially outside of TA office hour times), you can send it to **431-help** at **case** dot **edu**. Dr. Love and the TAs will see this email, and should usually respond fairly quickly.
+- In addition, Professor Love is usually available in our classroom 10 minutes before and for some time after each class on Tuesdays and Thursdays. Should you want to make an appointment with him for a longer or more personal conversation, just email him at **Thomas** dot **Love** at **case** dot **edu**.
+- [This section](https://thomaselove.github.io/431-syllabus-2026/09_gettinghelp.html) of our Syllabus provides additional information on getting help, including descriptions of how we use [Canvas](https://canvas.case.edu/) and [Google Drive](google.qmd).
+
+## TA Office Hours
+
+TA Office Hours for 431 will begin on Sunday 2026-08-30 and continue through Tuesday 2026-12-08. All TA Office Hours are held over Zoom. 
+
+DATE | TIME(S) (All times Eastern)
+:--------: | :----------------------------------
+--- | To Be Announced
+
+Our [Shared Google Drive (431 Fall 2026 Dr Love and Students)](google.qmd) will display Zoom links for all TA office hours in a document called **431 TA office hours schedule and Zoom links**. No appointment is necessary. Please just drop in.
+
+- Note that 431 TA Office Hours are **cancelled** on Monday 2026-10-19 and Tuesday 2026–10-20 for Fall Break, and also **cancelled** from Saturday 2026-11-21 through Friday 2026-11-27 during Thanksgiving Week.
+- More information on each of this semester's TAs is [found in our Syllabus](https://thomaselove.github.io/431-syllabus-2025/08_teachingassistants.html).
 

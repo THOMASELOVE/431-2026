@@ -7,7 +7,7 @@ website:
   announcement: 
     icon: tornado
     dismissable: true
-    content: "**Alert** - this website is a very incomplete DRAFT under construction. Do not rely on any information posted here yet."
+    content: "**Alert** - this website is a DRAFT under construction. Do not rely on any information posted here yet."
     type: primary
     position: below-navbar
   margin-header: |
@@ -39,16 +39,16 @@ website:
           href: https://github.com/THOMASELOVE/431-data
         - text: "431 R packages"
           href: https://github.com/THOMASELOVE/431-packages
-        - text: "Minute Papers (Github)"
+        - text: "Minute Papers"
           href: https://github.com/THOMASELOVE/431-minute-2026
-        - text: "Labs (Github)"
+        - text: "Labs"
           href: https://github.com/THOMASELOVE/431-labs-2026
-        - text: "Quizzes (Github)"
-          href: https://github.com/THOMASELOVE/431-quizzes-2026
-        - text: "Project A (Github)"
+        - text: "Project A"
           href: https://thomaselove.github.io/431-projectA-2026
-        - text: "Project B (Github)"
+        - text: "Project B"
           href: https://thomaselove.github.io/431-projectB-2026
+        - text: "Project C"
+          href: https://thomaselove.github.io/431-projectC-2026
         - text: "Canvas"
           href: https://canvas.case.edu
         - text: "Shared Google Drive"

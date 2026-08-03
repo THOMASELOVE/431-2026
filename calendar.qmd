@@ -26,18 +26,18 @@ Class | Day | Date | Details
 :-----: | :---: | ---------- | ----------------------------
 [Class 03](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class03) | TU | 2026-09-01 | Using R, Data Visualization and Summary ([TEL](https://thomaselove.github.io/431-book/) 1-3)
 **deadline** | **W** | 2026-09-02 | **Noon**: [Minute Paper](https://github.com/THOMASELOVE/431-minute-2026) after Class 03 due 
-[Class 04](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class04) | TH | 2026-09-03 | Data Wrangling, Preparing for Lab 1 ([TEL](https://thomaselove.github.io/431-book/) 1-4)
+[Class 04](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class04) | TH | 2026-09-03 | Data Wrangling, Preparing for [Lab 1](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab1) ([TEL](https://thomaselove.github.io/431-book/) 1-4)
 *reading* | -- | by Class 05 | Spiegelhalter, Chapters 2-3 <br> [R4DS](https://r4ds.hadley.nz/): complete Sections 1-8 ("Whole game")
 [Class 05](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class05) | TU | 2026-09-08 | Comparing Means, Study Designs ([TEL](https://thomaselove.github.io/431-book/) 5-6)
-**deadline** | **W** | 2026-09-09 | **Noon**: [Minute Paper](https://github.com/THOMASELOVE/431-minute-2026) after Class 05 due <br> **Noon**: [Lab 1] due to Canvas
+**deadline** | **W** | 2026-09-09 | **Noon**: [Minute Paper](https://github.com/THOMASELOVE/431-minute-2026) after Class 05 due <br> **Noon**: [Lab 1](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab1) due to Canvas
 [Class 06](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class06) | TH | 2026-09-10 | Uncertainty Intervals, Transformation ([TEL](https://thomaselove.github.io/431-book/) 7)
 *reading* | -- | by Class 07 | Spiegelhalter, Chapter 5 <br> [R4DS](https://r4ds.hadley.nz/): "Visualize": sections 9-11
 [Class 07](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class07) | TU | 2026-09-15 | Comparing Multiple Groups, 1 ([TEL](https://thomaselove.github.io/431-book/) 8-9)
-**deadline** | **W** | 2026-09-16 | **Noon**: [Minute Paper](https://github.com/THOMASELOVE/431-minute-2026) after Class 07 due <br> **Noon**: [Lab 2] due to Canvas
+**deadline** | **W** | 2026-09-16 | **Noon**: [Minute Paper](https://github.com/THOMASELOVE/431-minute-2026) after Class 07 due <br> **Noon**: [Lab 2](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab2) due to Canvas
 [Class 08](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class08) | TH | 2026-09-17 | Comparing Multiple Groups, 2 ([TEL](https://thomaselove.github.io/431-book/) 8-9)
 *reading* | -- | by Class 09 | Spiegelhalter, Chapter 7 <br> [R4DS](https://r4ds.hadley.nz/): sections 16 and 28
 [Class 09](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class09) | TU | 2026-09-22 | Association and Correlation ([TEL](https://thomaselove.github.io/431-book/) 10)
-**deadline** | **W** | 2026-09-23 | **Noon**: [Minute Paper](https://github.com/THOMASELOVE/431-minute-2026) after Class 09 due <br> **Noon**: [Lab 3] due to Canvas
+**deadline** | **W** | 2026-09-23 | **Noon**: [Minute Paper](https://github.com/THOMASELOVE/431-minute-2026) after Class 09 due <br> **Noon**: [Lab 3](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab3) due to Canvas
 [Class 10](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class10) | TH | 2026-09-24 | Simple Linear Regression ([TEL](https://thomaselove.github.io/431-book/) 10-11)
 *reading* | -- | by Class 11 | Spiegelhalter, Chapter 8 <br> ASA 2016 [Statement on p-values](https://amstat.tandfonline.com/doi/full/10.1080/00031305.2016.1154108) Excerpts
 [Class 11](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class11) | TU | 2026-09-29 | Why Statistical Significance is useless ([TEL](https://thomaselove.github.io/431-book/) 12)
@@ -54,7 +54,7 @@ Class | Day | Date | Details
 [Class 14](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class14) | TH | 2026-10-08 | Power and Sample Size Considerations ([TEL](https://thomaselove.github.io/431-book/) 15)
 *reading* | -- | by Class 15 | Spiegelhalter, Chapter 10
 [Class 15](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class15) | TU | 2026-10-13 | To Be Announced
-**deadline** | **W** | 2026-10-14 | **Noon**: [Minute Paper](https://github.com/THOMASELOVE/431-minute-2026) after Class 15 due <br> **Noon**: [Lab 4] due to Canvas
+**deadline** | **W** | 2026-10-14 | **Noon**: [Minute Paper](https://github.com/THOMASELOVE/431-minute-2026) after Class 15 due <br> **Noon**: [Lab 4](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab4) due to Canvas
 [Class 16](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class16) | TH | 2026-10-15 | Making Adjusted Comparisons ([TEL](https://thomaselove.github.io/431-book/) 16)
 -- | TU | 2026-10-20 | CWRU Fall Break (no 431 today)
 [Class 17](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class17) | TH | 2026-10-22 | Dealing with Missing Data ([TEL](https://thomaselove.github.io/431-book/) 17)
@@ -68,14 +68,14 @@ Class | Day | Date | Details
 Class | Day | Date | Details
 :-----: | :---: | ---------- | ----------------------------
 -- | TU | 2026-11-03 | Election Day (no 431 today; CWRU is in session)
-**deadline** | **W** | 2026-11-04 | **Noon**: [Lab 5] due
+**deadline** | **W** | 2026-11-04 | **Noon**: [Lab 5](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab5) due via email to Dr. Love
 [Class 20](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class20) | TH | 2026-11-05 | Multiple Linear Regression, 2 ([TEL](https://thomaselove.github.io/431-book/) 19-20)
-*reading* | -- | by Class 21 | Spiegelhalter, Chapter 13
+*reading* | -- | by Class 21 | Spiegelhalter, Chapters 12-13
 [Class 21](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class21) | TU | 2026-11-10 | Multiple Linear Regression, 3 ([TEL](https://thomaselove.github.io/431-book/) 19-21)
-**deadline** | **W** | 2026-11-11 | **Noon**: [Minute Paper](https://github.com/THOMASELOVE/431-minute-2026) after Class 21 due <br> **Noon**: [Lab 6] due to Canvas
+**deadline** | **W** | 2026-11-11 | **Noon**: [Minute Paper](https://github.com/THOMASELOVE/431-minute-2026) after Class 21 due <br> **Noon**: [Lab 6](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab6) due to Canvas
 [Class 22](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class22) | TH | 2026-11-12 | Multiple Linear Regression, 4 ([TEL](https://thomaselove.github.io/431-book/) 19-22)
 [Class 23](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class23) | TU | 2026-11-17 | Multiple Linear Regression, 5 ([TEL](https://thomaselove.github.io/431-book/) 20-22)
-**deadline** | **W** | 2026-11-18 | **Noon**: [Minute Paper](https://github.com/THOMASELOVE/431-minute-2026) after Class 23 due <br> **Noon**: [Lab 7] due to Canvas
+**deadline** | **W** | 2026-11-18 | **Noon**: [Minute Paper](https://github.com/THOMASELOVE/431-minute-2026) after Class 23 due <br> **Noon**: [Lab 7](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab7) due to Canvas
 [Class 24](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class24) | TH | 2026-11-19 | Multiple Linear Regression, 6 ([TEL](https://thomaselove.github.io/431-book/) 20-22)
 -- | TU | 2026-11-24 | Thanksgiving (no 431 today; CWRU is in session)
 -- | TH | 2026-11-26 | CWRU Thanksgiving Break (no 431 today)
@@ -86,14 +86,13 @@ Class | Day | Date | Details
 :-----: | :---: | ---------- | ----------------------------
 *reading* | -- | by Class 25 | Spiegelhalter, rest of book (Chapters 4, 6, 14)
 [Class 25](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class25) | TU | 2026-12-01 | To Be Announced
-**deadline** | **W** | 2026-12-02 | **Noon**: [Minute Paper](https://github.com/THOMASELOVE/431-minute-2026) after Class 25 due  <br> **Noon**: [Lab 7] due to Canvas
+**deadline** | **W** | 2026-12-02 | **Noon**: [Minute Paper](https://github.com/THOMASELOVE/431-minute-2026) after Class 25 due
 [Class 26](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class26) | TH | 2026-12-03 | Final Class
-**deadline** | **F** | 2026-12-11 | **Noon**: [Project C] due to Canvas <br> **Noon**: (optional) 431 Regrade Request Form due
-
+**deadline** | **F** | 2026-12-11 | **Noon**: [Project C] materials due to Canvas <br> **Noon**: (optional) [431 Regrade Request Form](https://tinyurl.com/431-2026-regrade-request) due
 
 ## End of Semester Presentations
 
-You will give a closing Project C presentation to Dr. Love (via Zoom or in person) on one of the following dates:
+You will give your Project C presentation to Dr. Love (via Zoom or in person) on one of the following dates:
 
 - Friday 2026-12-03
 - Monday 2026-12-07
@@ -102,3 +101,18 @@ You will give a closing Project C presentation to Dr. Love (via Zoom or in perso
 
 We will schedule these presentations together in early November.
 
+## Getting Help
+
+Visit the [Contact Us page](contact.qmd) for ways to get help in this class. 
+
+## TA Office Hours
+
+TA Office Hours for 431 will begin on Sunday 2026-08-30 and continue through Tuesday 2026-12-08. All TA Office Hours are held over Zoom. 
+
+DATE | TIME(S) (All times Eastern)
+:--------: | :----------------------------------
+--- | To Be Announced
+
+Our [Shared Google Drive (431 Fall 2026 Dr Love and Students)](google.qmd) will display Zoom links for all TA office hours in a document called **431 TA office hours schedule and Zoom links**. No appointment is necessary. Please just drop in.
+
+- Note that 431 TA Office Hours are **cancelled** on Monday 2026-10-19 and Tuesday 2026–10-20 for Fall Break, and also **cancelled** from Saturday 2026-11-21 through Friday 2026-11-27 during Thanksgiving Week.

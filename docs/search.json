@@ -4,42 +4,42 @@
     "href": "software.html",
     "title": "Software for 431",
     "section": "",
-    "text": "The course makes heavy use of the R statistical programming language, and several related tools, most especially the RStudio development environment. Every bit of this software is free to use, and open-source.\nYou will need access to a computer to do your work for this class, not just an iPad or other tablet, but an actual computer. You do not need a state of the art machine, nor should you need any special hardware to run things for this course."
+    "text": "The course makes heavy use of the R statistical programming language, and several related tools, most especially the RStudio development environment. Every bit of this software is free to use, and open-source."
   },
   {
     "objectID": "software.html#installing-r-and-r-studio",
     "href": "software.html#installing-r-and-r-studio",
     "title": "Software for 431",
     "section": "Installing R and R Studio",
-    "text": "Installing R and R Studio\nThe steps you need to complete are:\n\nDownload and install the latest version of R (version 4.6.1 or later) from https://cran.case.edu/ or, if you prefer, from https://cloud.r-project.org/ which automatically chooses a fast, nearby mirror for you.\n\nIf you have a pre-existing installation of R and/or RStudio, we highly recommend that you re-install both to get current.\n\nDownload and install RStudio Desktop (Open Source Edition - the free version 2026.07.1-147 or later) by visiting https://docs.posit.co/ide/user/#rstudio-ide-oss-downloads."
+    "text": "Installing R and R Studio\nThe installation steps you need to complete are:\n\nDownload and install the latest version of R (version 4.6.1 or later) from https://cran.case.edu/ or, if you prefer, from https://cloud.r-project.org/ which automatically chooses a fast, nearby mirror for you.\n\nIf you have a pre-existing installation of R and/or RStudio, you will have an easier time this semester if you re-install both to get current.\n\nDownload and install RStudio Desktop (Open Source Edition - 2026.07.1-147 or later) by visiting this link.\n\nIf you are familiar with the Positron development environment and prefer to use it, that might be OK, but the 431 staff will exclusively use and support RStudio."
   },
   {
     "objectID": "software.html#installing-r-packages-and-datacode-for-431",
     "href": "software.html#installing-r-packages-and-datacode-for-431",
     "title": "Software for 431",
     "section": "Installing R Packages and Data/Code for 431",
-    "text": "Installing R Packages and Data/Code for 431\nAfter you’ve completed steps 1 and 2 above, move on to these tasks:\n\nInstall some R packages - an R “package” is a collection of functions, data, and documentation that extends the capabilities of R, and is the critical way to get R doing interesting work.\n\nVisit https://github.com/THOMASELOVE/431-packages for details and the list of packages we’ll be using in 431.\n\nDownload data and code (functions) we’ve developed specifically for 431 at https://github.com/THOMASELOVE/431-data. Follow the instructions you’ll find there."
+    "text": "Installing R Packages and Data/Code for 431\nAfter you’ve completed steps 1 and 2 above, move on to these tasks:\n\nInstall some R packages - an R “package” is a collection of functions, data, and documentation that extends the capabilities of R, and is the critical way to get R doing interesting work.\n\nVisit https://github.com/THOMASELOVE/431-packages for details and the list of packages we want you to install for 431.\n\nDownload 431-specific data and code (functions) at https://github.com/THOMASELOVE/431-data, following the instructions there."
   },
   {
     "objectID": "software.html#need-installation-help",
     "href": "software.html#need-installation-help",
     "title": "Software for 431",
     "section": "Need Installation Help?",
-    "text": "Need Installation Help?\nIf you need more help, you might look at this terrific resource for Installing R and RStudio from Jenny Bryan and the STAT 545 project. These are the people responsible for the great Happy Git with R project, which will also be worth your time when we are using Git and GitHub.\n\nIf you’re having trouble with installation before our first class, don’t worry too much. The TAs and Professor Love will be available to help once the class gets going.\nOnce the class starts, if you’re having installation problems or problems getting started in R, please consider visiting TA office hours or perhaps asking a question on Campuswire. We want to hear from you!"
+    "text": "Need Installation Help?\nIf you need more help, you might look at this terrific resource for Installing R and RStudio from Jenny Bryan and the STAT 545 project.\n\nIf you’re having trouble with installation before our first class, don’t worry too much. The TAs and Professor Love will be available to help once the class gets going.\nOnce the class starts, if you’re having installation problems or problems getting started in R, please consider visiting TA office hours or contacting us in another way."
   },
   {
     "objectID": "software.html#updating-your-r-packages",
     "href": "software.html#updating-your-r-packages",
     "title": "Software for 431",
     "section": "Updating Your R Packages",
-    "text": "Updating Your R Packages\nEvery once in a while, it’s a good idea to update your R packages. To do so,\n\nGo to the Packages tab on the right side of your RStudio screen, and click on Update.\nThis will bring up a dialog box. I usually click Select All, then click Install Updates.\n\nA popup box may appear, asking “Do you want to install from sources the packages which need compilation?” to which I usually answer No. A Yes response leads to a slower installation, but can solve problems if you still have them after updating.\nThis may take a few minutes. As long as you’re seeing activity in the Console window, things are progressing.\nEventually, you’ll get a message that “The downloaded source packages are in …” with a directory name. That’s the sign that the updating is done.\nUpdating packages is something you’ll do occasionally throughout the semester, mostly when a problem happens.\n\nFinally, choose File … Quit Session from the top menu, and accept or deny (I usually deny) RStudio’s request to save your workspace. Then close RStudio, and re-open it if you want to do some work."
+    "text": "Updating Your R Packages\nEvery few times you open RStudio, it’s a good idea to update your R packages. To do so,\n\nGo to the Packages tab on the right side of your RStudio screen, and click on Update.\nThis will bring up a dialog box. I usually click Select All, then click Install Updates.\n\nA popup box may appear, asking “Do you want to install from sources the packages which need compilation?” to which I usually answer No. A Yes response leads to a slower installation, but can solve problems if you still have them after updating.\nThis may take a few minutes. As long as you’re seeing activity in the Console window, things are progressing.\nEventually, you’ll get a message that “The downloaded source packages are in …” with a directory name. That’s the sign that the updating is done.\nUpdating packages is something you’ll do occasionally throughout the semester, mostly when a problem happens.\n\nFinally, choose File … Quit Session from the top menu, and accept or deny (I usually deny) RStudio’s request to save your workspace. Then close RStudio, and re-open it if you want to do some work."
   },
   {
-    "objectID": "software.html#getting-better-at-r-rstudio-and-quarto",
-    "href": "software.html#getting-better-at-r-rstudio-and-quarto",
+    "objectID": "software.html#for-more-information",
+    "href": "software.html#for-more-information",
     "title": "Software for 431",
-    "section": "Getting Better at R, RStudio and Quarto",
-    "text": "Getting Better at R, RStudio and Quarto\nThese resources are found on our Resources page"
+    "section": "For More Information",
+    "text": "For More Information\nWe’ll provide a lot of information in class on the use of this software. Visit our Resources page for additional suggestions."
   },
   {
     "objectID": "ph.html",
@@ -74,42 +74,91 @@
     "href": "calendar.html#september",
     "title": "Course Calendar",
     "section": "September",
-    "text": "September\n\n\n\nClass\nDay\nDate\nDetails\n\n\n\n\nClass 03\nTU\n2026-09-01\nUsing R, Data Visualization and Summary (TEL 1-3)\n\n\ndeadline\nW\n2026-09-02\nNoon: Minute Paper after Class 03 due\n\n\nClass 04\nTH\n2026-09-03\nData Wrangling, Preparing for Lab 1 (TEL 1-4)\n\n\nreading\n–\nby Class 05\nSpiegelhalter, Chapters 2-3  R4DS: complete Sections 1-8 (“Whole game”)\n\n\nClass 05\nTU\n2026-09-08\nComparing Means, Study Designs (TEL 5-6)\n\n\ndeadline\nW\n2026-09-09\nNoon: Minute Paper after Class 05 due  Noon: [Lab 1] due to Canvas\n\n\nClass 06\nTH\n2026-09-10\nUncertainty Intervals, Transformation (TEL 7)\n\n\nreading\n–\nby Class 07\nSpiegelhalter, Chapter 5  R4DS: “Visualize”: sections 9-11\n\n\nClass 07\nTU\n2026-09-15\nComparing Multiple Groups, 1 (TEL 8-9)\n\n\ndeadline\nW\n2026-09-16\nNoon: Minute Paper after Class 07 due  Noon: [Lab 2] due to Canvas\n\n\nClass 08\nTH\n2026-09-17\nComparing Multiple Groups, 2 (TEL 8-9)\n\n\nreading\n–\nby Class 09\nSpiegelhalter, Chapter 7  R4DS: sections 16 and 28\n\n\nClass 09\nTU\n2026-09-22\nAssociation and Correlation (TEL 10)\n\n\ndeadline\nW\n2026-09-23\nNoon: Minute Paper after Class 09 due  Noon: [Lab 3] due to Canvas\n\n\nClass 10\nTH\n2026-09-24\nSimple Linear Regression (TEL 10-11)\n\n\nreading\n–\nby Class 11\nSpiegelhalter, Chapter 8  ASA 2016 Statement on p-values Excerpts\n\n\nClass 11\nTU\n2026-09-29\nWhy Statistical Significance is useless (TEL 12)\n\n\ndeadline\nW\n2026-09-30\nNoon: Minute Paper after Class 11 due"
+    "text": "September\n\n\n\nClass\nDay\nDate\nDetails\n\n\n\n\nClass 03\nTU\n2026-09-01\nUsing R, Data Visualization and Summary (TEL 1-3)\n\n\ndeadline\nW\n2026-09-02\nNoon: Minute Paper after Class 03 due\n\n\nClass 04\nTH\n2026-09-03\nData Wrangling, Preparing for Lab 1 (TEL 1-4)\n\n\nreading\n–\nby Class 05\nSpiegelhalter, Chapters 2-3  R4DS: complete Sections 1-8 (“Whole game”)\n\n\nClass 05\nTU\n2026-09-08\nComparing Means, Study Designs (TEL 5-6)\n\n\ndeadline\nW\n2026-09-09\nNoon: Minute Paper after Class 05 due  Noon: Lab 1 due to Canvas\n\n\nClass 06\nTH\n2026-09-10\nUncertainty Intervals, Transformation (TEL 7)\n\n\nreading\n–\nby Class 07\nSpiegelhalter, Chapter 5  R4DS: “Visualize”: sections 9-11\n\n\nClass 07\nTU\n2026-09-15\nComparing Multiple Groups, 1 (TEL 8-9)\n\n\ndeadline\nW\n2026-09-16\nNoon: Minute Paper after Class 07 due  Noon: Lab 2 due to Canvas\n\n\nClass 08\nTH\n2026-09-17\nComparing Multiple Groups, 2 (TEL 8-9)\n\n\nreading\n–\nby Class 09\nSpiegelhalter, Chapter 7  R4DS: sections 16 and 28\n\n\nClass 09\nTU\n2026-09-22\nAssociation and Correlation (TEL 10)\n\n\ndeadline\nW\n2026-09-23\nNoon: Minute Paper after Class 09 due  Noon: Lab 3 due to Canvas\n\n\nClass 10\nTH\n2026-09-24\nSimple Linear Regression (TEL 10-11)\n\n\nreading\n–\nby Class 11\nSpiegelhalter, Chapter 8  ASA 2016 Statement on p-values Excerpts\n\n\nClass 11\nTU\n2026-09-29\nWhy Statistical Significance is useless (TEL 12)\n\n\ndeadline\nW\n2026-09-30\nNoon: Minute Paper after Class 11 due"
   },
   {
     "objectID": "calendar.html#october",
     "href": "calendar.html#october",
     "title": "Course Calendar",
     "section": "October",
-    "text": "October\n\n\n\nClass\nDay\nDate\nDetails\n\n\n\n\nClass 12\nTH\n2026-10-01\nComparing Proportions, Two-by-Two Tables (TEL 13)\n\n\nreading\n–\nby Class 13\nSpiegelhalter, Chapter 9  ASA 2019: Statistical Inference in the 21st Century Excerpts\n\n\nClass 13\nTU\n2026-10-06\nLarger Cross-Tabulations (TEL 14)\n\n\ndeadline\nW\n2026-10-07\nNoon: [Project A] due to Canvas\n\n\nClass 14\nTH\n2026-10-08\nPower and Sample Size Considerations (TEL 15)\n\n\nreading\n–\nby Class 15\nSpiegelhalter, Chapter 10\n\n\nClass 15\nTU\n2026-10-13\nTo Be Announced\n\n\ndeadline\nW\n2026-10-14\nNoon: Minute Paper after Class 15 due  Noon: [Lab 4] due to Canvas\n\n\nClass 16\nTH\n2026-10-15\nMaking Adjusted Comparisons (TEL 16)\n\n\n–\nTU\n2026-10-20\nCWRU Fall Break (no 431 today)\n\n\nClass 17\nTH\n2026-10-22\nDealing with Missing Data (TEL 17)\n\n\nreading\n–\nby Class 18\nSpiegelhalter, Chapter 11\n\n\nClass 18\nTU\n2026-10-27\nTwo-Factor Analysis of Variance (TEL 18)\n\n\ndeadline\nW\n2026-10-28\nNoon: [Project B] due to Canvas\n\n\nClass 19\nTH\n2026-10-29\nMultiple Linear Regression, 1 (TEL 19)"
+    "text": "October\n\n\n\nClass\nDay\nDate\nDetails\n\n\n\n\nClass 12\nTH\n2026-10-01\nComparing Proportions, Two-by-Two Tables (TEL 13)\n\n\nreading\n–\nby Class 13\nSpiegelhalter, Chapter 9  ASA 2019: Statistical Inference in the 21st Century Excerpts\n\n\nClass 13\nTU\n2026-10-06\nLarger Cross-Tabulations (TEL 14)\n\n\ndeadline\nW\n2026-10-07\nNoon: [Project A] due to Canvas\n\n\nClass 14\nTH\n2026-10-08\nPower and Sample Size Considerations (TEL 15)\n\n\nreading\n–\nby Class 15\nSpiegelhalter, Chapter 10\n\n\nClass 15\nTU\n2026-10-13\nTo Be Announced\n\n\ndeadline\nW\n2026-10-14\nNoon: Minute Paper after Class 15 due  Noon: Lab 4 due to Canvas\n\n\nClass 16\nTH\n2026-10-15\nMaking Adjusted Comparisons (TEL 16)\n\n\n–\nTU\n2026-10-20\nCWRU Fall Break (no 431 today)\n\n\nClass 17\nTH\n2026-10-22\nDealing with Missing Data (TEL 17)\n\n\nreading\n–\nby Class 18\nSpiegelhalter, Chapter 11\n\n\nClass 18\nTU\n2026-10-27\nTwo-Factor Analysis of Variance (TEL 18)\n\n\ndeadline\nW\n2026-10-28\nNoon: [Project B] due to Canvas\n\n\nClass 19\nTH\n2026-10-29\nMultiple Linear Regression, 1 (TEL 19)"
   },
   {
     "objectID": "calendar.html#november",
     "href": "calendar.html#november",
     "title": "Course Calendar",
     "section": "November",
-    "text": "November\n\n\n\nClass\nDay\nDate\nDetails\n\n\n\n\n–\nTU\n2026-11-03\nElection Day (no 431 today; CWRU is in session)\n\n\ndeadline\nW\n2026-11-04\nNoon: [Lab 5] due\n\n\nClass 20\nTH\n2026-11-05\nMultiple Linear Regression, 2 (TEL 19-20)\n\n\nreading\n–\nby Class 21\nSpiegelhalter, Chapter 13\n\n\nClass 21\nTU\n2026-11-10\nMultiple Linear Regression, 3 (TEL 19-21)\n\n\ndeadline\nW\n2026-11-11\nNoon: Minute Paper after Class 21 due  Noon: [Lab 6] due to Canvas\n\n\nClass 22\nTH\n2026-11-12\nMultiple Linear Regression, 4 (TEL 19-22)\n\n\nClass 23\nTU\n2026-11-17\nMultiple Linear Regression, 5 (TEL 20-22)\n\n\ndeadline\nW\n2026-11-18\nNoon: Minute Paper after Class 23 due  Noon: [Lab 7] due to Canvas\n\n\nClass 24\nTH\n2026-11-19\nMultiple Linear Regression, 6 (TEL 20-22)\n\n\n–\nTU\n2026-11-24\nThanksgiving (no 431 today; CWRU is in session)\n\n\n–\nTH\n2026-11-26\nCWRU Thanksgiving Break (no 431 today)"
+    "text": "November\n\n\n\nClass\nDay\nDate\nDetails\n\n\n\n\n–\nTU\n2026-11-03\nElection Day (no 431 today; CWRU is in session)\n\n\ndeadline\nW\n2026-11-04\nNoon: Lab 5 due via email to Dr. Love\n\n\nClass 20\nTH\n2026-11-05\nMultiple Linear Regression, 2 (TEL 19-20)\n\n\nreading\n–\nby Class 21\nSpiegelhalter, Chapters 12-13\n\n\nClass 21\nTU\n2026-11-10\nMultiple Linear Regression, 3 (TEL 19-21)\n\n\ndeadline\nW\n2026-11-11\nNoon: Minute Paper after Class 21 due  Noon: Lab 6 due to Canvas\n\n\nClass 22\nTH\n2026-11-12\nMultiple Linear Regression, 4 (TEL 19-22)\n\n\nClass 23\nTU\n2026-11-17\nMultiple Linear Regression, 5 (TEL 20-22)\n\n\ndeadline\nW\n2026-11-18\nNoon: Minute Paper after Class 23 due  Noon: Lab 7 due to Canvas\n\n\nClass 24\nTH\n2026-11-19\nMultiple Linear Regression, 6 (TEL 20-22)\n\n\n–\nTU\n2026-11-24\nThanksgiving (no 431 today; CWRU is in session)\n\n\n–\nTH\n2026-11-26\nCWRU Thanksgiving Break (no 431 today)"
   },
   {
     "objectID": "calendar.html#december",
     "href": "calendar.html#december",
     "title": "Course Calendar",
     "section": "December",
-    "text": "December\n\n\n\nClass\nDay\nDate\nDetails\n\n\n\n\nreading\n–\nby Class 25\nSpiegelhalter, rest of book (Chapters 4, 6, 14)\n\n\nClass 25\nTU\n2026-12-01\nTo Be Announced\n\n\ndeadline\nW\n2026-12-02\nNoon: Minute Paper after Class 25 due  Noon: [Lab 7] due to Canvas\n\n\nClass 26\nTH\n2026-12-03\nFinal Class\n\n\ndeadline\nF\n2026-12-11\nNoon: [Project C] due to Canvas  Noon: (optional) 431 Regrade Request Form due"
+    "text": "December\n\n\n\nClass\nDay\nDate\nDetails\n\n\n\n\nreading\n–\nby Class 25\nSpiegelhalter, rest of book (Chapters 4, 6, 14)\n\n\nClass 25\nTU\n2026-12-01\nTo Be Announced\n\n\ndeadline\nW\n2026-12-02\nNoon: Minute Paper after Class 25 due\n\n\nClass 26\nTH\n2026-12-03\nFinal Class\n\n\ndeadline\nF\n2026-12-11\nNoon: [Project C] materials due to Canvas  Noon: (optional) 431 Regrade Request Form due"
   },
   {
     "objectID": "calendar.html#end-of-semester-presentations",
     "href": "calendar.html#end-of-semester-presentations",
     "title": "Course Calendar",
     "section": "End of Semester Presentations",
-    "text": "End of Semester Presentations\nYou will give a closing Project C presentation to Dr. Love (via Zoom or in person) on one of the following dates:\n\nFriday 2026-12-03\nMonday 2026-12-07\nTuesday 2026-12-08\nWednesday 2026-12-09\n\nWe will schedule these presentations together in early November."
+    "text": "End of Semester Presentations\nYou will give your Project C presentation to Dr. Love (via Zoom or in person) on one of the following dates:\n\nFriday 2026-12-03\nMonday 2026-12-07\nTuesday 2026-12-08\nWednesday 2026-12-09\n\nWe will schedule these presentations together in early November."
+  },
+  {
+    "objectID": "calendar.html#getting-help",
+    "href": "calendar.html#getting-help",
+    "title": "Course Calendar",
+    "section": "Getting Help",
+    "text": "Getting Help\nVisit the Contact Us page for ways to get help in this class."
+  },
+  {
+    "objectID": "calendar.html#ta-office-hours",
+    "href": "calendar.html#ta-office-hours",
+    "title": "Course Calendar",
+    "section": "TA Office Hours",
+    "text": "TA Office Hours\nTA Office Hours for 431 will begin on Sunday 2026-08-30 and continue through Tuesday 2026-12-08. All TA Office Hours are held over Zoom.\n\n\n\nDATE\nTIME(S) (All times Eastern)\n\n\n\n\n—\nTo Be Announced\n\n\n\nOur Shared Google Drive (431 Fall 2026 Dr Love and Students) will display Zoom links for all TA office hours in a document called 431 TA office hours schedule and Zoom links. No appointment is necessary. Please just drop in.\n\nNote that 431 TA Office Hours are cancelled on Monday 2026-10-19 and Tuesday 2026–10-20 for Fall Break, and also cancelled from Saturday 2026-11-21 through Friday 2026-11-27 during Thanksgiving Week."
   },
   {
     "objectID": "assignments.html",
     "href": "assignments.html",
     "title": "Assignments for 431 in Fall 2026",
     "section": "",
-    "text": "This page links to all instructions and other information about course assignments. All deadlines are found on the Course Calendar.\nDetails to come."
+    "text": "The most important assignments this semester are the three projects.\n\nThe Project A page provides instructions and materials related to Project A.\nThe Project B page provides Project B instructions and materials.\nThe Project C page provides Project C instructions and materials.\nProject deadlines are specified on the Course Calendar."
+  },
+  {
+    "objectID": "assignments.html#projects",
+    "href": "assignments.html#projects",
+    "title": "Assignments for 431 in Fall 2026",
+    "section": "",
+    "text": "The most important assignments this semester are the three projects.\n\nThe Project A page provides instructions and materials related to Project A.\nThe Project B page provides Project B instructions and materials.\nThe Project C page provides Project C instructions and materials.\nProject deadlines are specified on the Course Calendar."
+  },
+  {
+    "objectID": "assignments.html#labs",
+    "href": "assignments.html#labs",
+    "title": "Assignments for 431 in Fall 2026",
+    "section": "Labs",
+    "text": "Labs\nThe Lab page links to instructions and materials for each of the seven lab assignments.\n\nLab deadlines are specified on the Course Calendar."
+  },
+  {
+    "objectID": "assignments.html#minute-papers",
+    "href": "assignments.html#minute-papers",
+    "title": "Assignments for 431 in Fall 2026",
+    "section": "Minute Papers",
+    "text": "Minute Papers\nThe Minute Papers page provides links to all Minute Paper assignments and feedback documents.\n\nMinute Paper deadlines are also specified on the Course Calendar."
+  },
+  {
+    "objectID": "assignments.html#quizzes",
+    "href": "assignments.html#quizzes",
+    "title": "Assignments for 431 in Fall 2026",
+    "section": "Quizzes",
+    "text": "Quizzes\nProfessor Love will set several “Quizzes” these semester.\n\nThese “Quizzes” might better be described as “check ins”: brief opportunities for you to demonstrate your understanding and how well you’re keeping up with the course.\nQuiz details will be provided as they appear during the semester, rather than in advance, so you won’t find them on the Course Calendar."
+  },
+  {
+    "objectID": "assignments.html#for-more-information",
+    "href": "assignments.html#for-more-information",
+    "title": "Assignments for 431 in Fall 2026",
+    "section": "For More Information",
+    "text": "For More Information\nOur Syllabus provides additional information on assignments and on how the course is graded."
   },
   {
     "objectID": "contact.html",
@@ -124,6 +173,20 @@
     "title": "Contact Us",
     "section": "",
     "text": "If you have any questions before class begins, email Professor Love at thomas dot love at case dot edu."
+  },
+  {
+    "objectID": "contact.html#once-the-class-begins",
+    "href": "contact.html#once-the-class-begins",
+    "title": "Contact Us",
+    "section": "Once the class begins",
+    "text": "Once the class begins\nIf you’ve spent 15 minutes working on something and are stuck, don’t keep working on it. ASK FOR HELP. To get help in this course, you have three main options…\n\nAsk a TA for help during their office hours,\nsend an email to 431-help at case dot edu, or\nask Dr. Love for help before or after class.\n\n\nIf you have a question you want to pose via email about the course (especially outside of TA office hour times), you can send it to 431-help at case dot edu. Dr. Love and the TAs will see this email, and should usually respond fairly quickly.\nIn addition, Professor Love is usually available in our classroom 10 minutes before and for some time after each class on Tuesdays and Thursdays. Should you want to make an appointment with him for a longer or more personal conversation, just email him at Thomas dot Love at case dot edu.\nThis section of our Syllabus provides additional information on getting help, including descriptions of how we use Canvas and Google Drive."
+  },
+  {
+    "objectID": "contact.html#ta-office-hours",
+    "href": "contact.html#ta-office-hours",
+    "title": "Contact Us",
+    "section": "TA Office Hours",
+    "text": "TA Office Hours\nTA Office Hours for 431 will begin on Sunday 2026-08-30 and continue through Tuesday 2026-12-08. All TA Office Hours are held over Zoom.\n\n\n\nDATE\nTIME(S) (All times Eastern)\n\n\n\n\n—\nTo Be Announced\n\n\n\nOur Shared Google Drive (431 Fall 2026 Dr Love and Students) will display Zoom links for all TA office hours in a document called 431 TA office hours schedule and Zoom links. No appointment is necessary. Please just drop in.\n\nNote that 431 TA Office Hours are cancelled on Monday 2026-10-19 and Tuesday 2026–10-20 for Fall Break, and also cancelled from Saturday 2026-11-21 through Friday 2026-11-27 during Thanksgiving Week.\nMore information on each of this semester’s TAs is found in our Syllabus."
   },
   {
     "objectID": "index.html",
@@ -186,6 +249,6 @@
     "href": "resources.html#getting-better-at-r-rstudio-and-quarto",
     "title": "Supplemental Resources for 431",
     "section": "Getting Better at R, RStudio and Quarto",
-    "text": "Getting Better at R, RStudio and Quarto\n\nR Studio Educational Resources at https://education.rstudio.com/learn/\nLearn the tidyverse at https://www.tidyverse.org/learn/\n\nThe tidyverse style guide including styler\n\neasystats packages: https://easystats.github.io/easystats/index.html and then select the easystats package you’re interested in from the top right and select Articles or Reference.\njanitor: https://sfirke.github.io/janitor/index.html\npatchwork: https://patchwork.data-imaginist.com/\nrstanarm: https://mc-stan.org/rstanarm/\nMKinfer vignettes: https://cran.r-project.org/web/packages/MKinfer/vignettes/MKinfer.html\n\nAlso, see Appendix A of Dr. Love’s textbook.\n\nOther R and Quarto references I recommend\n\nR Graphics Cookbook, 2nd Edition\nR for Data Science, 2nd Edition\n\nSections on Workflow: scripts and projects and getting help\n\nPosit’s Cheat Sheets\nQuarto main page, especially Get Started for R Studio and Guide\n\nAlso worth looking at R for Data Science’s chapters on Quarto and on Quarto formatting.\n\nR Colors list from R Charts\nIntroduction to Regression Methods for Public Health Using R by Ramzi W. Nahhas\nRebecca Barter’s An introduction to Python for R Users has been helpful to some people making that transition, or the opposite one. The RStudio IDE is a free and open-source IDE for Python, as well as R. You can write scripts, import modules, and interactively use Python within the RStudio IDE.\n\n\n\nLearning More about Statistical Significance (and related issues)\n\nRonald L. Wasserstein, Allen L. Schirm & Nicole A. Lazar (2019) Moving to a World Beyond “p &lt; 0.05”, The American Statistician, 73:sup1, 1-19, DOI: 10.1080/00031305.2019.1583913.\n\nRon gave a one-hour talk you can watch here on “Helping to move to a world beyond p &lt; 0.05” which I cannot recommend enough.\n\nRonald L. Wasserstein & Nicole A. Lazar (2016) The ASA’s Statement on p-Values: Context, Process, and Purpose, The American Statistician, 70:2, 129-133, DOI: 10.1080/00031305.2016.1154108.\nThe Growing Importance of Reproducibility and Responsible Workflow in the Data Science and Statistics Curriculum by Nicholas J. Horton, Rohan Alexander, Micaela Parker, Aneta Piekut & Colin Rundel (2022) Journal of Statistics and Data Science Education, 30:3, 207-208, DOI: 10.1080/26939169.2022.2141001\nFrank E. Harrell’s A Litany of Problems with p-values blog post originally written in 2017, with more recent updates.\nScientists rise up against statistical significance in Nature 2019-03-20\nIt’s time to talk about ditching statistical significance also in Nature 2019-03-19.\nBriggs, William M., 2019. Everything Wrong with P-Values Under One Roof. In Beyond Traditional Probabilistic Methods in Economics, V Kreinovich, NN Thach, ND Trung, DV Thanh (eds.), pp 22–44. DOI 978-3-030-04200-4_2\nthe “PROBABLE CAUSE” graphic reprinted in this Nature piece by Regina Nuzzo, originally from T. Sellke et al. in The American Statistician, 2001.\nYou may also be interested in this piece at pbs.org about a NOVA program entitled “Rethinking Science’s Magic Number”.\nHere is a nice Editorial by Jeff Witmer (from Oberlin College) at the Journal of Statistics Education which is a position paper on the use of p-values, statistical inference, terminology, and related ideas. I got a lot out of it, and there’s a lot here related to our discussion.\nEJ Daza, Ditch “Statistical Significance” — But Keep Statistical Evidence. How? A statistician shares a writing sample, 2021.\nI have given several talks on “Rethinking Statistical Significance” in recent years. The Github repository (90 minutes at MetroHealth Medical Center and the Center for Health Care Research and Policy, with an audio recording) is at https://github.com/THOMASELOVE/rethink, if you’re a glutton for punishment.\nWhy p values are like puppies is a 3:29 YouTube Video by Cassie Kozyrkov, MS, Chief Decision Scientist, Google Inc. It explains how to understand and interpret p values in an intuitive way using an example based on puppies."
+    "text": "Getting Better at R, RStudio and Quarto\n\nR Studio Educational Resources at https://education.rstudio.com/learn/\nLearn the tidyverse at https://www.tidyverse.org/learn/\n\nThe tidyverse style guide including styler\n\neasystats packages: https://easystats.github.io/easystats/index.html and then select the easystats package you’re interested in from the top right and select Articles or Reference.\njanitor: https://sfirke.github.io/janitor/index.html\npatchwork: https://patchwork.data-imaginist.com/\nrstanarm: https://mc-stan.org/rstanarm/\nMKinfer vignettes: https://cran.r-project.org/web/packages/MKinfer/vignettes/MKinfer.html\n\nAlso, see Appendix A of Dr. Love’s textbook.\n\nOther R and Quarto references I recommend\n\nR Graphics Cookbook, 2nd Edition\nR for Data Science, 2nd Edition\n\nSections on Workflow: scripts and projects and getting help\n\nPosit’s Cheat Sheets\nQuarto main page, especially Get Started for R Studio and Guide\n\nAlso worth looking at R for Data Science’s chapters on Quarto and on Quarto formatting.\n\nR Colors list from R Charts\nIntroduction to Regression Methods for Public Health Using R by Ramzi W. Nahhas"
   }
 ]
