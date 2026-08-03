@@ -67,42 +67,42 @@
     "href": "calendar.html#august",
     "title": "Course Calendar",
     "section": "August",
-    "text": "August\n\n\n\nClass\nDay\nDate\nDetails\n\n\n\n\nClass 01\nTU\n2026-08-25\nIntroduction, Getting Started, Age Guessing\n\n\ndeadline\nW\n2026-08-26\nNoon: Welcome to 431 Survey due\n\n\nClass 02\nTH\n2026-08-27\nSome Initial Explorations, Data Collection (TEL 1-3)\n\n\nreading\n–\nby Class 03\nSpiegelhalter, Introduction and Chapter 1  R4DS: Introduction, start Sections 1-8 (“Whole game”)"
+    "text": "August\n\n\n\nClass\nDay\nDate\nDetails\n\n\n\n\nClass 01\nTU\n2026-08-25\nIntroduction, Getting Started, Age Guessing\n\n\ndeadline\nW\n2026-08-26\nNoon: Welcome to 431 Survey due\n\n\nClass 02\nTH\n2026-08-27\nSome Initial Explorations, Data Collection (TEL 1-3)  Check-in 1 will appear in class today.\n\n\nreading\n–\nby Class 03\nSpiegelhalter, Introduction and Chapter 1  R4DS: Introduction, start Sections 1-8 (“Whole game”)"
   },
   {
     "objectID": "calendar.html#september",
     "href": "calendar.html#september",
     "title": "Course Calendar",
     "section": "September",
-    "text": "September\n\n\n\nClass\nDay\nDate\nDetails\n\n\n\n\nClass 03\nTU\n2026-09-01\nUsing R, Data Visualization and Summary (TEL 1-3)\n\n\ndeadline\nW\n2026-09-02\nNoon: Minute Paper after Class 03 due\n\n\nClass 04\nTH\n2026-09-03\nData Wrangling, Preparing for Lab 1 (TEL 1-4)\n\n\nreading\n–\nby Class 05\nSpiegelhalter, Chapters 2-3  R4DS: complete Sections 1-8 (“Whole game”)\n\n\nClass 05\nTU\n2026-09-08\nComparing Means, Study Designs (TEL 5-6)\n\n\ndeadline\nW\n2026-09-09\nNoon: Minute Paper after Class 05 due  Noon: Lab 1 due to Canvas\n\n\nClass 06\nTH\n2026-09-10\nUncertainty Intervals, Transformation (TEL 7)\n\n\nreading\n–\nby Class 07\nSpiegelhalter, Chapter 5  R4DS: “Visualize”: sections 9-11\n\n\nClass 07\nTU\n2026-09-15\nComparing Multiple Groups, 1 (TEL 8-9)\n\n\ndeadline\nW\n2026-09-16\nNoon: Minute Paper after Class 07 due  Noon: Lab 2 due to Canvas\n\n\nClass 08\nTH\n2026-09-17\nComparing Multiple Groups, 2 (TEL 8-9)\n\n\nreading\n–\nby Class 09\nSpiegelhalter, Chapter 7  R4DS: sections 16 and 28\n\n\nClass 09\nTU\n2026-09-22\nAssociation and Correlation (TEL 10)\n\n\ndeadline\nW\n2026-09-23\nNoon: Minute Paper after Class 09 due  Noon: Lab 3 due to Canvas\n\n\nClass 10\nTH\n2026-09-24\nSimple Linear Regression (TEL 10-11)\n\n\nreading\n–\nby Class 11\nSpiegelhalter, Chapter 8  ASA 2016 Statement on p-values Excerpts\n\n\nClass 11\nTU\n2026-09-29\nWhy Statistical Significance is useless (TEL 12)\n\n\ndeadline\nW\n2026-09-30\nNoon: Minute Paper after Class 11 due"
+    "text": "September\n\n\n\nClass\nDay\nDate\nDetails\n\n\n\n\nCheck-in 2\n–\n–\nCheck-in 2 will appear sometime between 2026-09-01 and 2026-09-15\n\n\nClass 03\nTU\n2026-09-01\nUsing R, Data Visualization and Summary (TEL 1-3)\n\n\ndeadline\nW\n2026-09-02\nNoon: Minute Paper after Class 03 due\n\n\nClass 04\nTH\n2026-09-03\nData Wrangling, Preparing for Lab 1 (TEL 1-4)\n\n\nreading\n–\nby Class 05\nSpiegelhalter, Chapters 2-3  R4DS: complete Sections 1-8 (“Whole game”)\n\n\nClass 05\nTU\n2026-09-08\nComparing Means, Study Designs (TEL 5-6)\n\n\ndeadline\nW\n2026-09-09\nNoon: Minute Paper after Class 05 due  Noon: Lab 1 due to Canvas\n\n\nClass 06\nTH\n2026-09-10\nUncertainty Intervals, Transformation (TEL 7)\n\n\nreading\n–\nby Class 07\nSpiegelhalter, Chapter 5  R4DS: “Visualize”: sections 9-11\n\n\nClass 07\nTU\n2026-09-15\nComparing Multiple Groups, 1 (TEL 8-9)\n\n\ndeadline\nW\n2026-09-16\nNoon: Minute Paper after Class 07 due  Noon: Lab 2 due to Canvas\n\n\nCheck-in 3\n–\n–\nCheck-in 3 will appear sometime between 2026-09-17 and 2026-09-30\n\n\nClass 08\nTH\n2026-09-17\nComparing Multiple Groups, 2 (TEL 8-9)\n\n\nreading\n–\nby Class 09\nSpiegelhalter, Chapter 7  R4DS: sections 16 and 28\n\n\nClass 09\nTU\n2026-09-22\nAssociation and Correlation (TEL 10)\n\n\ndeadline\nW\n2026-09-23\nNoon: Minute Paper after Class 09 due  Noon: Lab 3 due to Canvas\n\n\nClass 10\nTH\n2026-09-24\nSimple Linear Regression (TEL 10-11)\n\n\nreading\n–\nby Class 11\nSpiegelhalter, Chapter 8  ASA 2016 Statement on p-values Excerpts\n\n\nClass 11\nTU\n2026-09-29\nWhy Statistical Significance is useless (TEL 12)\n\n\ndeadline\nW\n2026-09-30\nNoon: Minute Paper after Class 11 due"
   },
   {
     "objectID": "calendar.html#october",
     "href": "calendar.html#october",
     "title": "Course Calendar",
     "section": "October",
-    "text": "October\n\n\n\nClass\nDay\nDate\nDetails\n\n\n\n\nClass 12\nTH\n2026-10-01\nComparing Proportions, Two-by-Two Tables (TEL 13)\n\n\nreading\n–\nby Class 13\nSpiegelhalter, Chapter 9  ASA 2019: Statistical Inference in the 21st Century Excerpts\n\n\nClass 13\nTU\n2026-10-06\nLarger Cross-Tabulations (TEL 14)\n\n\ndeadline\nW\n2026-10-07\nNoon: [Project A] due to Canvas\n\n\nClass 14\nTH\n2026-10-08\nPower and Sample Size Considerations (TEL 15)\n\n\nreading\n–\nby Class 15\nSpiegelhalter, Chapter 10\n\n\nClass 15\nTU\n2026-10-13\nTo Be Announced\n\n\ndeadline\nW\n2026-10-14\nNoon: Minute Paper after Class 15 due  Noon: Lab 4 due to Canvas\n\n\nClass 16\nTH\n2026-10-15\nMaking Adjusted Comparisons (TEL 16)\n\n\n–\nTU\n2026-10-20\nCWRU Fall Break (no 431 today)\n\n\nClass 17\nTH\n2026-10-22\nDealing with Missing Data (TEL 17)\n\n\nreading\n–\nby Class 18\nSpiegelhalter, Chapter 11\n\n\nClass 18\nTU\n2026-10-27\nTwo-Factor Analysis of Variance (TEL 18)\n\n\ndeadline\nW\n2026-10-28\nNoon: [Project B] due to Canvas\n\n\nClass 19\nTH\n2026-10-29\nMultiple Linear Regression, 1 (TEL 19)"
+    "text": "October\n\n\n\nClass\nDay\nDate\nDetails\n\n\n\n\nCheck-in 4\n–\n–\nCheck-in 4 will appear sometime between 2026-10-01 and 2026-10-13\n\n\nClass 12\nTH\n2026-10-01\nComparing Proportions, Two-by-Two Tables (TEL 13)\n\n\nreading\n–\nby Class 13\nSpiegelhalter, Chapter 9  ASA 2019: Statistical Inference in the 21st Century Excerpts\n\n\nClass 13\nTU\n2026-10-06\nLarger Cross-Tabulations (TEL 14)\n\n\ndeadline\nW\n2026-10-07\nNoon: [Project A] due to Canvas\n\n\nClass 14\nTH\n2026-10-08\nPower and Sample Size Considerations (TEL 15)\n\n\nreading\n–\nby Class 15\nSpiegelhalter, Chapter 10\n\n\nClass 15\nTU\n2026-10-13\nTo Be Announced\n\n\ndeadline\nW\n2026-10-14\nNoon: Minute Paper after Class 15 due  Noon: Lab 4 due to Canvas\n\n\nCheck-in 5\n–\n–\nCheck-in 5 will appear sometime between 2026-10-15 and 2026-10-29\n\n\nClass 16\nTH\n2026-10-15\nMaking Adjusted Comparisons (TEL 16)\n\n\n–\nTU\n2026-10-20\nCWRU Fall Break (no 431 today)\n\n\nClass 17\nTH\n2026-10-22\nDealing with Missing Data (TEL 17)\n\n\nreading\n–\nby Class 18\nSpiegelhalter, Chapter 11\n\n\nClass 18\nTU\n2026-10-27\nTwo-Factor Analysis of Variance (TEL 18)\n\n\ndeadline\nW\n2026-10-28\nNoon: [Project B] due to Canvas\n\n\nClass 19\nTH\n2026-10-29\nMultiple Linear Regression, 1 (TEL 19)"
   },
   {
     "objectID": "calendar.html#november",
     "href": "calendar.html#november",
     "title": "Course Calendar",
     "section": "November",
-    "text": "November\n\n\n\nClass\nDay\nDate\nDetails\n\n\n\n\n–\nTU\n2026-11-03\nElection Day (no 431 today; CWRU is in session)\n\n\ndeadline\nW\n2026-11-04\nNoon: Lab 5 due via email to Dr. Love\n\n\nClass 20\nTH\n2026-11-05\nMultiple Linear Regression, 2 (TEL 19-20)\n\n\nreading\n–\nby Class 21\nSpiegelhalter, Chapters 12-13\n\n\nClass 21\nTU\n2026-11-10\nMultiple Linear Regression, 3 (TEL 19-21)\n\n\ndeadline\nW\n2026-11-11\nNoon: Minute Paper after Class 21 due  Noon: Lab 6 due to Canvas\n\n\nClass 22\nTH\n2026-11-12\nMultiple Linear Regression, 4 (TEL 19-22)\n\n\nClass 23\nTU\n2026-11-17\nMultiple Linear Regression, 5 (TEL 20-22)\n\n\ndeadline\nW\n2026-11-18\nNoon: Minute Paper after Class 23 due  Noon: Lab 7 due to Canvas\n\n\nClass 24\nTH\n2026-11-19\nMultiple Linear Regression, 6 (TEL 20-22)\n\n\n–\nTU\n2026-11-24\nThanksgiving (no 431 today; CWRU is in session)\n\n\n–\nTH\n2026-11-26\nCWRU Thanksgiving Break (no 431 today)"
+    "text": "November\n\n\n\nClass\nDay\nDate\nDetails\n\n\n\n\n–\nTU\n2026-11-03\nElection Day (no 431 today; CWRU is in session)\n\n\ndeadline\nW\n2026-11-04\nNoon: Lab 5 due via email to Dr. Love\n\n\nCheck-in 6\n–\n–\nCheck-in 6 will appear sometime between 2026-11-05 and 2026-11-17\n\n\nClass 20\nTH\n2026-11-05\nMultiple Linear Regression, 2 (TEL 19-20)\n\n\nreading\n–\nby Class 21\nSpiegelhalter, Chapters 12-13\n\n\nClass 21\nTU\n2026-11-10\nMultiple Linear Regression, 3 (TEL 19-21)\n\n\ndeadline\nW\n2026-11-11\nNoon: Minute Paper after Class 21 due  Noon: Lab 6 due to Canvas\n\n\nClass 22\nTH\n2026-11-12\nMultiple Linear Regression, 4 (TEL 19-22)\n\n\nClass 23\nTU\n2026-11-17\nMultiple Linear Regression, 5 (TEL 20-22)\n\n\ndeadline\nW\n2026-11-18\nNoon: Minute Paper after Class 23 due  Noon: Lab 7 due to Canvas\n\n\nClass 24\nTH\n2026-11-19\nMultiple Linear Regression, 6 (TEL 20-22)\n\n\nQuiz\nTH\n2026-11-19\nThe Course Quiz will be made available in class.\n\n\n–\nTU\n2026-11-24\nThanksgiving (no 431 today; CWRU is in session)\n\n\n–\nTH\n2026-11-26\nCWRU Thanksgiving Break (no 431 today)"
   },
   {
     "objectID": "calendar.html#december",
     "href": "calendar.html#december",
     "title": "Course Calendar",
     "section": "December",
-    "text": "December\n\n\n\nClass\nDay\nDate\nDetails\n\n\n\n\nreading\n–\nby Class 25\nSpiegelhalter, rest of book (Chapters 4, 6, 14)\n\n\nClass 25\nTU\n2026-12-01\nTo Be Announced\n\n\ndeadline\nW\n2026-12-02\nNoon: Minute Paper after Class 25 due\n\n\nClass 26\nTH\n2026-12-03\nFinal Class\n\n\ndeadline\nF\n2026-12-11\nNoon: [Project C] materials due to Canvas  Noon: (optional) 431 Regrade Request Form due"
+    "text": "December\n\n\n\nClass\nDay\nDate\nDetails\n\n\n\n\nreading\n–\nby Class 25\nSpiegelhalter, rest of book (Chapters 4, 6, 14)\n\n\nClass 25\nTU\n2026-12-01\nTo Be Announced\n\n\ndeadline\nW\n2026-12-02\nNoon: Course Quiz is due, via Google Form\n\n\nClass 26\nTH\n2026-12-03\nFinal Class\n\n\ndeadline\nF\n2026-12-11\nNoon: [Project C] materials due to Canvas  Noon: (optional) 431 Regrade Request Form due"
   },
   {
-    "objectID": "calendar.html#end-of-semester-presentations",
-    "href": "calendar.html#end-of-semester-presentations",
+    "objectID": "calendar.html#project-c-presentation",
+    "href": "calendar.html#project-c-presentation",
     "title": "Course Calendar",
-    "section": "End of Semester Presentations",
-    "text": "End of Semester Presentations\nYou will give your Project C presentation to Dr. Love (via Zoom or in person) on one of the following dates:\n\nFriday 2026-12-03\nMonday 2026-12-07\nTuesday 2026-12-08\nWednesday 2026-12-09\n\nWe will schedule these presentations together in early November."
+    "section": "Project C Presentation",
+    "text": "Project C Presentation\nYou will give your Project C presentation to Dr. Love (via Zoom or in person) on one of the following dates:\n\nFriday 2026-12-03\nMonday 2026-12-07\nTuesday 2026-12-08\nWednesday 2026-12-09\n\nWe will schedule these presentations together in early November as part of the Project C registration form."
   },
   {
     "objectID": "calendar.html#getting-help",
@@ -123,14 +123,14 @@
     "href": "assignments.html",
     "title": "Assignments for 431 in Fall 2026",
     "section": "",
-    "text": "The most important assignments this semester are the three projects.\n\nThe Project A page provides instructions and materials related to Project A.\nThe Project B page provides Project B instructions and materials.\nThe Project C page provides Project C instructions and materials.\nProject deadlines are specified on the Course Calendar."
+    "text": "Assignments for 431 include three projects, seven labs, eight minute papers, six check-ins and a late November quiz.\nOur Syllabus provides additional information on all course assignments, as well as on how the course is graded."
   },
   {
     "objectID": "assignments.html#projects",
     "href": "assignments.html#projects",
     "title": "Assignments for 431 in Fall 2026",
-    "section": "",
-    "text": "The most important assignments this semester are the three projects.\n\nThe Project A page provides instructions and materials related to Project A.\nThe Project B page provides Project B instructions and materials.\nThe Project C page provides Project C instructions and materials.\nProject deadlines are specified on the Course Calendar."
+    "section": "Projects",
+    "text": "Projects\nThe most important assignments this semester are the three projects.\n\nThe Project A page provides instructions and materials related to Project A.\nThe Project B page provides Project B instructions and materials.\nThe Project C page provides Project C instructions and materials.\nProject deadlines are specified on the Course Calendar."
   },
   {
     "objectID": "assignments.html#labs",
@@ -140,25 +140,32 @@
     "text": "Labs\nThe Lab page links to instructions and materials for each of the seven lab assignments.\n\nLab deadlines are specified on the Course Calendar."
   },
   {
+    "objectID": "assignments.html#quiz",
+    "href": "assignments.html#quiz",
+    "title": "Assignments for 431 in Fall 2026",
+    "section": "Quiz",
+    "text": "Quiz\nThe Quiz page links to instructions and materials for the Quiz.\n\nThere is one Quiz this term, which you will receive just before the Thanksgiving break. - This is an open-book, end-of-semester assessment of everything we’ll do between the start of the course and Class 24.\nRelevant dates for the Quiz are provided on the Course Calendar."
+  },
+  {
+    "objectID": "assignments.html#check-ins",
+    "href": "assignments.html#check-ins",
+    "title": "Assignments for 431 in Fall 2026",
+    "section": "Check-Ins",
+    "text": "Check-Ins\nProfessor Love plans to set six “Check-Ins” these semester. These are brief opportunities for you to demonstrate your understanding and how well you’re keeping up with the course. Some might call them “mini-quizzes”.\n\nEach check-in is designed to take somewhere between 15 and 60 minutes of your time.\nSome check-ins will require you to complete and submit work live in class, while others will be announced in class, with 48-hour deadlines for you to complete the work.\n\nThe first check-in will take place during Class 2, as indicated on the Course Calendar. Details on the remaining five check-ins will be provided as they appear during the semester, rather than in advance.\n\nDate ranges for Check-ins 2-6 are provided on the Course Calendar."
+  },
+  {
     "objectID": "assignments.html#minute-papers",
     "href": "assignments.html#minute-papers",
     "title": "Assignments for 431 in Fall 2026",
     "section": "Minute Papers",
-    "text": "Minute Papers\nThe Minute Papers page provides links to all Minute Paper assignments and feedback documents.\n\nMinute Paper deadlines are also specified on the Course Calendar."
+    "text": "Minute Papers\nThe Minute Paper page provides links to the eight Minute Paper assignments and related feedback documents from Professor Love.\n\nMinute papers focus on assessments of how the course is going, providing reminders of key issues, and gathering student views.\nSometimes, minute papers also assess your understanding of something important.\nMinute Paper deadlines are specified on the Course Calendar."
   },
   {
-    "objectID": "assignments.html#quizzes",
-    "href": "assignments.html#quizzes",
+    "objectID": "assignments.html#questions",
+    "href": "assignments.html#questions",
     "title": "Assignments for 431 in Fall 2026",
-    "section": "Quizzes",
-    "text": "Quizzes\nProfessor Love will set several “Quizzes” these semester.\n\nThese “Quizzes” might better be described as “check ins”: brief opportunities for you to demonstrate your understanding and how well you’re keeping up with the course.\nQuiz details will be provided as they appear during the semester, rather than in advance, so you won’t find them on the Course Calendar."
-  },
-  {
-    "objectID": "assignments.html#for-more-information",
-    "href": "assignments.html#for-more-information",
-    "title": "Assignments for 431 in Fall 2026",
-    "section": "For More Information",
-    "text": "For More Information\nOur Syllabus provides additional information on assignments and on how the course is graded."
+    "section": "Questions?",
+    "text": "Questions?\nIf you have any questions, contact us."
   },
   {
     "objectID": "contact.html",
@@ -233,21 +240,21 @@
   {
     "objectID": "resources.html",
     "href": "resources.html",
-    "title": "Supplemental Resources for 431",
+    "title": "Resources for 431",
     "section": "",
-    "text": "While I will recommend dozens, perhaps hundreds of articles, blog posts and the like to you over the course of the year, these are especially important in 431.\n\nSeveral of the guides prepared by Jeff Leek and his group, including:\n\nReading academic (scientific) papers,\nWriting your first academic paper\nWrite papers like a modern scientist\nHow to Share Data for Collaboration by Shannon E. Ellis and Jeffrey T. Leek in The American Statistician, 2018 Special Issue on Data Science, or you can read the PeerJ preprint version here.\n\nData Organization in Spreadsheets by Karl W. Broman and Kara H. Woo in The American Statistician, 2018 Special Issue on Data Science, or you can read the PeerJ preprint version.\n\nThe Ellis/Leek and Broman/Woo papers are part of the Practical Data Science for Stats collection, which may be of interest.\n\nProject-oriented workflow at tidyverse.org from Jenny Bryan.\nFrom the Ten Simple Rules series at PLOS Computational Biology:\n\nTen Simple Rules for Effective Statistical Practice by Kass RE et al. 2016\nTen Simple Rules for Graduate Students by Gu J Bourne PE 2007\nTen Simple Rules for Better Figures by Rougier NP Droettboom M Bourne PE 2014\nTen Simple Rules for Creating a Good Data Management Plan by Michener WK 2015\n\nStatistical Inference in the 21st Century: A World Beyond p &lt; 0.05 from 2019 in The American Statistician\nThe American Statistical Association’s 2016 Statement on p-Values: Context, Process and Purpose.\n\nProfessor Love’s class-specific READMEs will provide links to these articles and other recommended readings as the semester goes on."
+    "text": "While I will recommend dozens of articles, blog posts and the like to you over the course of the year, these are especially important in 431.\n\nSeveral of the guides prepared by Jeff Leek and his group, including:\n\nReading academic (scientific) papers,\nWriting your first academic paper\nWrite papers like a modern scientist\nHow to Share Data for Collaboration by Shannon E. Ellis and Jeffrey T. Leek in The American Statistician, 2018 Special Issue on Data Science, or you can read the PeerJ preprint version here.\n\nData Organization in Spreadsheets by Karl W. Broman and Kara H. Woo in The American Statistician, 2018 Special Issue on Data Science, or you can read the PeerJ preprint version.\n\nThe Ellis/Leek and Broman/Woo papers are part of the Practical Data Science for Stats collection, which may be of interest.\n\nProject-oriented workflow at tidyverse.org from Jenny Bryan.\nFrom the Ten Simple Rules series at PLOS Computational Biology:\n\nTen Simple Rules for Effective Statistical Practice by Kass RE et al. 2016\nTen Simple Rules for Graduate Students by Gu J Bourne PE 2007\nTen Simple Rules for Better Figures by Rougier NP Droettboom M Bourne PE 2014\nTen Simple Rules for Creating a Good Data Management Plan by Michener WK 2015\n\nStatistical Inference in the 21st Century: A World Beyond p &lt; 0.05 from 2019 in The American Statistician\nThe American Statistical Association’s 2016 Statement on p-Values: Context, Process and Purpose.\n\nProfessor Love’s class-specific READMEs will provide links to these articles and other recommended readings as the semester goes on."
   },
   {
     "objectID": "resources.html#key-articles-and-posts",
     "href": "resources.html#key-articles-and-posts",
-    "title": "Supplemental Resources for 431",
+    "title": "Resources for 431",
     "section": "",
-    "text": "While I will recommend dozens, perhaps hundreds of articles, blog posts and the like to you over the course of the year, these are especially important in 431.\n\nSeveral of the guides prepared by Jeff Leek and his group, including:\n\nReading academic (scientific) papers,\nWriting your first academic paper\nWrite papers like a modern scientist\nHow to Share Data for Collaboration by Shannon E. Ellis and Jeffrey T. Leek in The American Statistician, 2018 Special Issue on Data Science, or you can read the PeerJ preprint version here.\n\nData Organization in Spreadsheets by Karl W. Broman and Kara H. Woo in The American Statistician, 2018 Special Issue on Data Science, or you can read the PeerJ preprint version.\n\nThe Ellis/Leek and Broman/Woo papers are part of the Practical Data Science for Stats collection, which may be of interest.\n\nProject-oriented workflow at tidyverse.org from Jenny Bryan.\nFrom the Ten Simple Rules series at PLOS Computational Biology:\n\nTen Simple Rules for Effective Statistical Practice by Kass RE et al. 2016\nTen Simple Rules for Graduate Students by Gu J Bourne PE 2007\nTen Simple Rules for Better Figures by Rougier NP Droettboom M Bourne PE 2014\nTen Simple Rules for Creating a Good Data Management Plan by Michener WK 2015\n\nStatistical Inference in the 21st Century: A World Beyond p &lt; 0.05 from 2019 in The American Statistician\nThe American Statistical Association’s 2016 Statement on p-Values: Context, Process and Purpose.\n\nProfessor Love’s class-specific READMEs will provide links to these articles and other recommended readings as the semester goes on."
+    "text": "While I will recommend dozens of articles, blog posts and the like to you over the course of the year, these are especially important in 431.\n\nSeveral of the guides prepared by Jeff Leek and his group, including:\n\nReading academic (scientific) papers,\nWriting your first academic paper\nWrite papers like a modern scientist\nHow to Share Data for Collaboration by Shannon E. Ellis and Jeffrey T. Leek in The American Statistician, 2018 Special Issue on Data Science, or you can read the PeerJ preprint version here.\n\nData Organization in Spreadsheets by Karl W. Broman and Kara H. Woo in The American Statistician, 2018 Special Issue on Data Science, or you can read the PeerJ preprint version.\n\nThe Ellis/Leek and Broman/Woo papers are part of the Practical Data Science for Stats collection, which may be of interest.\n\nProject-oriented workflow at tidyverse.org from Jenny Bryan.\nFrom the Ten Simple Rules series at PLOS Computational Biology:\n\nTen Simple Rules for Effective Statistical Practice by Kass RE et al. 2016\nTen Simple Rules for Graduate Students by Gu J Bourne PE 2007\nTen Simple Rules for Better Figures by Rougier NP Droettboom M Bourne PE 2014\nTen Simple Rules for Creating a Good Data Management Plan by Michener WK 2015\n\nStatistical Inference in the 21st Century: A World Beyond p &lt; 0.05 from 2019 in The American Statistician\nThe American Statistical Association’s 2016 Statement on p-Values: Context, Process and Purpose.\n\nProfessor Love’s class-specific READMEs will provide links to these articles and other recommended readings as the semester goes on."
   },
   {
     "objectID": "resources.html#getting-better-at-r-rstudio-and-quarto",
     "href": "resources.html#getting-better-at-r-rstudio-and-quarto",
-    "title": "Supplemental Resources for 431",
+    "title": "Resources for 431",
     "section": "Getting Better at R, RStudio and Quarto",
     "text": "Getting Better at R, RStudio and Quarto\n\nR Studio Educational Resources at https://education.rstudio.com/learn/\nLearn the tidyverse at https://www.tidyverse.org/learn/\n\nThe tidyverse style guide including styler\n\neasystats packages: https://easystats.github.io/easystats/index.html and then select the easystats package you’re interested in from the top right and select Articles or Reference.\njanitor: https://sfirke.github.io/janitor/index.html\npatchwork: https://patchwork.data-imaginist.com/\nrstanarm: https://mc-stan.org/rstanarm/\nMKinfer vignettes: https://cran.r-project.org/web/packages/MKinfer/vignettes/MKinfer.html\n\nAlso, see Appendix A of Dr. Love’s textbook.\n\nOther R and Quarto references I recommend\n\nR Graphics Cookbook, 2nd Edition\nR for Data Science, 2nd Edition\n\nSections on Workflow: scripts and projects and getting help\n\nPosit’s Cheat Sheets\nQuarto main page, especially Get Started for R Studio and Guide\n\nAlso worth looking at R for Data Science’s chapters on Quarto and on Quarto formatting.\n\nR Colors list from R Charts\nIntroduction to Regression Methods for Public Health Using R by Ramzi W. Nahhas"
   }

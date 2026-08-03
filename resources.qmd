@@ -1,11 +1,11 @@
 ---
-title: "Supplemental Resources for 431"
+title: "Resources for 431"
 date: last-modified
 ---
 
 ## Key Articles and Posts
 
-While I will recommend dozens, perhaps hundreds of articles, blog posts and the like to you over the course of the year, these are especially important in 431.
+While I will recommend dozens of articles, blog posts and the like to you over the course of the year, these are especially important in 431.
 
 1. Several of the guides prepared by Jeff Leek and his group, including:
     + [Reading academic (scientific) papers](https://github.com/jtleek/readingpapers),

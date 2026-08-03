@@ -17,13 +17,14 @@ Class | Day | Date | Details
 :-----: | :---: | ---------- | ----------------------------
 [Class 01](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class01) | TU | 2026-08-25 | Introduction, Getting Started, Age Guessing
 **deadline** | **W** | 2026-08-26 | **Noon**: [Welcome to 431 Survey](https://tinyurl.com/431-2026-welcome) due
-[Class 02](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class02) | TH | 2026-08-27 | Some Initial Explorations, Data Collection ([TEL](https://thomaselove.github.io/431-book/) 1-3)
+[Class 02](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class02) | TH | 2026-08-27 | Some Initial Explorations, Data Collection ([TEL](https://thomaselove.github.io/431-book/) 1-3) <br> [Check-in 1](assignments.html#check-ins) will appear in class today.
 *reading* | -- | by Class 03 | Spiegelhalter, Introduction and Chapter 1 <br> [R4DS](https://r4ds.hadley.nz/): Introduction, start Sections 1-8 ("Whole game")
 
 ## September
 
 Class | Day | Date | Details
 :-----: | :---: | ---------- | ----------------------------
+[Check-in 2](assignments.html#check-ins) | -- | -- | [Check-in 2](assignments.html#check-ins) will appear sometime between 2026-09-01 and 2026-09-15
 [Class 03](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class03) | TU | 2026-09-01 | Using R, Data Visualization and Summary ([TEL](https://thomaselove.github.io/431-book/) 1-3)
 **deadline** | **W** | 2026-09-02 | **Noon**: [Minute Paper](https://github.com/THOMASELOVE/431-minute-2026) after Class 03 due 
 [Class 04](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class04) | TH | 2026-09-03 | Data Wrangling, Preparing for [Lab 1](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab1) ([TEL](https://thomaselove.github.io/431-book/) 1-4)
@@ -34,6 +35,7 @@ Class | Day | Date | Details
 *reading* | -- | by Class 07 | Spiegelhalter, Chapter 5 <br> [R4DS](https://r4ds.hadley.nz/): "Visualize": sections 9-11
 [Class 07](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class07) | TU | 2026-09-15 | Comparing Multiple Groups, 1 ([TEL](https://thomaselove.github.io/431-book/) 8-9)
 **deadline** | **W** | 2026-09-16 | **Noon**: [Minute Paper](https://github.com/THOMASELOVE/431-minute-2026) after Class 07 due <br> **Noon**: [Lab 2](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab2) due to Canvas
+[Check-in 3](assignments.html#check-ins)| -- | -- | [Check-in 3](assignments.html#check-ins) will appear sometime between 2026-09-17 and 2026-09-30
 [Class 08](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class08) | TH | 2026-09-17 | Comparing Multiple Groups, 2 ([TEL](https://thomaselove.github.io/431-book/) 8-9)
 *reading* | -- | by Class 09 | Spiegelhalter, Chapter 7 <br> [R4DS](https://r4ds.hadley.nz/): sections 16 and 28
 [Class 09](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class09) | TU | 2026-09-22 | Association and Correlation ([TEL](https://thomaselove.github.io/431-book/) 10)
@@ -47,6 +49,7 @@ Class | Day | Date | Details
 
 Class | Day | Date | Details
 :-----: | :---: | ---------- | ----------------------------
+[Check-in 4](assignments.html#check-ins) | -- | -- | [Check-in 4](assignments.html#check-ins) will appear sometime between 2026-10-01 and 2026-10-13
 [Class 12](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class12) | TH | 2026-10-01 | Comparing Proportions, Two-by-Two Tables ([TEL](https://thomaselove.github.io/431-book/) 13)
 *reading* | -- | by Class 13 | Spiegelhalter, Chapter 9 <br> ASA 2019: [Statistical Inference in the 21st Century](https://amstat.tandfonline.com/toc/utas20/73/sup1) Excerpts
 [Class 13](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class13) | TU | 2026-10-06 | Larger Cross-Tabulations ([TEL](https://thomaselove.github.io/431-book/) 14)
@@ -55,6 +58,7 @@ Class | Day | Date | Details
 *reading* | -- | by Class 15 | Spiegelhalter, Chapter 10
 [Class 15](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class15) | TU | 2026-10-13 | To Be Announced
 **deadline** | **W** | 2026-10-14 | **Noon**: [Minute Paper](https://github.com/THOMASELOVE/431-minute-2026) after Class 15 due <br> **Noon**: [Lab 4](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab4) due to Canvas
+[Check-in 5](assignments.html#check-ins) | -- | -- | [Check-in 5](assignments.html#check-ins) will appear sometime between 2026-10-15 and 2026-10-29
 [Class 16](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class16) | TH | 2026-10-15 | Making Adjusted Comparisons ([TEL](https://thomaselove.github.io/431-book/) 16)
 -- | TU | 2026-10-20 | CWRU Fall Break (no 431 today)
 [Class 17](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class17) | TH | 2026-10-22 | Dealing with Missing Data ([TEL](https://thomaselove.github.io/431-book/) 17)
@@ -68,7 +72,8 @@ Class | Day | Date | Details
 Class | Day | Date | Details
 :-----: | :---: | ---------- | ----------------------------
 -- | TU | 2026-11-03 | Election Day (no 431 today; CWRU is in session)
-**deadline** | **W** | 2026-11-04 | **Noon**: [Lab 5](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab5) due via email to Dr. Love
+**deadline** | **W** | 2026-11-04 | **Noon**: [Lab 5](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab5) due via email to Dr. Love | **Noon**: [Project C Registration Form] due
+[Check-in 6](assignments.html#check-ins) | -- | -- | [Check-in 6](assignments.html#check-ins) will appear sometime between 2026-11-05 and 2026-11-17
 [Class 20](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class20) | TH | 2026-11-05 | Multiple Linear Regression, 2 ([TEL](https://thomaselove.github.io/431-book/) 19-20)
 *reading* | -- | by Class 21 | Spiegelhalter, Chapters 12-13
 [Class 21](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class21) | TU | 2026-11-10 | Multiple Linear Regression, 3 ([TEL](https://thomaselove.github.io/431-book/) 19-21)
@@ -76,7 +81,8 @@ Class | Day | Date | Details
 [Class 22](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class22) | TH | 2026-11-12 | Multiple Linear Regression, 4 ([TEL](https://thomaselove.github.io/431-book/) 19-22)
 [Class 23](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class23) | TU | 2026-11-17 | Multiple Linear Regression, 5 ([TEL](https://thomaselove.github.io/431-book/) 20-22)
 **deadline** | **W** | 2026-11-18 | **Noon**: [Minute Paper](https://github.com/THOMASELOVE/431-minute-2026) after Class 23 due <br> **Noon**: [Lab 7](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab7) due to Canvas
-[Class 24](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class24) | TH | 2026-11-19 | Multiple Linear Regression, 6 ([TEL](https://thomaselove.github.io/431-book/) 20-22)
+[Class 24](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class24) | TH | 2026-11-19 | Multiple Linear Regression, 6 ([TEL](https://thomaselove.github.io/431-book/) 20-22) 
+[Quiz](https://github.com/THOMASELOVE/431-quiz-2026) | TH | 2026-11-19 | The Course [Quiz](https://github.com/THOMASELOVE/431-quiz-2026) will be made available in class.
 -- | TU | 2026-11-24 | Thanksgiving (no 431 today; CWRU is in session)
 -- | TH | 2026-11-26 | CWRU Thanksgiving Break (no 431 today)
 
@@ -86,11 +92,11 @@ Class | Day | Date | Details
 :-----: | :---: | ---------- | ----------------------------
 *reading* | -- | by Class 25 | Spiegelhalter, rest of book (Chapters 4, 6, 14)
 [Class 25](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class25) | TU | 2026-12-01 | To Be Announced
-**deadline** | **W** | 2026-12-02 | **Noon**: [Minute Paper](https://github.com/THOMASELOVE/431-minute-2026) after Class 25 due
+**deadline** | **W** | 2026-12-02 | **Noon**: Course [Quiz](https://github.com/THOMASELOVE/431-quiz-2026) is due, via Google Form
 [Class 26](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class26) | TH | 2026-12-03 | Final Class
 **deadline** | **F** | 2026-12-11 | **Noon**: [Project C] materials due to Canvas <br> **Noon**: (optional) [431 Regrade Request Form](https://tinyurl.com/431-2026-regrade-request) due
 
-## End of Semester Presentations
+## Project C Presentation
 
 You will give your Project C presentation to Dr. Love (via Zoom or in person) on one of the following dates:
 
@@ -99,7 +105,7 @@ You will give your Project C presentation to Dr. Love (via Zoom or in person) on
 - Tuesday 2026-12-08
 - Wednesday 2026-12-09
 
-We will schedule these presentations together in early November.
+We will schedule these presentations together in early November as part of the Project C registration form.
 
 ## Getting Help
 
