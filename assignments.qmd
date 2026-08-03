@@ -35,11 +35,11 @@ The [Quiz page](https://github.com/THOMASELOVE/431-quiz-2026) links to instructi
 Professor Love plans to set six "Check-Ins" these semester. These are brief opportunities for you to demonstrate your understanding and how well you're keeping up with the course. Some might call them "mini-quizzes". 
 
 - Each check-in is designed to take somewhere between 15 and 60 minutes of your time.
-- Some check-ins will require you to complete and submit work live in class, while others will be announced in class, with 48-hour deadlines for you to complete the work.
+- Professor Love may require you to complete and submit work live in class, or he may simply announce the check-in in class, and provide instructions for submission on a short (48 hour) deadline.
 
-The first check-in will take place during Class 2, as indicated on the [Course Calendar](calendar.qmd). Details on the remaining five check-ins will be provided as they appear during the semester, **rather** than in advance.
+The first check-in will take place during Class 2, as indicated on the [Course Calendar](calendar.qmd). Details on the remaining check-ins will be provided as they appear during the semester, **rather** than in advance.
 
-- Date ranges for Check-ins 2-6 are provided on the [Course Calendar](calendar.qmd).
+- Windows (ranges of dates when they might occur) for Check-ins 2-6 are provided on the [Course Calendar](calendar.qmd).
 
 ## Minute Papers
 
