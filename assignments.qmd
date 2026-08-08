@@ -3,19 +3,18 @@ title: "Assignments for 431 in Fall 2026"
 date: last-modified
 ---
 
-Assignments for 431 include three [projects](#projects), seven [labs](#labs), eight [minute papers](#minute-papers), six [check-ins](#check-ins) and a late November [quiz]($quiz).
+Assignments for 431 include three [projects](#projects), seven [labs](#labs), two [quizzes]($quizzes), and a series of [minute papers](#minute-papers).
 
-Our [Syllabus](https://thomaselove.github.io/431-syllabus-2026/) provides additional information on all course [assignments](https://thomaselove.github.io/431-syllabus-2026/10_assignments.html), as well as on how the course is [graded](https://thomaselove.github.io/431-syllabus-2026/11_grading.html).
+In addition to the links below, our [Syllabus](https://thomaselove.github.io/431-syllabus-2026/) is your best source for additional information on all course [assignments](https://thomaselove.github.io/431-syllabus-2026/10_assignments.html), as well as on how the course is [graded](https://thomaselove.github.io/431-syllabus-2026/11_grading.html).
 
 ## Projects
 
-The most important assignments this semester are the three projects. 
+The most important assignments this semester are the projects. 
 
-- The [Project A page](https://thomaselove.github.io/431-projectA-2026/) provides instructions and materials related to Project A.
-- The [Project B page](https://thomaselove.github.io/431-projectB-2026/) provides Project B instructions and materials.
-- The [Project C page](https://thomaselove.github.io/431-projectC-2026/) provides Project C instructions and materials.
+- The [Project A page](https://github.com/THOMASELOVE/431-projectA-2026) provides instructions and materials related to Project A.
+- The [Project B page](https://github.com/THOMASELOVE/431-projectB-2026) provides Project B instructions and materials.
 
-- Project deadlines are specified on the [Course Calendar](calendar.qmd). 
+Project deadlines are specified on the [Course Calendar](calendar.qmd). 
 
 ## Labs
 
@@ -23,30 +22,18 @@ The [Lab page](https://github.com/THOMASELOVE/431-labs-2026) links to instructio
 
 - Lab deadlines are specified on the [Course Calendar](calendar.qmd). 
 
-## Quiz
+## Quizzes
 
-The [Quiz page](https://github.com/THOMASELOVE/431-quiz-2026) links to instructions and materials for the Quiz. 
+The [Quiz page](https://github.com/THOMASELOVE/431-quiz-2026) links to instructions and materials for the two Quizzes. 
 
-- There is one Quiz this term, which you will receive just before the Thanksgiving break. - This is an open-book, end-of-semester assessment of everything we'll do between the start of the course and Class 24. 
+- Each Quiz is an open-book assessment of everything we'll do between the start of the course and Class 13 (for Quiz 1) and Class 24 (for Quiz 2.)
 - Relevant dates for the Quiz are provided on the [Course Calendar](calendar.qmd).
-
-## Check-Ins
-
-Professor Love plans to set six "Check-Ins" these semester. These are brief opportunities for you to demonstrate your understanding and how well you're keeping up with the course. Some might call them "mini-quizzes". 
-
-- Each check-in is designed to take somewhere between 15 and 60 minutes of your time.
-- Professor Love may require you to complete and submit work live in class, or he may simply announce the check-in in class, and provide instructions for submission on a short (48 hour) deadline.
-
-The first check-in will take place during Class 2, as indicated on the [Course Calendar](calendar.qmd). Details on the remaining check-ins will be provided as they appear during the semester, **rather** than in advance.
-
-- Windows (ranges of dates when they might occur) for Check-ins 2-6 are provided on the [Course Calendar](calendar.qmd).
 
 ## Minute Papers
 
-The [Minute Paper page](https://github.com/THOMASELOVE/431-minute-2026) provides links to the eight Minute Paper assignments and related feedback documents from Professor Love.
+The [Minute Paper page](https://github.com/THOMASELOVE/431-minute-2026) provides links to Minute Paper assignments and related feedback documents from Professor Love.
 
 - Minute papers focus on assessments of how the course is going, providing reminders of key issues, and gathering student views.
-- Sometimes, minute papers also assess your understanding of something important.
 - Minute Paper deadlines are specified on the [Course Calendar](calendar.qmd). 
 
 ## Questions?

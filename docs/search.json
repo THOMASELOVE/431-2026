@@ -67,42 +67,42 @@
     "href": "calendar.html#august",
     "title": "Course Calendar",
     "section": "August",
-    "text": "August\n\n\n\nClass\nDay\nDate\nDetails\n\n\n\n\nClass 01\nTU\n2026-08-25\nIntroduction, Getting Started, Age Guessing\n\n\ndeadline\nW\n2026-08-26\nNoon: Welcome to 431 Survey due\n\n\nNote\n–\n–\nCheck-in 1 will happen in Class 02.\n\n\nClass 02\nTH\n2026-08-27\nSome Initial Explorations, Data Collection (TEL 1-3)\n\n\nreading\n–\nby Class 03\nSpiegelhalter, Introduction and Chapter 1  R4DS: Introduction, start Sections 1-8 (“Whole game”)"
+    "text": "August\n\n\n\nClass\nDay\nDate\nDetails\n\n\n\n\nClass 01\nTU\n2026-08-25\nIntroduction, Getting Started, Age Guessing\n\n\ndeadline\nW\n2026-08-26\nNoon: Welcome to 431 Survey due\n\n\nClass 02\nTH\n2026-08-27\nSome Initial Explorations, Data Collection (TEL 1-3)\n\n\nreading\n–\nby Class 03\nSpiegelhalter, Introduction and Chapters 1-2  R4DS: Introduction, start Sections 1-8 (“Whole game”)"
   },
   {
     "objectID": "calendar.html#september",
     "href": "calendar.html#september",
     "title": "Course Calendar",
     "section": "September",
-    "text": "September\n\n\n\nClass\nDay\nDate\nDetails\n\n\n\n\nNote\n–\n–\nCheck-in 2 window: Classes 03-07\n\n\nClass 03\nTU\n2026-09-01\nUsing R, Data Visualization and Summary (TEL 1-3)\n\n\ndeadline\nW\n2026-09-02\nNoon: Minute Paper after Class 03 due\n\n\nClass 04\nTH\n2026-09-03\nData Wrangling, Preparing for Lab 1 (TEL 1-4)\n\n\nreading\n–\nby Class 05\nSpiegelhalter, Chapters 2-3  R4DS: complete Sections 1-8 (“Whole game”)\n\n\nClass 05\nTU\n2026-09-08\nComparing Means, Study Designs (TEL 5-6)\n\n\ndeadline\nW\n2026-09-09\nNoon: Minute Paper after Class 05 due  Noon: Lab 1 due to Canvas\n\n\nClass 06\nTH\n2026-09-10\nUncertainty Intervals, Transformation (TEL 7)\n\n\nreading\n–\nby Class 07\nSpiegelhalter, Chapter 5  R4DS: “Visualize”: sections 9-11\n\n\nClass 07\nTU\n2026-09-15\nComparing Multiple Groups, 1 (TEL 8-9)\n\n\ndeadline\nW\n2026-09-16\nNoon: Minute Paper after Class 07 due  Noon: Lab 2 due to Canvas\n\n\nNote\n–\n–\nCheck-in 3 window: Classes 08-11\n\n\nClass 08\nTH\n2026-09-17\nComparing Multiple Groups, 2 (TEL 8-9)\n\n\nreading\n–\nby Class 09\nSpiegelhalter, Chapter 7  R4DS: sections 16 and 28\n\n\nClass 09\nTU\n2026-09-22\nAssociation and Correlation (TEL 10)\n\n\ndeadline\nW\n2026-09-23\nNoon: Minute Paper after Class 09 due  Noon: Lab 3 due to Canvas\n\n\nClass 10\nTH\n2026-09-24\nSimple Linear Regression (TEL 10-11)\n\n\nreading\n–\nby Class 11\nSpiegelhalter, Chapter 8  ASA 2016 Statement on p-values Excerpts\n\n\nClass 11\nTU\n2026-09-29\nWhy Statistical Significance is useless (TEL 12)\n\n\ndeadline\nW\n2026-09-30\nNoon: Minute Paper after Class 11 due"
+    "text": "September\n\n\n\nClass\nDay\nDate\nDetails\n\n\n\n\nClass 03\nTU\n2026-09-01\nUsing R, Data Visualization and Summary (TEL 1-3)\n\n\ndeadline\nW\n2026-09-02\nNoon: Minute Paper after Class 03 due\n\n\nClass 04\nTH\n2026-09-03\nData Wrangling, Preparing for Lab 1 (TEL 1-4)\n\n\nreading\n–\nby Class 05\nSpiegelhalter, Chapter 3  R4DS: complete Sections 1-8 (“Whole game”)\n\n\nClass 05\nTU\n2026-09-08\nComparing Means, Study Designs (TEL 5-6)\n\n\ndeadline\nW\n2026-09-09\nNoon: Minute Paper after Class 05 due  Noon: Lab 1 due to Canvas\n\n\nClass 06\nTH\n2026-09-10\nUncertainty Intervals, Transformation (TEL 7)\n\n\nreading\n–\nby Class 07\nSpiegelhalter, Chapter 5 (we’ll read Chapter 4 later.)  R4DS: “Visualize”: sections 9-11\n\n\nClass 07\nTU\n2026-09-15\nComparing Multiple Groups, 1 (TEL 8-9)\n\n\ndeadline\nW\n2026-09-16\nNoon: Minute Paper after Class 07 due  Noon: Lab 2 due to Canvas\n\n\nClass 08\nTH\n2026-09-17\nComparing Multiple Groups, 2 (TEL 8-9)\n\n\nreading\n–\nby Class 09\nSpiegelhalter, Chapter 7 (we’ll read Chapter 6 later.)  R4DS: sections 16 and 28\n\n\nClass 09\nTU\n2026-09-22\nLinear Regression & Association (TEL 10)\n\n\ndeadline\nW\n2026-09-23\nNoon: Lab 3 due to Canvas\n\n\nClass 10\nTH\n2026-09-24\nLinear Model Assessment (TEL 10-11)\n\n\nreading\n–\nby Class 11\nSpiegelhalter, Chapter 8  ASA 2016 Statement on p-values Excerpts\n\n\nClass 11\nTU\n2026-09-29\nWhy Statistical Significance is useless (TEL 12)\n\n\ndeadline\nW\n2026-09-30\nNoon: Minute Paper after Class 11 due  Noon: Lab 4 due to Canvas"
   },
   {
     "objectID": "calendar.html#october",
     "href": "calendar.html#october",
     "title": "Course Calendar",
     "section": "October",
-    "text": "October\n\n\n\nClass\nDay\nDate\nDetails\n\n\n\n\nNote\n–\n–\nCheck-in 4 window: Classes 12-15\n\n\nClass 12\nTH\n2026-10-01\nComparing Proportions, Two-by-Two Tables (TEL 13)\n\n\nreading\n–\nby Class 13\nSpiegelhalter, Chapter 9  ASA 2019: Statistical Inference in the 21st Century Excerpts\n\n\nClass 13\nTU\n2026-10-06\nLarger Cross-Tabulations (TEL 14)\n\n\ndeadline\nW\n2026-10-07\nNoon: [Project A] due to Canvas\n\n\nClass 14\nTH\n2026-10-08\nPower and Sample Size Considerations (TEL 15)\n\n\nreading\n–\nby Class 15\nSpiegelhalter, Chapter 10\n\n\nClass 15\nTU\n2026-10-13\nTo Be Announced\n\n\ndeadline\nW\n2026-10-14\nNoon: Minute Paper after Class 15 due  Noon: Lab 4 due to Canvas\n\n\nNote\n–\n–\nCheck-in 5 window: Classes 16-19\n\n\nClass 16\nTH\n2026-10-15\nMaking Adjusted Comparisons (TEL 16)\n\n\n–\nTU\n2026-10-20\nCWRU Fall Break (no 431 today)\n\n\nClass 17\nTH\n2026-10-22\nDealing with Missing Data (TEL 17)\n\n\nreading\n–\nby Class 18\nSpiegelhalter, Chapter 11\n\n\nClass 18\nTU\n2026-10-27\nTwo-Factor Analysis of Variance (TEL 18)\n\n\ndeadline\nW\n2026-10-28\nNoon: [Project B] due to Canvas\n\n\nClass 19\nTH\n2026-10-29\nMultiple Linear Regression, 1 (TEL 19)"
+    "text": "October\n\n\n\nClass\nDay\nDate\nDetails\n\n\n\n\nClass 12\nTH\n2026-10-01\nComparing Proportions, Two-by-Two Tables (TEL 13)\n\n\nreading\n–\nby Class 13\nSpiegelhalter, Chapter 9  ASA 2019: Statistical Inference in the 21st Century Excerpts\n\n\nClass 13\nTU\n2026-10-06\nLarger Cross-Tabulations (TEL 14)\n\n\ndeadline\nW\n2026-10-07\nNoon: Minute Paper after Class 13 due\n\n\nClass 14\nTH\n2026-10-08\nPower and Sample Size Considerations (TEL 15)\n\n\n–\nF\n2026-10-09\n5 PM Quiz 1 will be made available to you\n\n\nreading\n–\nby Class 15\nSpiegelhalter, Chapter 10\n\n\nClass 15\nTU\n2026-10-13\nReview, Catch-Up, Ask Me Anything about Quiz 1 or Project A\n\n\ndeadline\nW\n2026-10-14\nNoon: Quiz 1 Answer Form is due\n\n\nClass 16\nTH\n2026-10-15\nMaking Adjusted Comparisons (TEL 16)\n\n\n–\nTU\n2026-10-20\nCWRU Fall Break (no 431 today)\n\n\ndeadline\nW\n2026-10-21\nNoon: Project A due to Canvas\n\n\nClass 17\nTH\n2026-10-22\nDealing with Missing Data (TEL 17)\n\n\nreading\n–\nby Class 18\nSpiegelhalter, Chapter 11\n\n\nClass 18\nTU\n2026-10-27\nTwo-Factor Analysis of Variance (TEL 18)\n\n\ndeadline\nW\n2026-10-28\nNoon: Minute Paper after Class 18 due\n\n\nClass 19\nTH\n2026-10-29\nMultiple Linear Regression, 1 (TEL 19)"
   },
   {
     "objectID": "calendar.html#november",
     "href": "calendar.html#november",
     "title": "Course Calendar",
     "section": "November",
-    "text": "November\n\n\n\nClass\nDay\nDate\nDetails\n\n\n\n\n–\nTU\n2026-11-03\nElection Day (no 431 today; CWRU is in session)\n\n\ndeadline\nW\n2026-11-04\nNoon: Lab 5 due via email to Dr. Love\n\n\nNote\n–\n–\nCheck-in 6 window: Classes 20-24\n\n\nClass 20\nTH\n2026-11-05\nMultiple Linear Regression, 2 (TEL 19-20)\n\n\nreading\n–\nby Class 21\nSpiegelhalter, Chapters 12-13\n\n\nClass 21\nTU\n2026-11-10\nMultiple Linear Regression, 3 (TEL 19-21)\n\n\ndeadline\nW\n2026-11-11\nNoon: Minute Paper after Class 21 due  Noon: Lab 6 due to Canvas\n\n\nClass 22\nTH\n2026-11-12\nMultiple Linear Regression, 4 (TEL 19-22)\n\n\nClass 23\nTU\n2026-11-17\nMultiple Linear Regression, 5 (TEL 20-22)\n\n\ndeadline\nW\n2026-11-18\nNoon: Minute Paper after Class 23 due  Noon: Lab 7 due to Canvas\n\n\nClass 24\nTH\n2026-11-19\nMultiple Linear Regression, 6 (TEL 20-22)\n\n\nQuiz\nTH\n2026-11-19\nThe Course Quiz will be made available in class.\n\n\n–\nTU\n2026-11-24\nThanksgiving (no 431 today; CWRU is in session)\n\n\n–\nTH\n2026-11-26\nCWRU Thanksgiving Break (no 431 today)"
+    "text": "November\n\n\n\nClass\nDay\nDate\nDetails\n\n\n\n\n–\nTU\n2026-11-03\nElection Day (no 431 today; CWRU is in session)\n\n\ndeadline\nW\n2026-11-04\nNoon: Lab 5 due via email to Dr. Love\n\n\nClass 20\nTH\n2026-11-05\nMultiple Linear Regression, 2 (TEL 19-20)\n\n\nreading\n–\nby Class 21\nSpiegelhalter, Chapters 12-13\n\n\nClass 21\nTU\n2026-11-10\nMultiple Linear Regression, 3 (TEL 19-21)\n\n\ndeadline\nW\n2026-11-11\nNoon: Minute Paper after Class 21 due  Noon: Lab 6 due to Canvas\n\n\nClass 22\nTH\n2026-11-12\nMultiple Linear Regression, 4 (TEL 19-22)\n\n\nClass 23\nTU\n2026-11-17\nMultiple Linear Regression, 5 (TEL 20-22)\n\n\ndeadline\nW\n2026-11-18\nNoon: Minute Paper after Class 23 due  Noon: Lab 7 due to Canvas\n\n\nClass 24\nTH\n2026-11-19\nMultiple Linear Regression, 6 (TEL 20-22)\n\n\n–\nF\n2026-11-20\n5 PM Quiz 2 made available\n\n\n–\nTU\n2026-11-24\nThanksgiving (no 431 today; CWRU is in session)\n\n\n–\nTH\n2026-11-26\nCWRU Thanksgiving Break (no 431 today)"
   },
   {
     "objectID": "calendar.html#december",
     "href": "calendar.html#december",
     "title": "Course Calendar",
     "section": "December",
-    "text": "December\n\n\n\nClass\nDay\nDate\nDetails\n\n\n\n\nreading\n–\nby Class 25\nSpiegelhalter, rest of book (Chapters 4, 6, 14)\n\n\nClass 25\nTU\n2026-12-01\nTo Be Announced\n\n\ndeadline\nW\n2026-12-02\nNoon: Course Quiz is due, via Google Form\n\n\nClass 26\nTH\n2026-12-03\nFinal Class\n\n\ndeadline\nF\n2026-12-11\nNoon: [Project C] materials due to Canvas  Noon: (optional) 431 Regrade Request Form due"
+    "text": "December\n\n\n\nClass\nDay\nDate\nDetails\n\n\n\n\nreading\n–\nby Class 25\nSpiegelhalter, rest of book (Chapters 4, 6, 14)\n\n\ndeadline\nM\n2026-11-30\n4 PM: Quiz 2 Answer Form is due\n\n\nClass 25\nTU\n2026-12-01\nTo Be Announced\n\n\ndeadline\nW\n2026-12-02\nNoon: Minute Paper after Class 25 due\n\n\nClass 26\nTH\n2026-12-03\nFinal Class\n\n\ndeadline\nF\n2026-12-11\nNoon: Project B materials due to Canvas  Noon: (optional) 431 Regrade Request Form due"
   },
   {
-    "objectID": "calendar.html#project-c-presentation",
-    "href": "calendar.html#project-c-presentation",
+    "objectID": "calendar.html#project-b-presentation",
+    "href": "calendar.html#project-b-presentation",
     "title": "Course Calendar",
-    "section": "Project C Presentation",
-    "text": "Project C Presentation\nYou will give your Project C presentation to Dr. Love (via Zoom or in person) on one of the following dates:\n\nFriday 2026-12-03\nMonday 2026-12-07\nTuesday 2026-12-08\nWednesday 2026-12-09\n\nWe will schedule these presentations together in early November as part of the Project C registration form."
+    "section": "Project B Presentation",
+    "text": "Project B Presentation\nYou will give your Project B presentation to Dr. Love (via Zoom or in person) on one of the following dates:\n\nFriday 2026-12-03\nMonday 2026-12-07\nTuesday 2026-12-08\nWednesday 2026-12-09\n\nWe will schedule these presentations together in early November as part of the Project B registration form."
   },
   {
     "objectID": "calendar.html#getting-help",
@@ -123,14 +123,14 @@
     "href": "assignments.html",
     "title": "Assignments for 431 in Fall 2026",
     "section": "",
-    "text": "Assignments for 431 include three projects, seven labs, eight minute papers, six check-ins and a late November quiz.\nOur Syllabus provides additional information on all course assignments, as well as on how the course is graded."
+    "text": "Assignments for 431 include three projects, seven labs, two quizzes, and a series of minute papers.\nIn addition to the links below, our Syllabus is your best source for additional information on all course assignments, as well as on how the course is graded."
   },
   {
     "objectID": "assignments.html#projects",
     "href": "assignments.html#projects",
     "title": "Assignments for 431 in Fall 2026",
     "section": "Projects",
-    "text": "Projects\nThe most important assignments this semester are the three projects.\n\nThe Project A page provides instructions and materials related to Project A.\nThe Project B page provides Project B instructions and materials.\nThe Project C page provides Project C instructions and materials.\nProject deadlines are specified on the Course Calendar."
+    "text": "Projects\nThe most important assignments this semester are the projects.\n\nThe Project A page provides instructions and materials related to Project A.\nThe Project B page provides Project B instructions and materials.\n\nProject deadlines are specified on the Course Calendar."
   },
   {
     "objectID": "assignments.html#labs",
@@ -140,25 +140,18 @@
     "text": "Labs\nThe Lab page links to instructions and materials for each of the seven lab assignments.\n\nLab deadlines are specified on the Course Calendar."
   },
   {
-    "objectID": "assignments.html#quiz",
-    "href": "assignments.html#quiz",
+    "objectID": "assignments.html#quizzes",
+    "href": "assignments.html#quizzes",
     "title": "Assignments for 431 in Fall 2026",
-    "section": "Quiz",
-    "text": "Quiz\nThe Quiz page links to instructions and materials for the Quiz.\n\nThere is one Quiz this term, which you will receive just before the Thanksgiving break. - This is an open-book, end-of-semester assessment of everything we’ll do between the start of the course and Class 24.\nRelevant dates for the Quiz are provided on the Course Calendar."
-  },
-  {
-    "objectID": "assignments.html#check-ins",
-    "href": "assignments.html#check-ins",
-    "title": "Assignments for 431 in Fall 2026",
-    "section": "Check-Ins",
-    "text": "Check-Ins\nProfessor Love plans to set six “Check-Ins” these semester. These are brief opportunities for you to demonstrate your understanding and how well you’re keeping up with the course. Some might call them “mini-quizzes”.\n\nEach check-in is designed to take somewhere between 15 and 60 minutes of your time.\nProfessor Love may require you to complete and submit work live in class, or he may simply announce the check-in in class, and provide instructions for submission on a short (48 hour) deadline.\n\nThe first check-in will take place during Class 2, as indicated on the Course Calendar. Details on the remaining check-ins will be provided as they appear during the semester, rather than in advance.\n\nWindows (ranges of dates when they might occur) for Check-ins 2-6 are provided on the Course Calendar."
+    "section": "Quizzes",
+    "text": "Quizzes\nThe Quiz page links to instructions and materials for the two Quizzes.\n\nEach Quiz is an open-book assessment of everything we’ll do between the start of the course and Class 13 (for Quiz 1) and Class 24 (for Quiz 2.)\nRelevant dates for the Quiz are provided on the Course Calendar."
   },
   {
     "objectID": "assignments.html#minute-papers",
     "href": "assignments.html#minute-papers",
     "title": "Assignments for 431 in Fall 2026",
     "section": "Minute Papers",
-    "text": "Minute Papers\nThe Minute Paper page provides links to the eight Minute Paper assignments and related feedback documents from Professor Love.\n\nMinute papers focus on assessments of how the course is going, providing reminders of key issues, and gathering student views.\nSometimes, minute papers also assess your understanding of something important.\nMinute Paper deadlines are specified on the Course Calendar."
+    "text": "Minute Papers\nThe Minute Paper page provides links to Minute Paper assignments and related feedback documents from Professor Love.\n\nMinute papers focus on assessments of how the course is going, providing reminders of key issues, and gathering student views.\nMinute Paper deadlines are specified on the Course Calendar."
   },
   {
     "objectID": "assignments.html#questions",
