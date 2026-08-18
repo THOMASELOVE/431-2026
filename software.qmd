@@ -17,7 +17,7 @@ The installation steps you need to complete are:
 
     - If you have a pre-existing installation of R and/or RStudio, you will have an easier time this semester if you re-install both to get current.
 
-2. Download and install RStudio Desktop (Open Source Edition - **2026.07.1-147** or later) by visiting [this link](https://docs.posit.co/ide/user/#rstudio-ide-oss-downloads).
+2. Download and install RStudio Desktop (Open Source Edition - **2026.08.0-187** or later) by visiting [this link](https://docs.posit.co/ide/user/#rstudio-ide-oss-downloads).
 
     - If you are familiar with the [Positron](https://positron.posit.co/) development environment and prefer to use it, that **might** be OK, but the 431 staff will exclusively use and support RStudio.
     
