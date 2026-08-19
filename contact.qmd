@@ -37,7 +37,7 @@ DATE | TIME(S) (All times Eastern)
 :--------: | :----------------------------------
 Sundays | 1:00 - 2:00 PM, 5:30 - 8:30 PM
 Mondays | 2:00 - 5:00 PM, 5:30 - 7:30 PM, 8:00 - 9:00 PM
-Tuesdays | 9:00 - 10:00 PM
+Tuesdays | 5:30 - 7:30 PM, 9:00 - 10:00 PM
 Wednesdays | none
 Thursdays | 10:00 AM - Noon
 Fridays | 10:00 AM - Noon, 12:30 - 2:30 PM, 3:00 - 5:00 PM

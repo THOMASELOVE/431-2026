@@ -7,7 +7,7 @@ website:
   announcement: 
     icon: tornado
     dismissable: true
-    content: "**ALERT**: EVERYTHING here is **preliminary**, and thus **subject to change** before class begins on 2026-08-25."
+    content: "**ALERT**: Some things on this page may change before class begins on 2026-08-25."
     type: primary
     position: below-navbar
   margin-header: |
