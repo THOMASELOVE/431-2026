@@ -11,7 +11,7 @@ In addition to the links below, our [Syllabus](https://thomaselove.github.io/431
 
 The most important assignments this semester are the projects. 
 
-- The [Project A page](https://github.com/THOMASELOVE/431-projectA-2026) provides instructions and materials related to Project A.
+- The [Project A page](https://thomaselove.github.io/431-projectA-2026/) provides instructions and materials related to Project A.
 - The [Project B page](https://github.com/THOMASELOVE/431-projectB-2026) provides Project B instructions and materials.
 
 Project deadlines are specified on the [Course Calendar](calendar.qmd). 

@@ -24,7 +24,7 @@ Class | Day | Date | Details
 
 Class | Day | Date | Details
 :-----: | :---: | ---------- | ----------------------------
-[Class 03](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class03) | TU | 2026-09-01 | Using R, Data Visualization and Summary ([TEL](https://thomaselove.github.io/431-book/) 1-3)
+[Class 03](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class03) | TU | 2026-09-01 | Using R, Data Visualization and Summary <br> [Project A](https://thomaselove.github.io/431-projectA-2026/) Introduction ([TEL](https://thomaselove.github.io/431-book/) 1-3)
 **deadline** | **W** | 2026-09-02 | **Noon**: [Minute Paper](https://github.com/THOMASELOVE/431-minute-2026) after Class 03 due 
 [Class 04](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class04) | TH | 2026-09-03 | Data Wrangling, Preparing for [Lab 1](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab1) ([TEL](https://thomaselove.github.io/431-book/) 1-4)
 *reading* | -- | by Class 05 | Spiegelhalter, Chapter 3 <br> [R4DS](https://r4ds.hadley.nz/): complete Sections 1-8 ("Whole game")
@@ -54,11 +54,11 @@ Class | Day | Date | Details
 [Class 14](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class14) | TH | 2026-10-08 | Power and Sample Size Considerations ([TEL](https://thomaselove.github.io/431-book/) 15)
 -- | F | 2026-10-09 | **5 PM** [Quiz 1](https://github.com/THOMASELOVE/431-quiz-2026) will be made available to you
 *reading* | -- | by Class 15 | Spiegelhalter, Chapter 10
-[Class 15](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class15) | TU | 2026-10-13 | Review, Catch-Up, Ask Me Anything about Quiz 1 or Project A
+[Class 15](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class15) | TU | 2026-10-13 | Review, Catch-Up, Ask Me Anything about Quiz 1 or [Project A](https://thomaselove.github.io/431-projectA-2026/)
 **deadline** | **W** | 2026-10-14 | **Noon**: [Quiz 1](https://github.com/THOMASELOVE/431-quiz-2026) Answer Form is due
 [Class 16](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class16) | TH | 2026-10-15 | Making Adjusted Comparisons ([TEL](https://thomaselove.github.io/431-book/) 16)
 -- | TU | 2026-10-20 | CWRU Fall Break (no 431 today)
-**deadline** | **W** | 2026-10-21 | **Noon**: [Project A](https://github.com/THOMASELOVE/431-projectA-2026) due to Canvas
+**deadline** | **W** | 2026-10-21 | **Noon**: [Project A](https://thomaselove.github.io/431-projectA-2026/) due to Canvas
 [Class 17](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class17) | TH | 2026-10-22 | Dealing with Missing Data ([TEL](https://thomaselove.github.io/431-book/) 17)
 *reading* | -- | by Class 18 | Spiegelhalter, Chapter 11
 [Class 18](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class18) | TU | 2026-10-27 | Two-Factor Analysis of Variance ([TEL](https://thomaselove.github.io/431-book/) 18)
