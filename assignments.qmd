@@ -3,7 +3,7 @@ title: "Assignments for 431 in Fall 2026"
 date: last-modified
 ---
 
-Assignments for 431 include three [projects](#projects), seven [labs](#labs), two [quizzes]($quizzes), and a series of [minute papers](#minute-papers).
+Assignments for 431 include two [projects](#projects), seven [labs](#labs), two [quizzes]($quizzes), and a series of [minute papers](#minute-papers).
 
 In addition to the links below, our [Syllabus](https://thomaselove.github.io/431-syllabus-2026/) is your best source for additional information on all course [assignments](https://thomaselove.github.io/431-syllabus-2026/10_assignments.html), as well as on how the course is [graded](https://thomaselove.github.io/431-syllabus-2026/11_grading.html).
 
