@@ -7,7 +7,7 @@ website:
   announcement: 
     icon: tornado
     dismissable: true
-    content: "**ALERT**: Some things on this page may change before class begins on 2026-08-25."
+    content: "**Welcome to 431! Class begins 2026-08-25."
     type: primary
     position: below-navbar
   margin-header: |
@@ -44,9 +44,9 @@ website:
         - text: "Labs"
           href: https://github.com/THOMASELOVE/431-labs-2026
         - text: "Project A"
-          href: https://github.com/THOMASELOVE/431-projectA-2026
+          href: https://thomaselove.github.io/431-projectA-2026/
         - text: "Project B"
-          href: https://github.com/THOMASELOVE/431-projectB-2026
+          href: https://thomaselove.github.io/431-projectB-2026/
         - text: "Quizzes"
           href: https://github.com/THOMASELOVE/431-quiz-2026
         - text: "Canvas"

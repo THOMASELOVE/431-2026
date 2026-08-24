@@ -6,7 +6,7 @@ date: last-modified
 
 # Welcome! 
 
-431 is the first part of a two-semester course (together with 432) on applied statistics and data science taught by Professor Thomas E. Love in the [Department of Population and Quantitative Health Sciences](https://case.edu/medicine/pqhs/) at [Case Western Reserve University](https://case.edu/).
+431 is the first part of a two-semester course (together with 432) on applied statistics and data science led by Professor Thomas E. Love in the [Department of Population and Quantitative Health Sciences](https://case.edu/medicine/pqhs/) at [Case Western Reserve University](https://case.edu/).
 
 ## Getting Started
 
