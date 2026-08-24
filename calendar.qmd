@@ -70,7 +70,7 @@ Class | Day | Date | Details
 Class | Day | Date | Details
 :-----: | :---: | ---------- | ----------------------------
 -- | TU | 2026-11-03 | Election Day (no 431 today; CWRU is in session)
-**deadline** | **W** | 2026-11-04 | **Noon**: [Lab 5](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab5) due via email to Dr. Love <br> **Noon**: [Project B](https://github.com/THOMASELOVE/431-projectB-2026) Registration Form due
+**deadline** | **W** | 2026-11-04 | **Noon**: [Lab 5](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab5) due via email to Dr. Love <br> **Noon**: [Project B](https://thomaselove.github.io/431-projectB-2026/) [Registration Form](https://thomaselove.github.io/431-projectB-2026/register.html) due
 [Class 20](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class20) | TH | 2026-11-05 | Multiple Linear Regression, 2 ([TEL](https://thomaselove.github.io/431-book/) 19-20)
 *reading* | -- | by Class 21 | Spiegelhalter, Chapters 12-13
 [Class 21](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class21) | TU | 2026-11-10 | Multiple Linear Regression, 3 ([TEL](https://thomaselove.github.io/431-book/) 19-21)
@@ -92,15 +92,17 @@ Class | Day | Date | Details
 [Class 25](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class25) | TU | 2026-12-01 | To Be Announced
 **deadline** | **W** | 2026-12-02 | **Noon**: [Minute Paper](https://github.com/THOMASELOVE/431-minute-2026) after Class 25 due
 [Class 26](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class26) | TH | 2026-12-03 | Final Class
--- | F | 2026-12-04 | Project B presentations, Day 1 (see [below](#project-b-presentation-scheduling))
--- | M | 2026-12-07 | Project B presentations, Day 2 (see [below](#project-b-presentation-scheduling))
--- | TU | 2026-12-08 | Project B presentations, Day 3 (see [below](#project-b-presentation-scheduling))
--- | W | 2026-12-09 | Project B presentations, Day 4 (see [below](#project-b-presentation-scheduling))
-**deadline** | **F** | 2026-12-11 | **Noon**: [Project B](https://github.com/THOMASELOVE/431-projectB-2026) materials due to Canvas <br> **Noon**: (optional) [431 Regrade Request Form](https://tinyurl.com/431-2026-regrade-request) due
+-- | F | 2026-12-04 | [Project B](https://thomaselove.github.io/431-projectB-2026/) presentations, Day 1 (see [below](#project-b-presentation-scheduling))
+-- | M | 2026-12-07 | [Project B](https://thomaselove.github.io/431-projectB-2026/) presentations, Day 2 (see [below](#project-b-presentation-scheduling))
+-- | TU | 2026-12-08 | [Project B](https://thomaselove.github.io/431-projectB-2026/) presentations, Day 3 (see [below](#project-b-presentation-scheduling))
+-- | W | 2026-12-09 | [Project B](https://thomaselove.github.io/431-projectB-2026/) presentations, Day 4 (see [below](#project-b-presentation-scheduling))
+**deadline** | **F** | 2026-12-11 | **Noon**: [Project B](https://thomaselove.github.io/431-projectB-2026/) materials due to Canvas <br>
+**Noon**: [Project B](https://thomaselove.github.io/431-projectB-2026/) [Self-Evaluation Form](https://thomaselove.github.io/431-projectB-2026/self_eval.html) due
+**Noon**: (optional) [431 Regrade Request Form](https://tinyurl.com/431-2026-regrade-request) due
 
 ### Project B Presentation Scheduling
 
-You will give your Project B presentation to Dr. Love (via Zoom or in person) on **one** of the four dates: Friday 2026-12-04, Monday 2026-12-07, Tuesday 2026-12-08, or Wednesday 2026-12-09. We will schedule these presentations in early November based on responses to the Project B registration form. Your time commitment on the day you are assigned will be no more than one hour long.
+You will give your [Project B](https://thomaselove.github.io/431-projectB-2026/) presentation to Dr. Love (via Zoom or in person) on **one** of the four dates: Friday 2026-12-04, Monday 2026-12-07, Tuesday 2026-12-08, or Wednesday 2026-12-09. We will schedule these presentations in early November based on responses to the [Project B registration form](https://thomaselove.github.io/431-projectB-2026/register.html). Your time commitment on the day you are assigned will be no more than one hour long.
 
 ## Getting Help
 
@@ -111,7 +113,8 @@ Visit the [Contact Us page](contact.qmd) for ways to get help in this class.
 TA Office Hours for 431 will begin on Sunday 2026-08-30 and continue through Tuesday 2026-12-08. 
 
 - All TA Office Hours are held over Zoom. 
-- Our [Shared Google Drive (431 Fall 2026 Dr Love and Students)](google.qmd) will display Zoom links for all TA office hours in a document called **431 TA office hours schedule and Zoom links**. 
+- Our [Shared Google Drive (431 Fall 2026 Dr Love and Students)](google.qmd) will display Zoom links for all TA office hours in a document called **431 TA office hours schedule and Zoom links**. This information is also posted in an announcement on [Canvas](https://canvas.case.edu/).
+
 - No appointment is necessary. Please just drop in.
 
 DATE | TIME(S) (All times Eastern)

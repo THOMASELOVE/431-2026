@@ -7,7 +7,7 @@ website:
   announcement: 
     icon: tornado
     dismissable: true
-    content: "**Welcome to 431! Class begins 2026-08-25."
+    content: "Welcome to 431! Our first class starts at 1 PM on Tuesday 2026-08-25 in room E321-323 of the Robbins building at the CWRU School of Medicine."
     type: primary
     position: below-navbar
   margin-header: |
