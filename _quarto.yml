@@ -5,9 +5,9 @@ project:
 website:
   title: "431-2026"
   announcement: 
-    icon: tornado
+    icon: info-circle
     dismissable: true
-    content: "Welcome to 431! Our first class starts at 1 PM on Tuesday 2026-08-25 in room E321-323 of the Robbins building at the CWRU School of Medicine."
+    content: "Minute Paper after Class 3 due Wednesday 2026-09-02 at noon! Lab 1 due 2026-09-09."
     type: primary
     position: below-navbar
   margin-header: |
