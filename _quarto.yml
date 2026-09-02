@@ -7,7 +7,7 @@ website:
   announcement: 
     icon: info-circle
     dismissable: true
-    content: "Minute Paper after Class 3 due Wednesday 2026-09-02 at noon! Lab 1 due 2026-09-09."
+    content: "Lab 1 due Wednesday 2026-09-09 at noon."
     type: primary
     position: below-navbar
   margin-header: |
