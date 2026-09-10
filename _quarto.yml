@@ -7,7 +7,7 @@ website:
   announcement: 
     icon: info-circle
     dismissable: true
-    content: "Lab 1 due Wednesday 2026-09-09 at noon."
+    content: "Lab 2 due Wednesday 2026-09-16 at noon."
     type: primary
     position: below-navbar
   margin-header: |
