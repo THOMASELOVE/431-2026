@@ -30,11 +30,11 @@ Class | Day | Date | Details
 *reading* | -- | by Class 05 | Spiegelhalter, Chapter 3 <br> [R4DS](https://r4ds.hadley.nz/): complete Sections 1-8 ("Whole game")
 [Class 05](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class05) | TU | 2026-09-08 | Comparing Means, Study Designs ([TEL](https://thomaselove.github.io/431-book/) 5-6)
 **deadline** | **W** | 2026-09-09 | **Noon**: [Minute Paper](https://github.com/THOMASELOVE/431-minute-2026) after Class 05 due <br> **Noon**: [Lab 1](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab1) due to Canvas
-[Class 06](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class06) | TH | 2026-09-10 | Uncertainty Intervals, Transformation ([TEL](https://thomaselove.github.io/431-book/) 7)
+[Class 06](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class06) | TH | 2026-09-10 | Comparing Two Samples ([TEL](https://thomaselove.github.io/431-book/) 5-6)
 *reading* | -- | by Class 07 | Spiegelhalter, Chapter 5 (we'll read Chapter 4 later.) <br> [R4DS](https://r4ds.hadley.nz/): "Visualize": sections 9-11
-[Class 07](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class07) | TU | 2026-09-15 | Comparing Multiple Groups, 1 ([TEL](https://thomaselove.github.io/431-book/) 8-9)
+[Class 07](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class07) | TU | 2026-09-15 | Uncertainty Intervals, Transformation ([TEL](https://thomaselove.github.io/431-book/) 7)
 **deadline** | **W** | 2026-09-16 | **Noon**: [Minute Paper](https://github.com/THOMASELOVE/431-minute-2026) after Class 07 due <br> **Noon**: [Lab 2](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab2) due to Canvas
-[Class 08](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class08) | TH | 2026-09-17 | Comparing Multiple Groups, 2 ([TEL](https://thomaselove.github.io/431-book/) 8-9)
+[Class 08](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class08) | TH | 2026-09-17 | Comparing 3+ Groups: One-Way ANOVA ([TEL](https://thomaselove.github.io/431-book/) 8-9)
 *reading* | -- | by Class 09 | Spiegelhalter, Chapter 7 (we'll read Chapter 6 later.) <br> [R4DS](https://r4ds.hadley.nz/): sections 16 and 28
 [Class 09](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class09) | TU | 2026-09-22 | Linear Regression & Association ([TEL](https://thomaselove.github.io/431-book/) 10)
 **deadline** | **W** | 2026-09-23 | **Noon**: [Lab 3](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab3) due to Canvas
