@@ -41,7 +41,7 @@ Class | Day | Date | Details
 [Class 10](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class10) | TH | 2026-09-24 | Linear Model Assessment ([TEL](https://thomaselove.github.io/431-book/) 10-11)
 *reading* | -- | by Class 11 | Spiegelhalter, Chapter 8 <br> ASA 2016 [Statement on p-values](https://amstat.tandfonline.com/doi/full/10.1080/00031305.2016.1154108) Excerpts
 [Class 11](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class11) | TU | 2026-09-29 | Why Statistical Significance is useless ([TEL](https://thomaselove.github.io/431-book/) 12)
-**deadline** | **W** | 2026-09-30 | **Noon**: [Minute Paper](https://github.com/THOMASELOVE/431-minute-2026) after Class 11 due <br> **Noon**: [Lab 4](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab4) due to Canvas
+**deadline** | **W** | 2026-09-30 | **Noon**: [Project A Check-in](https://tinyurl.com/431-2026-projectA-checkin) form due
 
 ## October
 
@@ -50,7 +50,7 @@ Class | Day | Date | Details
 [Class 12](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class12) | TH | 2026-10-01 | Comparing Proportions, Two-by-Two Tables ([TEL](https://thomaselove.github.io/431-book/) 13)
 *reading* | -- | by Class 13 | Spiegelhalter, Chapter 9 <br> ASA 2019: [Statistical Inference in the 21st Century](https://amstat.tandfonline.com/toc/utas20/73/sup1) Excerpts
 [Class 13](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class13) | TU | 2026-10-06 | Larger Cross-Tabulations ([TEL](https://thomaselove.github.io/431-book/) 14)
-**deadline** | **W** | 2026-10-07 | **Noon**: [Minute Paper](https://github.com/THOMASELOVE/431-minute-2026) after Class 13 due
+**deadline** | **W** | 2026-10-07 | **Noon**: [Minute Paper](https://github.com/THOMASELOVE/431-minute-2026) after Class 13 due <br> **Noon**: [Lab 4](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab4) due to Canvas
 [Class 14](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class14) | TH | 2026-10-08 | Power and Sample Size Considerations ([TEL](https://thomaselove.github.io/431-book/) 15)
 -- | F | 2026-10-09 | **5 PM** [Quiz 1](https://github.com/THOMASELOVE/431-quiz-2026) will be made available to you
 *reading* | -- | by Class 15 | Spiegelhalter, Chapter 10
