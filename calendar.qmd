@@ -37,7 +37,7 @@ Class | Day | Date | Details
 [Class 08](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class08) | TH | 2026-09-17 | Comparing 3+ Groups: One-Way ANOVA ([TEL](https://thomaselove.github.io/431-book/) 8-9)
 *reading* | -- | by Class 09 | Spiegelhalter, Chapter 7 (we'll read Chapter 6 later.) <br> [R4DS](https://r4ds.hadley.nz/): sections 16 and 28
 [Class 09](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class09) | TU | 2026-09-22 | Linear Regression & Association ([TEL](https://thomaselove.github.io/431-book/) 10)
-**deadline** | **W** | 2026-09-23 | **Noon**: [Lab 3](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab3) due to Canvas
+**deadline** | **W** | 2026-09-23 | **Noon**: [Lab 3](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab3) due to Canvas <br> **Noon**: [Minute Paper](https://github.com/THOMASELOVE/431-minute-2026) after Class 09 due
 [Class 10](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class10) | TH | 2026-09-24 | Linear Model Assessment ([TEL](https://thomaselove.github.io/431-book/) 10-11)
 *reading* | -- | by Class 11 | Spiegelhalter, Chapter 8 <br> ASA 2016 [Statement on p-values](https://amstat.tandfonline.com/doi/full/10.1080/00031305.2016.1154108) Excerpts
 [Class 11](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class11) | TU | 2026-09-29 | Why Statistical Significance is useless ([TEL](https://thomaselove.github.io/431-book/) 12)
