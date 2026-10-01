@@ -63,20 +63,6 @@
     "text": "All class sessions will be held from 1:00 to 2:15 PM in Room E321-323 on the third floor of the Robbins building at CWRU’s School of Medicine.\nReadings come from:"
   },
   {
-    "objectID": "calendar.html#august",
-    "href": "calendar.html#august",
-    "title": "Course Calendar",
-    "section": "August",
-    "text": "August\n\n\n\nClass\nDay\nDate\nDetails\n\n\n\n\nClass 01\nTU\n2026-08-25\nIntroduction, Getting Started, Age Guessing\n\n\ndeadline\nW\n2026-08-26\nNoon: Welcome to 431 Survey due\n\n\nClass 02\nTH\n2026-08-27\nSome Initial Explorations, Data Collection (TEL 1-3)\n\n\nreading\n–\nby Class 03\nSpiegelhalter, Introduction and Chapters 1-2  R4DS: Introduction, start Sections 1-8 (“Whole game”)"
-  },
-  {
-    "objectID": "calendar.html#september",
-    "href": "calendar.html#september",
-    "title": "Course Calendar",
-    "section": "September",
-    "text": "September\n\n\n\nClass\nDay\nDate\nDetails\n\n\n\n\nClass 03\nTU\n2026-09-01\nUsing R, Data Visualization and Summary  Project A Introduction (TEL 1-3)\n\n\ndeadline\nW\n2026-09-02\nNoon: Minute Paper after Class 03 due\n\n\nClass 04\nTH\n2026-09-03\nData Wrangling, Preparing for Lab 1 (TEL 1-4)\n\n\nreading\n–\nby Class 05\nSpiegelhalter, Chapter 3  R4DS: complete Sections 1-8 (“Whole game”)\n\n\nClass 05\nTU\n2026-09-08\nComparing Means, Study Designs (TEL 5-6)\n\n\ndeadline\nW\n2026-09-09\nNoon: Minute Paper after Class 05 due  Noon: Lab 1 due to Canvas\n\n\nClass 06\nTH\n2026-09-10\nComparing Two Samples (TEL 5-6)\n\n\nreading\n–\nby Class 07\nSpiegelhalter, Chapter 5 (we’ll read Chapter 4 later.)  R4DS: “Visualize”: sections 9-11\n\n\nClass 07\nTU\n2026-09-15\nUncertainty Intervals, Transformation (TEL 7)\n\n\ndeadline\nW\n2026-09-16\nNoon: Minute Paper after Class 07 due  Noon: Lab 2 due to Canvas\n\n\nClass 08\nTH\n2026-09-17\nComparing 3+ Groups: One-Way ANOVA (TEL 8-9)\n\n\nreading\n–\nby Class 09\nSpiegelhalter, Chapter 7 (we’ll read Chapter 6 later.)  R4DS: sections 16 and 28\n\n\nClass 09\nTU\n2026-09-22\nLinear Regression & Association (TEL 10)\n\n\ndeadline\nW\n2026-09-23\nNoon: Lab 3 due to Canvas  Noon: Minute Paper after Class 09 due\n\n\nClass 10\nTH\n2026-09-24\nLinear Model Assessment (TEL 10-11)\n\n\nreading\n–\nby Class 11\nSpiegelhalter, Chapter 8  ASA 2016 Statement on p-values Excerpts\n\n\nClass 11\nTU\n2026-09-29\nWhy Statistical Significance is useless (TEL 12)\n\n\ndeadline\nW\n2026-09-30\nNoon: Project A Check-in form due"
-  },
-  {
     "objectID": "calendar.html#october",
     "href": "calendar.html#october",
     "title": "Course Calendar",
@@ -96,6 +82,20 @@
     "title": "Course Calendar",
     "section": "December",
     "text": "December\n\n\n\nClass\nDay\nDate\nDetails\n\n\n\n\nreading\n–\nby Class 25\nSpiegelhalter, rest of book (Chapters 4, 6, 14)\n\n\ndeadline\nM\n2026-11-30\n4 PM: Quiz 2 Answer Form is due\n\n\nClass 25\nTU\n2026-12-01\nTo Be Announced\n\n\ndeadline\nW\n2026-12-02\nNoon: Minute Paper after Class 25 due\n\n\nClass 26\nTH\n2026-12-03\nFinal Class\n\n\n–\nF\n2026-12-04\nProject B presentations, Day 1 (see below)\n\n\n–\nM\n2026-12-07\nProject B presentations, Day 2 (see below)\n\n\n–\nTU\n2026-12-08\nProject B presentations, Day 3 (see below)\n\n\n–\nW\n2026-12-09\nProject B presentations, Day 4 (see below)\n\n\ndeadline\nF\n2026-12-11\nNoon: Project B materials due to Canvas \n\n\n\nNoon: Project B Self-Evaluation Form due Noon: (optional) 431 Regrade Request Form due\n\nProject B Presentation Scheduling\nYou will give your Project B presentation to Dr. Love (via Zoom or in person) on one of the four dates: Friday 2026-12-04, Monday 2026-12-07, Tuesday 2026-12-08, or Wednesday 2026-12-09. We will schedule these presentations in early November based on responses to the Project B registration form. Your time commitment on the day you are assigned will be no more than one hour long."
+  },
+  {
+    "objectID": "calendar.html#august",
+    "href": "calendar.html#august",
+    "title": "Course Calendar",
+    "section": "August",
+    "text": "August\n\n\n\nClass\nDay\nDate\nDetails\n\n\n\n\nClass 01\nTU\n2026-08-25\nIntroduction, Getting Started, Age Guessing\n\n\ndeadline\nW\n2026-08-26\nNoon: Welcome to 431 Survey due\n\n\nClass 02\nTH\n2026-08-27\nSome Initial Explorations, Data Collection (TEL 1-3)\n\n\nreading\n–\nby Class 03\nSpiegelhalter, Introduction and Chapters 1-2  R4DS: Introduction, start Sections 1-8 (“Whole game”)"
+  },
+  {
+    "objectID": "calendar.html#september",
+    "href": "calendar.html#september",
+    "title": "Course Calendar",
+    "section": "September",
+    "text": "September\n\n\n\nClass\nDay\nDate\nDetails\n\n\n\n\nClass 03\nTU\n2026-09-01\nUsing R, Data Visualization and Summary  Project A Introduction (TEL 1-3)\n\n\ndeadline\nW\n2026-09-02\nNoon: Minute Paper after Class 03 due\n\n\nClass 04\nTH\n2026-09-03\nData Wrangling, Preparing for Lab 1 (TEL 1-4)\n\n\nreading\n–\nby Class 05\nSpiegelhalter, Chapter 3  R4DS: complete Sections 1-8 (“Whole game”)\n\n\nClass 05\nTU\n2026-09-08\nComparing Means, Study Designs (TEL 5-6)\n\n\ndeadline\nW\n2026-09-09\nNoon: Minute Paper after Class 05 due  Noon: Lab 1 due to Canvas\n\n\nClass 06\nTH\n2026-09-10\nComparing Two Samples (TEL 5-6)\n\n\nreading\n–\nby Class 07\nSpiegelhalter, Chapter 5 (we’ll read Chapter 4 later.)  R4DS: “Visualize”: sections 9-11\n\n\nClass 07\nTU\n2026-09-15\nUncertainty Intervals, Transformation (TEL 7)\n\n\ndeadline\nW\n2026-09-16\nNoon: Minute Paper after Class 07 due  Noon: Lab 2 due to Canvas\n\n\nClass 08\nTH\n2026-09-17\nComparing 3+ Groups: One-Way ANOVA (TEL 8-9)\n\n\nreading\n–\nby Class 09\nSpiegelhalter, Chapter 7 (we’ll read Chapter 6 later.)  R4DS: sections 16 and 28\n\n\nClass 09\nTU\n2026-09-22\nLinear Regression & Association (TEL 10)\n\n\ndeadline\nW\n2026-09-23\nNoon: Lab 3 due to Canvas  Noon: Minute Paper after Class 09 due\n\n\nClass 10\nTH\n2026-09-24\nLinear Model Assessment (TEL 10-11)\n\n\nreading\n–\nby Class 11\nSpiegelhalter, Chapter 8  ASA 2016 Statement on p-values Excerpts\n\n\nClass 11\nTU\n2026-09-29\nWhy Statistical Significance is useless (TEL 12)\n\n\ndeadline\nW\n2026-09-30\nNoon: Project A Check-in form due"
   },
   {
     "objectID": "calendar.html#getting-help",
