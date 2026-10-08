@@ -7,7 +7,7 @@ website:
   announcement: 
     icon: calendar-check
     dismissable: true
-    content: "Next major deliverable: Lab 4 2026-10-07 at noon. Quiz 1 comes to you 2026-10-09."
+    content: "Quiz 1 arrives 2026-10-09, and is due 2026-10-14 at noon. Ask quiz questions via 431-help ONLY. Project A due 2026-10-21."
     type: info
     position: below-navbar
   margin-header: |

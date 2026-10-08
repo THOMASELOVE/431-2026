@@ -26,7 +26,8 @@ Class | Day | Date | Details
 [Class 15](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class15) | TU | 2026-10-13 | Review, Catch-Up, Ask Me Anything about Quiz 1 or [Project A](https://thomaselove.github.io/431-projectA-2026/)
 **deadline** | **W** | 2026-10-14 | **Noon**: [Quiz 1](https://github.com/THOMASELOVE/431-quiz-2026) Answer Form is due
 [Class 16](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class16) | TH | 2026-10-15 | Making Adjusted Comparisons ([TEL](https://thomaselove.github.io/431-book/) 16)
--- | TU | 2026-10-20 | CWRU Fall Break (no 431 today)
+-- | M | 2026-10-19 | CWRU Fall Break (no TA office hours)
+-- | TU | 2026-10-20 | CWRU Fall Break (no 431 and no TA office hours today)
 **deadline** | **W** | 2026-10-21 | **Noon**: [Project A](https://thomaselove.github.io/431-projectA-2026/) due to Canvas
 [Class 17](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class17) | TH | 2026-10-22 | Dealing with Missing Data ([TEL](https://thomaselove.github.io/431-book/) 17)
 *reading* | -- | by Class 18 | Spiegelhalter, Chapter 11
