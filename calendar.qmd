@@ -28,9 +28,9 @@ Class | Day | Date | Details
 [Class 16](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class16) | TH | 2026-10-15 | Making Adjusted Comparisons ([TEL](https://thomaselove.github.io/431-book/) 16)
 -- | M | 2026-10-19 | CWRU Fall Break (no TA office hours)
 -- | TU | 2026-10-20 | CWRU Fall Break (no 431 and no TA office hours today)
-**deadline** | **W** | 2026-10-21 | **Noon**: [Project A](https://thomaselove.github.io/431-projectA-2026/) due to Canvas
 [Class 17](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class17) | TH | 2026-10-22 | Dealing with Missing Data ([TEL](https://thomaselove.github.io/431-book/) 17)
 *reading* | -- | by Class 18 | Spiegelhalter, Chapter 11
+**deadline** | **M** | 2026-10-26 | **9 AM**: [Project A](https://thomaselove.github.io/431-projectA-2026/) due to Canvas (**NEW Date!**)
 [Class 18](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class18) | TU | 2026-10-27 | Two-Factor Analysis of Variance ([TEL](https://thomaselove.github.io/431-book/) 18)
 **deadline** | **W** | 2026-10-28 | **Noon**: [Minute Paper](https://github.com/THOMASELOVE/431-minute-2026) after Class 18 due
 [Class 19](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class19) | TH | 2026-10-29 | Multiple Linear Regression, 1 ([TEL](https://thomaselove.github.io/431-book/) 19)
