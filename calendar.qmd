@@ -40,7 +40,7 @@ Class | Day | Date | Details
 Class | Day | Date | Details
 :-----: | :---: | ---------- | ----------------------------
 -- | TU | 2026-11-03 | Election Day (no 431 today; CWRU is in session)
-**deadline** | **W** | 2026-11-04 | **Noon**: [Lab 5](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab5) due via email to Dr. Love <br> **Noon**
+**deadline** | **W** | 2026-11-04 | **Noon**: [Lab 5](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab5) due via email to Dr. Love
 [Class 20](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class20) | TH | 2026-11-05 | Multiple Linear Regression, 2 ([TEL](https://thomaselove.github.io/431-book/) 19-20)
 *reading* | -- | by Class 21 | Spiegelhalter, Chapters 12-13
 **deadline** | **Sa** | 2026-11-07 | **9 AM**: [Project B](https://thomaselove.github.io/431-projectB-2026/) [Registration Form](https://thomaselove.github.io/431-projectB-2026/register.html) now due.
