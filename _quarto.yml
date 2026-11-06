@@ -7,7 +7,7 @@ website:
   announcement: 
     icon: calendar-check
     dismissable: true
-    content: "Project B registration form due Saturday 2026-11-07 at 9 AM."
+    content: "Project B registration form due Saturday 2026-11-07 at 9 AM. Lab 6 due Wednesday 2026-11-11 at Noon."
     type: info
     position: below-navbar
   margin-header: |
