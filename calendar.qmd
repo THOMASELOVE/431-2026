@@ -30,7 +30,7 @@ Class | Day | Date | Details
 -- | F | 2026-11-20 | **5 PM** [Quiz 2](https://github.com/THOMASELOVE/431-quiz-2026)  made available
 -- | TU | 2026-11-24 | Thanksgiving (no 431 today; CWRU is in session)
 -- | TH | 2026-11-26 | CWRU Thanksgiving Break (no 431 today)
--- | M | 2026-11-30 | [Project B revised plan](https://tinyurl.com/431-2026-revised-projB-plan) due at Noon for those asked to do it.
+-- | M | 2026-11-30 | [Project B revised plan](https://tinyurl.com/431-2026-revised-projB-plan) due at Noon for [those asked to do it](https://github.com/THOMASELOVE/431-classes-2026/tree/main/projectB).
 
 ## December
 
@@ -41,17 +41,11 @@ Class | Day | Date | Details
 [Class 25](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class25) | TU | 2026-12-01 | To Be Announced
 **deadline** | **W** | 2026-12-02 | **Noon**: [Minute Paper](https://github.com/THOMASELOVE/431-minute-2026) after Class 25 due
 [Class 26](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class26) | TH | 2026-12-03 | Final Class
--- | F | 2026-12-04 | [Project B](https://thomaselove.github.io/431-projectB-2026/) presentations, Day 1 (see [below](#project-b-presentation-scheduling))
--- | M | 2026-12-07 | [Project B](https://thomaselove.github.io/431-projectB-2026/) presentations, Day 2 (see [below](#project-b-presentation-scheduling))
--- | TU | 2026-12-08 | [Project B](https://thomaselove.github.io/431-projectB-2026/) presentations, Day 3 (see [below](#project-b-presentation-scheduling))
--- | W | 2026-12-09 | [Project B](https://thomaselove.github.io/431-projectB-2026/) presentations, Day 4 (see [below](#project-b-presentation-scheduling))
-**deadline** | **F** | 2026-12-11 | **Noon**: [Project B](https://thomaselove.github.io/431-projectB-2026/) materials due to Canvas <br>
-**Noon**: [Project B](https://thomaselove.github.io/431-projectB-2026/) [Self-Evaluation Form](https://thomaselove.github.io/431-projectB-2026/self_eval.html) due
-**Noon**: (optional) [431 Regrade Request Form](https://tinyurl.com/431-2026-regrade-request) due
+-- | F | 2026-12-04 | [Project B](https://thomaselove.github.io/431-projectB-2026/) presentations, Day 1 <br> [Schedule is here](https://github.com/THOMASELOVE/431-classes-2026/tree/main/projectB) and Zoom information is on our Shared Drive
+-- | M | 2026-12-07 | [Project B](https://thomaselove.github.io/431-projectB-2026/) presentations, Day 2 <br> [Schedule is here](https://github.com/THOMASELOVE/431-classes-2026/tree/main/projectB) and Zoom information is on our Shared Drive
+-- | TU | 2026-12-08 | [Project B](https://thomaselove.github.io/431-projectB-2026/) presentations, Day 3 <br> [Schedule is here](https://github.com/THOMASELOVE/431-classes-2026/tree/main/projectB) and Zoom information is on our Shared Drive
+**deadline** | **F** | 2026-12-11 | **Noon**: [Project B](https://thomaselove.github.io/431-projectB-2026/) materials due to Canvas <br> **Noon**: [Project B](https://thomaselove.github.io/431-projectB-2026/) [Self-Evaluation Form](https://thomaselove.github.io/431-projectB-2026/self_eval.html) due <br> **Noon**: (optional) [431 Regrade Request Form](https://tinyurl.com/431-2026-regrade-request) due
 
-### Project B Presentation Scheduling
-
-You will give your [Project B](https://thomaselove.github.io/431-projectB-2026/) presentation to Dr. Love (via Zoom or in person) on **one** of the four dates: Friday 2026-12-04, Monday 2026-12-07, Tuesday 2026-12-08, or Wednesday 2026-12-09. We will schedule these presentations in early November based on responses to the [Project B registration form](https://thomaselove.github.io/431-projectB-2026/register.html). Your time commitment on the day you are assigned will be no more than one hour long.
 
 ## August
 
