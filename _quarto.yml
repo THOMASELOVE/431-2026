@@ -7,7 +7,7 @@ website:
   announcement: 
     icon: calendar-check
     dismissable: true
-    content: "Minute Paper after Class 21 and Lab 6 due Wednesday 2026-11-11 at Noon."
+    content: "Lab 7 due Wednesday 2026-11-18 at Noon."
     type: info
     position: below-navbar
   margin-header: |
